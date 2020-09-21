@@ -23,6 +23,7 @@ for line in text:
                 co[course_code] = i.strip()
 for i in pre:
     print(i, pre[i])
+    #hehe
 
 
 
