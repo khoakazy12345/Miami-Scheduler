@@ -1,0 +1,165 @@
+	Chemical, Paper & Biomedical Engineering (CPB) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+Chemical, Paper &​ Biomedical Engineering (CPB)
+General Course Information
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Chemical, Paper & Biomedical Engineering (CPB)
+Chemical, Paper & Biomedical Engineering (CPB)
+CPB 102.  Introduction to Chemical and Biomedical Engineering.  (3)
+This course introduces an approach to problem solving for engineering students. Students will apply systematic approaches to problem solving including mathematics and quantitative methods appropriate to chemical engineering and bioengineering. The course introduces computational and discipline-specific tools to assist in problem analysis, modeling, design, and hands-on learning. Students will demonstrate engineering solutions to problems in the laboratory. Students will practice their teamwork and communication skills. This course is open to all majors. Credit will be given for only one of CPB 102, CSE 102, ECE 102, MME 102, CEC 102.Prerequisite or Co-requisite: MTH 151.
+CPB 177.  Independent Studies.  (0-6)
+CPB 201.  Principles of Paper Science and Engineering.  (3)
+Introduction to pulping and papermaking. Course will discuss scientific and engineering aspects of papermaking from fiber procurement through pulping, conditioning, papermachine and converting. Develop practical lab skills. Apply engineering skills to problem solving related to paper industry.Prerequisite: CHM 141.
+CPB 202.  Pulp and Paper Physics.  (3)
+Discovery of how pulping, papermaking and converting are utilized to develop required performance properties of products from paper. Conduct laboratory investigations to determine the properties of paper made in the laboratory and from a pilot paper machine.Prerequisite: PHY 191.
+CPB 204.  Mass and Energy Balances I.  (2) (MPT)
+The first of a two course series with a focus on the application of mass conservation equations for solving engineering problems involving batch and continuous systems. Introduction to chemical reaction fundamentals and phase equilibria for multicomponent systems. Examples drawn from a variety of chemical, paper and biomedical applications.Prerequisite: CPB 102 (or CEC/CSE/ECE/MME 102), CHM 142 and PHY 191.Prerequisite or Co-requisite: MTH 251 or equivalent.
+CPB 205.  Mass and Energy Balances II.  (2)
+The second of a two course series with a focus on the application of energy conservation equations for solving engineering problems involving batch and continuous systems. Application of mass and energy balances to processes involving chemical reactions, phase changes, and multicomponent. Examples drawn from a variety of chemical, paper and biomedical applications.Prerequisites: MTH 251 and CPB 204 (grade of C or better on CPB 204 only).
+CPB 219.  Statics and Mechanics of Materials.  (3)
+This course provides an introduction to the fundamentals of the mechanics of materials for Bioengineering and Chemical Engineering students. The course stresses statics and mechanics of deformable media, and material behavior. Advanced topics in material behavior and stability that are relevant to bio/chem engineering will be introduced and related to the course materials. The course takes an integrated approach to problem formulation in terms of kinematics, constitutive behavior, equilibrium, and compatibility.Prerequisites: MTH 251, and a grade of C or better in PHY 191.
+CPB 244.  Introduction to Environmental Engineering.  (3)
+Introductory design concepts for the control of water pollution, air pollution, and solid waste will be covered. Environmental legislation will be discussed. Solutions to environmental problems will be investigated, considering technical, economical and ethical aspects of engineering.Prerequisites: CHM 141 or equivalent, MTH 151 or equivalent.
+CPB 277.  Independent Studies.  (0-6)
+CPB 301.  Pulp and Paper Chemistry.  (3)
+Wood chemistry, chemical pulping chemistry and processes, and wet end chemistry. Chemical composition and structure of lignocelluslosic wood fibers. The unit processes used in chemical pulping and bleaching. Kraft Recovery. Colloidal science of retention, sizing, process and functional additives.Prerequisite: CPB 201 and one of the following: CHM 231 or CHM 241 or CHM 251.
+CPB 311.  Unit Operations Laboratory I.  (2)
+Laboratory course; students conduct experiments and do computer simulations in the areas of material and energy balances and fluid dynamics. Emphasizes acquisition of knowledge about instrumentation commonly used in process industries. Both oral and written laboratory reports required.Prerequisites: PHY 191 and grade of C or better in CPB 204.Prerequisite or Co-requisite: CPB/MME 313 or CPB 318 or CPB 418/CPB 518.
+CPB 313.  Fluid Mechanics.  (3) (MPT)
+Fundamentals and application of the mechanics of fluids including properties, statics and dynamics of fluids, dimensional analysis and similitude, steady state flow, and topics in compressible flow.Prerequisite: PHY 191, and either CPB 219 or MME 211, or permission of instructor.Prerequisite or Co-requisite: MTH 252 or equivalent.Cross-listed with MME.
+CPB 314.  Engineering Thermodynamics.  (3)
+Study of the fundamental principles of thermodynamics. Emphasis placed on engineering applications such as power cycles, refrigeration, and heat transfer systems.Prerequisite: MME 211 or CPB 204 or CPB 219.Prerequisite or Co-requisite: MTH 251 or equivalent.Cross-listed with MME.
+CPB 318.  Transport Phenomena I.  (4)
+Fundamentals and integration of concepts from fluid mechanics, heat transfer, and mass transfer to biological, chemical, and mechanical systems. An integrated approach will be used to study fundamental concepts in transport phenomena including: fluid properties, mechanics of fluids, dimensional analysis, steady and transient flow regimes, steady and unsteady conduction, forced and free convection, radiation heat transfer, laminar and turbulent flow, heat exchangers, mass diffusion, and interphase transport. Analogy of heat, mass, and momentum transport phenomena principles will be presented.with a grade of C or better.Prerequisites: MME/CPB 314; MTH 245; CPB 219 or MME 211, and CPB 204.
+CPB 320.  Professional Practice.  (0)
+Students participating in paper science and engineering co-op program register for this course during semesters when they are away from Oxford on work assignment. This enables students to remain in good standing with the University Registrar.
+CPB 324.  Chemical and Bio- Engineering Computation and Statistics.  (3)
+Study of numerical methods of scientific computing and their application to modeling chemical and bio- engineering systems and the interpretation of experimental data. Algorithms for solving algebraic and differential equations, differentiation, integration, and optimization are derived and implemented using modern computational software. Statistics and error analysis constitute a significant part of the course.Prerequisite: CPB 204 with a grade of C or better.Prerequisite or Co-requisite: MTH 245 and (ECE 345 or STA 301 or STA 261).
+CPB 326.  Fundamentals of Medical Device Design.  (3)
+This course addresses a wide range of topics concerned with medical devices including the history of devices, basics of medical terminology, FDA regulations, industrial design and human factors, and types of medical devices and their uses. Issues of intellectual property, innovation, and advanced devices will also be discussed.Prerequisites: ECE 205 and (CPB 219 or MME 311).
+CPB 328.  Bioinstrumentation.  (3)
+Study of the theory and application of signal acquisition and processing for bioinstrumentation including: bioinstrumentation architecture; sensors for bioinstrumentation; operational amplifier and instrumentation amplifier; signal sampling theory; analog to digital signal conversion; Digital to analog signal conversion; biopotential measurement.Prerequisite: ECE 205.Prerequisites or Co-requisites: MTH 245 or MTH 246 or MTH 347.
+CPB 340.  Internship.  (0-20)
+CPB 341.  Engineering Economics.  (3)
+Engineering economic decisions; breakeven and minimum cost analysis; engineering methods of resource allocation; concepts of interest; time evaluation of tactical and strategic alternatives.Prerequisite: MTH 151 and (CPB 102 or CEC 102 or MME102 or equivalent).Prerequisite or Co-requisite: STA 301 or STA 261 or CEC 345.Cross-listed with MME.
+CPB 377.  Independent Studies.  (0-6)
+CPB 403/CPB 503.  Heat Transfer.  (3) (MPT)
+Continued study of unit operations with emphasis on heat transfer. Study of steady and unsteady conduction, and laminar, turbulent, boiling, and condensing convective heat transfer. Radiation heat transfer, heat exchangers, evaporators, and transfer units.Prerequisites: CPB/MME 314 and (CPB/MME 313 or CPB 318 or CPB 418/CPB 518) and (MTH 245 or MTH 246).Cross-listed with MME.
+CPB 404.  Papermaking.  (3)
+Papermaking process with emphasis on chemical engineering principles involved.Prerequisites: CPB 201 and CPB 202 and (CPB/MME 403/MME 503 or CPB 414/CPB 514 or CPB 318 or CPB 418/CPB 518).
+CPB 405/CPB 505.  Industrial Environmental Control.  (3)
+Survey of environmental issues facing the industry and how the industry addresses these issues. In-plant pollution abatement alternatives discussed as well as external treatment. Computer-based modeling applications introduced and applied to problems. Design considerations involved in selecting among alternative pollution control strategies are presented and applied to examples.Prerequisite: CPB 244 or a grade of C or better in CPB 204.
+CPB 412/CPB 512.  Chemical Engineering Thermodynamics.  (3)
+Advanced thermodynamics with emphasis in phase and chemical equilibrium. Thermodynamic relations and applications. Properties of ideal and non-ideal one-component and multi-component systems: ideal and non-ideal phase equilibria; phase diagrams; design of equilibrium flash separators. Phase equilibria using equation of state; chemical equilibrium; optimum conditions for feasible reaction equilibria.Prerequisite: CPB/MME 314.
+CPB 414/CPB 514.  Mass Transfer and Unit Operations.  (4)
+This course will introduce principles of steady-state and time-dependent mass transfer, and apply them to unit operations that are often found in chemical and biological engineering systems, with an emphasis on single and multi-stage separation processes. Through the course and using their background in mass and energy balances, thermodynamics, and transport phenomena, students will characterize and design heat exchangers and separation unit operations, including absorption, distillation, membranes, drying and crystallization processes. At the end of the course, students will understand the application of each unit operation within a chemical process and use computational tools to aid in separation design.Prerequisites: CPB 205; CPB 318 (or CPB/MME 313 and CPB/MME 403/MME 503).
+CPB 415/CPB 515.  Chemical Kinetics and Reactor Design.  (3)
+Chemical Kinetics of homogeneous and heterogeneous reactions, kinetic theories, mechanism and modeling, reactor design, design of multiple reactions; temperature and pressure effects. Non-ideal reactors, survey of catalytic and biochemical reaction systems.Prerequisites: CPB/MME 313 or CPB 318 or CPB 418/CPB 518, CPB/MME 314; MTH 245 and a grade of C or better in CPB 204.
+CPB 416/CPB 516.  Biochemical Engineering.  (3)
+This course is an introduction to the fundamental concepts concerning biochemical kinetics and bioreactors. In particular, this course focuses on enzymatic reactions and fermentations using genetically engineered organisms. Biochemical topics include overviews of cell structure, enzyme kinetics and cell growth kinetics. Engineering topics include: immobilization, fermenter design and sterilization processes.Prerequisites: MTH 245; (BIO 203 or CHM 332 or 432); (CPB 414/CPB 514 or CPB 415/CPB 515 or CPB 318 or CPB 418/CPB 518).
+CPB 417/CPB 517.  Biomedical Engineering.  (3)
+This course is an introduction to the fundamental concepts in biomedical engineering with a special focus on chemical engineering applications. In particular, this course focuses on transport phenomena in biological systems, pharmacokinetics and tissue engineering. Engineering topics also include discussions concerning the design of equipment and materials for dialysis, oxygenation, artificial organs, and tissue engineering.Prerequisites: MTH 245, (CPB 414/CPB 514 or CPB 318 or CPB 418/CPB 518).
+CPB 418/CPB 518.  Biological Transport Phenomena.  (4)
+Fundamentals and integration of fluid mechanics, heat transfer, and mass transfer in living systems. Basic concepts of transport phenomena are presented and applied to biological systems and to the design of medical devices.Prerequisites: MME/CPB 314; MTH 245; PHY 191 and CPB 219 or MME 211.
+CPB 419/CPB 519.  Biomaterials.  (3)
+Integration and application of the fundamentals of natural and synthetic biomaterials, with focus on polymers, ceramics, composites, nanomaterials, and metals. Other topics include biomimetic/biomechanical design, biomaterial/tissue interaction and regulatory issues.Prerequisites: CHM 231 or (CHM 241 and CHM 244); CPB 318 or 418 or (CPB/MME 403/MME 503 and CPB 414/CPB 514).
+CPB 421.  Bioethics.  (1)
+The application of ethical theories and codes of ethics to the ethical decision-making processes. Ethical issues involved around making choices about human life saving and enhancing its quality, human and animal experimentation, regulation involving bio-related research and data collection and analysis, standards for the design of medical devices and their certification. Other related issues such as intellectual property rights will be considered.Prerequisites: senior standing or permission of instructor.
+CPB 422/CPB 522.  Biological Systems and Controls.  (3)
+This course provides an introduction to the fundamentals of control theory as it relates to bioengineering applications. Specific topics include linear systems analysis, electromechanical transfer functions, process transfer functions, stability, feedback control and modeling physiological systems. Applications involving membrane transport, pharmacokinetics and extracorporeal devices will also be covered.Prerequisites: ECE 205; MTH 245; CPB 204 and CPB 418/CPB 518.
+CPB 423/CPB 523.  Biomechanics.  (3)
+Introduction to mechanics of living systems. Constitutive models are presented and applied to soft and hard tissues and organs, such as orthopaedic biomechanics and cardiovascular biomechanics.Prerequisites: (CPB 219 or MME 312) and MTH 245.
+CPB 426/CPB 526.  Fundamentals of Tissue Engineering.  (3)
+Tissue engineering and regenerative medicine involve the integration of biology, physiology, medicine, and engineering/applied science for the design of constructs to replace tissues and organs damaged by age, disease, or traumatic injury. Man-made or natural materials (primarily polymeric materials) will be studied in terms of fabrication, characterization, and application. The course will then investigate fundamental structure-functional relationships in cells, tissues and organs and consider techniques to achieve physiological and anatomical requirements of engineered tissues. Cell-material interactions, stem cells, and cell/tissue physiology will be discussed in the context of general and specific tissue engineering and regenerative medicine applications including those already in the clinic and those that are expected to achieve clinical applications. Examples of physiological systems for which engineered tissues will be considered are some combination of the following (to vary each time course is offered): cardiovascular, respiratory, renal, nervous, skin, vision, musculoskeletal, and endocrine systems.Prerequisite: BIO 203, CHM 231 or CHM 241, PHY 191.
+CPB 436.  Principles in Fermentation.  (3)
+Through a combination of lectures from faculty and experts in the fermentation industry, hands-on laboratory experiences, and site visits, students will develop an understanding of the importance of fermentation in the food, beverage, and drug industry. Students will have the opportunity to learn how microbiology, biology, chemistry/biochemistry and engineering are interrelated in the fermentation industry.Prerequisites: CHM 332 or CHM 432/CHM 532; or MBI 201; or CPB 204.Cross-listed with CHM/MBI.
+CPB 441/CPB 541.  Pollution Prevention in Environmental Management.  (3)
+Provides understanding of how corporations respond to governmental regulation by setting up environmental management systems which employ the principles of pollution prevention. Engineering concepts such as material balances, energy balances, risk assessment, and life cycle assessment have impacted new process designs. In this course a basis for evolution and maturation of pollution prevention as a fundamental methodology to ensure compliance and economic sustainability of industrial processes will be provided. The understanding of the concepts of pollution will be demonstrated by participation in a class project sponsored by industry at one of their facilities.Prerequisites: CPB 244 or a grade of C or better in CPB 204 and at least junior standing.
+CPB 442/CPB 542.  Air Pollution Control.  (3)
+This course introduces students to the formation and control of air pollutants, engineering theories and principles pertaining to the design of air pollution control operations, and environmental legislation. Solutions to environmental problems are investigated, considering technical, economical and ethical aspects of engineering.Prerequisites: CPB 244 or a grade of C or better in CPB 204.
+CPB 450/CPB 550.  Special Topics.  (1-5; maximum 20)
+CPB 451/CPB 551.  Unit Operations Laboratory II.  (2)
+Laboratory course consisting of experiments and computer simulations in topics from the process industries involving heat, mass and momentum transfer, and process control. Both written and oral laboratory reports are required.Prerequisites: CPB 318 or CPB 418/CPB 518 or CPB/MME 403/MME 503.Co-requisite: CPB 414/CPB 514.
+CPB 471.  Engineering Design I.  (2) (MPC)
+Involves application and synthesis of accumulated knowledge in a major, open-ended, industrial research/design project. Critical elements of the design process and real world constraints (economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability) are considered. Emphasis is placed on oral and written communication skills. Students from different academic backgrounds are assigned to multidisciplinary project teams in order to utilize their varied experiences, knowledge, learning styles, and skills to achieve a successful conclusion to each project.Prerequisites: CPB 318 or CPB 423/CPB 523 or MME 313 and senior standing.
+CPB 472.  Engineering Design II.  (2) (MPC)
+Continuation of CPB 471.Prerequisite: CPB 471.
+CPB 473/CPB 573.  Chemical Process Design.  (3)
+This is a project-based course in which chemical engineering technology, process simulation, and economic analyses are used to design chemical processes. The technical and economic aspects of equipment selection and design and alternative methods of operation will be covered.Prerequisites: (CPB 318 or CPB 418/CPB 518 or CPB/MME 403/MME 503) and CPB 414/CPB 514.Prerequisite or Co-requisites: CPB/MME 341 and CPB 415/CPB 515.
+CPB 477.  Independent Studies.  (0-6)
+CPB 482/CPB 582.  Process Control.  (3)
+Study of system dynamics and control schemes used for continuous processes. Block diagrams, steady-state and dynamic response, Laplace transforms, computer simulations and closed loop control. Stability, tuning, and controller synthesis.Prerequisites: (CPB 318 or CPB 418/CPB 518 or CPB 403/CPB 503) and (CPB 204 with C or better) and (CPB 324 or MME 213 or CSE 271).
+CPB 483/CPB 583.  Chemical Process Safety.  (1)
+This course introduces students to chemical process safety. Specific topics of discussion will include management and risk assessment, toxicology, industrial hygiene, dispersion models, fire and explosion causes and prevention, relief systems, and various case studies. Emphasis will be given to the application of chemical engineering education to chemical process safety.Prerequisites: CPB 204 and (CPB/MME 403/MME 503 or CPB 414/CPB 514 or CPB 318 or CPB 418/CPB 518).
+CPB 490/CPB 590.  Special Topics in Paper and Chemical Engineering.  (1-5; maximum 5)
+Advanced special topics in paper and chemical engineering.Prerequisite: either permission of instructor or as defined by topic.
+CPB 491.  Introduction to Research.  (1-3; maximum 3)
+Research problems in chemical engineering and paper science selected in consultation with a faculty advisor. Research methodology; design of laboratory experiments and computer simulations; critical analysis of results; technical reports; oral presentations. For grade only.Prerequisite: permission of instructor, subject to approval of department chair.
+CPB 600.  Graduate Seminar.  (1; maximum 6)
+Required of all graduate students in residence. Student preparation and presentation of lectures on scientific and engineering topics related to thesis research areas.Prerequisite: graduate standing.
+CPB 611.  Transport Phenomena in Engineering.  (3)
+Principles and mechanism of heat, mass and momentum transport. Development of generalized transport equations; macroscopic and microscopic balances; simultaneous heat and mass transfer. Analogy of mass, heat and momentum transfer.Prerequisites: CPB/MME 403/MME 503, CPB 414/CPB 514 (or equivalent) and graduate standing or instructor approval.
+CPB 612.  Engineering Analysis.  (3)
+Analytical considerations involving the construction and solutions of mathematical models for processes and systems pertinent to chemical and mechanical engineering. The analytical methods will cover the modeling of steady and unsteady state engineering problems. Recommended prerequisites: CPB 403/CPB 503, 414, 415; MME 412/MME 512, 414, 436 (or equivalent); or permission of instructor.Cross-listed with MME.
+CPB 620.  Papermaking.  (1-4)
+Study of papermaking process with emphasis on chemical and engineering principles involved. Students expected to study pertinent technical literature in addition to completing class assignments.Prerequisite: graduate standing and permission of chair.
+CPB 677.  Independent Studies.  (0-6)
+CPB 690.  Graduate Research.  (1-12)
+Prerequisite: graduate standing and permission of chair.
+CPB 700.  Research for Master's Thesis.  (0-9)
+CPB 704.  Non-Thesis Project.  (0-12; maximum 12)
+This repeatable course is for non-thesis culminating experiences. Permission of the instructor is required.
+CPB 710.  Industrial Practicum.  (1-12)
+Analysis and solution of an industrial problem.
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

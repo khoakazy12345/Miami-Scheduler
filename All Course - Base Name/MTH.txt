@@ -1,0 +1,210 @@
+Mathematics (MTH) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+General Course Information
+Mathematics (MTH)
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Mathematics (MTH)
+Mathematics (MTH)
+Note:
+Service courses do not count toward majors in the Department of Mathematics. They may or may not count toward majors in other departments. Look carefully at your major requirements and at the mathematics and statistics placement guide in this Bulletin.
+On regional campuses, placement into MTH 115, MTH 125, and MTH 151 is based on achieving an appropriate score on a standard placement test administered at the regional campus.
+Credit cannot be earned in a lower level course after earning credit at a higher level.
+MTH 025.  Algebra Concepts for Precalculus.  (5)
+A study of algebra topics which are background knowledge for Precalculus. Topics include linear equations in one and two variables, polynomials, rational expressions, radicals, quadratics, and an introduction to functions.
+MTH 049.  Math Literacy.  (4)
+Math Literacy for College Students is a one-semester course for students whose programs do not require Precalculus or Calculus. The emphasis is on active learning, applications, and context. Students work in groups daily, with very limited lecture time. Topics include numeracy, unit conversion, problem-solving, data analysis, pattern recognition, mathematical reasoning, linear, exponential and quadratic models, and basic statistics. MTH 049 is designed to be accessible to students that struggle with the abstract nature of algebra. The successful student will be well-prepared for STA 261 and MTH 119, as well as non-majors science courses that have traditionally required completion of an algebra course.
+MTH 115.  Mathematics for Teachers of Grades P-6.  (4) (MPF)
+Service course. Topics include problem solving, numeration, computation, number theory, and rational numbers. Designed to provide content background for teaching mathematics in elementary grades. Successful completion of this course may require an examination in basic mathematics. Open only to early childhood or middle childhood majors not concentrating in mathematics and special education majors. V.Prerequisite: two years of high school algebra or a college algebra course.
+MTH 116.  Mathematics for Elementary Teachers.  (4)
+Service course. Topics are from geometry, probability, and statistics. Designed to provide content background for teaching mathematics in elementary grades. Open only to early childhood and special education majors.
+MTH 119.  Quantitative Reasoning.  (4) (MPF)
+Quantitative Reasoning is a course designed to satisfy the Miami Plan Formal Reasoning requirement for students in majors that don’t specifically require a mathematics course beyond the level of Precalculus. The focus is on critical thinking and applications, and all topics are covered from a contextual standpoint. Topics include mathematical reasoning and problem solving, consumer math, probability, and statistics. Instructors have the discretion to cover other selected topics as time permits. V. CAS-E.Prerequisites: Successful completion of MTH 049, or an ACT Math score of at least 18, or an SAT Math score of at least 500, or a Miami International Math Placement Test score of at least 6, or permission of instructor.
+MTH 121.  Finite Mathematical Models.  (3) (MPF)
+Service course. Introduction to linear, probabilistic, graph-theoretic, and network models with emphasis on development of algorithms. Systems of linear equations, linear programming, matrix algebra, graphs, networks, discrete probabilistic models, and linear recurrence relations with applications of these topics to areas in the management, social, and biological science. V. CAS-E.Prerequisite: MTH 102 or 104 or three years of college preparatory mathematics including Algebra II.
+MTH 125.  Precalculus.  (5)
+Service course. Review of algebra topics important for calculus. Functions, polynomials, rational functions, logarithmic and exponential functions, trigonometric functions and their inverses, conic sections, nonlinear systems, and applications of functions. Credit does not count toward a major in mathematics and statistics. Note: Students who have credit for MTH 151 or a higher mathematics class may not enroll in MTH 125. The only exceptions are when a student audits the course or meets the criteria of the Course Repeat Policy, as stated in the Student Handbook. Credit for graduation will not be given for more than one of MTH 102 and MTH 104 nor for more than one of MTH 104, MTH 123, and MTH 125. At most nine credit hours toward graduation can be earned from any combination of MTH 101, MTH 102, MTH 104, MTH 123, and MTH 125.Prerequisite: Earn a grade of C or better in MTH 102, or an ACT Math Score of 22 or higher, or an SAT Math Score of 530 or higher, or a Miami International Math Placement Test score of 8 or higher, or a Miami Precalc Placement Test score of 8 or higher, or successful completion of MTH 025.
+MTH 133.  Mathematical Foundations of Data Analytics.  (4)
+Service course. Mathematical concepts and terminology needed for statistical programming and data analysis. Topics include: systems of linear equations and matrix algebra; graphs and networks; logic and Boolean algebra; sets and probability; power, polynomial, exponential, logarithmic and trigonometric functions; basics of differential and integral calculus, including partial derivatives; elementary principles of continuous optimization; numerical methods. Emphasis on contexts related to data and programming.Prerequisites: MTH 125 or Calculus 1 (AP Calculus or MTH 151) or an ACT Math score of at least 26 or an SAT Math score of at least 600 or at least 16 on the Miami International Math Placement Test.
+MTH 135.  Math for Science Applications.  (3)
+Service course. Mathematical concepts and terminology used in introductory science courses, including Biology, Chemistry, and Physics. Topics are presented within the context of science applications and include algebra, trigonometry, vectors, geometry, systems of equations, and introduction to differential and integral calculus.Prerequisites: An ACT Math Score of 22 or higher, or an SAT Math Score of 530 or higher, or a Miami International Math Placement Test score of 8 or higher, or a Miami Precalc Placement Test score of 8 or higher, or successful completion of MTH 025.
+MTH 147.  First Year Seminar in Mathematics and Statistics.  (1)
+Serves as an introduction to various areas of Mathematics and Statistics. Conducted in a seminar/lecture format, the course provides majors in the departments of Mathematics and Statistics with information about undergraduate research and career options as well as about departmental, College, and University resources and requirements. The course helps students plan how to make the most of their time at Miami, and establish a foundation for academic and co-curricular success.Prerequisites: Completion of or enrollment in MTH 151 (or above) or permission of instructor.Cross-listed with STA 147.
+MTH 151.  Calculus I.  (5) (MPF, MPT)
+Limits and continuity, derivatives, integration, calculus of trigonometric and exponential functions. Credit not awarded for both MTH 151 and MTH 153. V. CAS-E.Prerequisite: Successful completion of MTH 125, or an ACT Math score of at least 26, or an "old" SAT Math score of at least 590, or a "new" SAT Math score of at least 610, or score of at least 16 on the Miami International Math Placement Test.
+MTH 177.  Independent Studies.  (0-6)
+MTH 217.  Mathematics for Middle Childhood Teachers: Structure of Arithmetic and Algebra.  (4)
+Service Course. A systematic study of the underlying properties and structures of arithmetic and algebra with an emphasis on the rationales and irrationals. Topical Units include problem solving; arithmetic operations; place value; ratios, rates, proportion and percent; algebraic reasoning and functions; integers; rational and irrational numbers; and number theory. Open only to middle childhood education majors with a concentration in mathematics.Prerequisites: MTH 151 or equivalent.
+MTH 218.  Geometry for Middle Childhood Teachers.  (4)
+Service Course. Designed to develop a deep understanding of geometry appropriate for the middle grades. Topics include: proof and geometric reasoning, properties of geometric figures, similarity and scaling, measurement, symmetry, geometric transformations, and mathematical modeling. Open only to middle childhood education majors with a concentration in mathematics.
+MTH 222.  Introduction to Linear Algebra.  (3) (MPT)
+Treatment with emphasis on Euclidean spaces and matrix algebra: systems of linear equations, elementary matrix operations, determinants, vector methods in geometry, vector spaces, and linear transformations. CAS-E.Prerequisite: MTH 249 or 249H or 251.
+MTH 222T.  Introduction to Linear Algebra (Honors).  (2)
+Departmental honors version of MTH 222.Prerequisite: MTH 249 or 249H or 251 and permission of instructor.Co-requisite: MTH 331T.
+MTH 231.  Elements of Discrete Mathematics.  (3) (MPT)
+Service course. Topics, techniques and terminology in discrete mathematics: logic, sets, proof by mathematical induction, relations, counting. Credit does not count toward a major in the department of Mathematics or Statistics.Prerequisite: MTH 151 or permission of instructor.
+MTH 245.  Differential Equations for Engineers.  (3)
+Service course. Mathematical techniques used in engineering: ordinary differential equations first order, higher order and systems, Laplace transforms, and applications. Note: Credit for graduation will not be given for more than one of MTH 245 and MTH 347.Prerequisite: MTH 251, MTH 249 or MTH 249H.
+MTH 246.  Linear Algebra and Differential Equations for Engineers.  (4)
+Service course. Mathematical concepts and methods of Linear Algebra and Differential Equations important in engineering: matrix operations, determinants, eigenvalues and eigenvectors, linear transformations, systems of linear and differential equations, first-order and higher-order differential equations, Laplace transforms, and applications. Note: Credit for graduation will be given for only one of the following courses: MTH 245, MTH 246, MTH 347. Math and/or Stats majors should take MTH 222.Prerequisite: MTH 249 or MTH 251.
+MTH 247.  Financial Mathematics for Actuaries.  (4)
+Theory of interest, annuities, loan repayment, bonds, interest rate sensitivity. Introduction to derivatives including forwards, futures and options. Portfolio insurance, use of spreads and collars. Intended for students preparing to take the SOA Exam FM or the Casualty Actuarial Society Exam 2.Prerequisite: credit for MTH 151, and either registration in Actuarial Science minor or permission of instructor.Co-requisite: MTH 251, MTH 249, or MTH 249H.
+MTH 249.  Calculus II.  (5) (MPF)
+Offers a review of fundamental concepts of MTH 151 followed by content of Calculus II. Topics include plane analytic geometry, techniques of integration, parametric equations, polar coordinates, infinite series, approximations, applications. Admission to the honors course requires honors standing or permission of the instructor. Enrollment limited to first-year students. Credit not awarded for both MTH 249 and 251. V. CAS-E.Prerequisite: a grade of B or better in MTH 151; if credit earned through the AP exam, a score of 4 or above.
+MTH 249H.  Calculus II.  (5) (MPF)
+Offers a review of fundamental concepts of MTH 151 followed by content of Calculus II. Topics include plane analytic geometry, techniques of integration, parametric equations, polar coordinates, infinite series, approximations, applications. Admission to the honors course requires honors standing or permission of the instructor. Enrollment limited to first-year students. Credit not awarded for both MTH 249 and 251. V. CAS-E.Prerequisite: a grade of B or better in MTH 151; if credit earned through the AP exam, a score of 4 or above.
+MTH 251.  Calculus II.  (4)
+Continuation of Calculus I. Plane analytic geometry, techniques of integration, parametric equations, polar coordinates, infinite series, approximations, applications. Credit not awarded for both MTH 249 and 251. CAS-E.Prerequisite: a grade of C or better in MTH 151.
+MTH 252.  Calculus III.  (4) (MPT)
+Continuation of Calculus I and II. Three-dimensional analytic geometry, vectors, derivatives, multiple integrals, applications. The honors course offers an in-depth treatment of these topics. Admission to the honors course requires honors standing or permission of the instructor.Prerequisite: MTH 249, MTH 249H or MTH 251.
+MTH 253.  Introduction to Technical Computing.  (1)
+Introduction to technical computing using Matlab or a comparable software. The students learn mathematical functions, their limitations, how to modify the functions to suit specific mathematical needs, and the use of computer graphics. Topics include introduction to the software; matrices and vectors; linear equations; interpolation; zeros and roots; least squares; quadrature; eigenvalues and singular values; plotting graphs and surfaces.Prerequisites: MTH 222 and MTH 252.
+MTH 277.  Independent Studies.  (0-6)
+MTH 330.  Problems Seminar.  (1; maximum 2)
+Solution and discussion of calculus and linear algebra problems found in challenging sections of textbooks and on standard, externally administered examinations. Credit/nocredit only.Prerequisite: completion of or enrollment in MTH 252 and MTH 222.
+MTH 331.  Proof: Introduction to Higher Mathematics.  (3) (MPT)
+Designed to ease the transition to 400-level courses in mathematics and statistics. The emphasis of the course is on writing and analyzing mathematical proofs. Topics covered will be foundational for higher level courses and will include propositional and predicate logic, methods of proof, induction, sets, relations and functions. ADVW.Prerequisite: a grade of C- or above in MTH 249 or MTH 251; or a score of 4 or 5 on the AP Calculus BC exam.Prerequisite or Co-requisite: MTH 222.
+MTH 331T.  Proof: Introduction to Higher Mathematics (H).  (3)
+Departmental honors version of MTH 331. Requires permission of instructor. ADVW.Prerequisite: MTH 249, MTH 249H, or MTH 251.Co-requisite: MTH 222T.
+MTH 340.  Internship.  (0-20)
+MTH 347.  Differential Equations.  (3) (MPT)
+Theory of ordinary differential equations with applications. Topics include first order differential equations, higher order linear equations, and systems of first order equations. Credit for graduation will not be given for more than one of MTH 245 and MTH 347.Prerequisite: completion of or registration in MTH 222 and MTH 252.
+MTH 377.  Independent Studies.  (0-6)
+MTH 407/MTH 507.  Mathematical Structures Through Inquiry.  (3) (MPC)
+MTH 407/MTH 507 is open only to middle childhood education majors; MTH507 is open only to preK-9 teachers. Study of the structure of mathematical systems, especially number systems, developed through student-centered inquiry: pattern recognition, generalizing conjecturing, and proof.Prerequisite: MTH 151, MTH 217, and MTH 218, or permission of instructor.
+MTH 408/MTH 508.  Mathematical Problem Solving with Technology.  (3)
+For current and prospective AYA mathematics teachers; built around problem solving experiences. Heuristics for problem solving are developed, and students solve problems in a variety of mathematical areas. Various technologies, including computers and calculators, are used as tools for problem solving. Only for students in licensure or MAT programs.Prerequisite: MTH 151.
+MTH 409/MTH 509.  Secondary Mathematics from an Advanced Perspective.  (3)
+Provides a deeper analysis of problems and concepts drawn from high school mathematics to help teachers make connections between the advanced mathematics they are learning in college and the high school mathematics they will be teaching. Only for students in AYA licensure programs.Prerequisite: at least 9 hours of 400-level MTH/STA courses and completion of or enrollment in MTH 421/MTH 521.
+MTH 410/MTH 510.  Topics In Geometry.  (3; maximum 6)
+A course in an area of geometry; for example: affine and metric geometry, differential geometry, advanced analytic geometry, non-Euclidean geometries, finite geometries.Prerequisite: A grade of C- of better in MTH 222 and in MTH 331, or permission of instructor.
+MTH 411/MTH 511.  Foundations of Geometry.  (3) (MPT)
+Careful examination of underlying ideas of Euclidean geometry and some non-Euclidean geometries, including projective, metric, and finite. Various approaches include transformations and synthetic treatments.Prerequisite: A grade of C- or better in MTH 222 and MTH 331.
+MTH 420/MTH 520.  Topics in Algebra.  (1-4; maximum 8)
+Topics selected from an area of modern or linear algebra.Prerequisite: A grade of C- or better in MTH 222 and in MTH 331, or permission of instructor.
+MTH 421/MTH 521.  Introduction to Abstract Algebra.  (4) (MPT)
+Elementary theory of groups, rings, integral domains, fields, homomorphisms, and quotient structures.Prerequisites: A grade of C- or better in MTH 222 and in MTH 331.
+MTH 425/MTH 525.  Number Theory.  (3) (MPC)
+An overview of topics from classical and modern number theory. Topics may include modular arithmetic, prime counting, units in modular rings, quadratic reciprocity, and Gauss sums.Prerequisite: MTH 421/MTH 521 or permission of instructor.
+MTH 430.  Problems Seminar.  (1; maximum 3)
+Solution and discussion of problems from the 'Mathematical Monthly' and other sources.Prerequisite: permission of instructor.
+MTH 432/MTH 532.  Optimization.  (3)
+Optimization of functions of several variables, convexity and least squares, Kuhn-Tucker conditions, linear programming.Prerequisite: A grade of C- or better in MTH 222, in MTH 252 and in MTH 331.
+MTH 435/MTH 535.  Mathematical Modeling Seminar.  (3) (MPC)
+Teaches how mathematics can help solve real world problems in fields such as biology, ecology, geophysics, engineering, and social sciences. The material is learned through a hands-on approach. A significant amount of class time is spent on a variety of group projects. This seminar introduces mathematical modeling as the art of using mathematics to formulate and analyze practical problems, and emphasizes usefulness of mathematics in understanding complex phenomena. A differential equations course (MTH 245 or MTH 347) is recommended but not required. CAS-QL.Prerequisites: A grade of C- or better in MTH 222 and in MTH 252, or permission of instructor.
+MTH 437/MTH 537.  Game Theory and Related Topics.  (3)
+At the instructor's discretion, one of the following areas is covered. (1) Economic/Traditional Game Theory: Mixed-strategy equilibria, two-person games with applications, and N-person cooperative games with side payments. (2) Combinatorial Game Theory: The game of Nim and how all impartial two-player combinatorial games are Nim-like, Partisan games, and possibly solitaire games.Prerequisite: MTH 222 or 231 or 331; or permission of instructor.
+MTH 438/MTH 538.  Theory and Applications of Graphs.  (3)
+Basic structural properties of graphs, trees, connectivity, traversability (Eulerian Tours and Hamiltonian Cycles), matchings, and vertex and edge colorings. Classic graph algorithms will also be analyzed, including shortest path, minimum weight tree, optimal assignment, etc. Additional topics are selected from network flows, planarity, extremal problems, and directed graphs as time allows. This is a theory-oriented course, so familiarity with mathematical proof is desirable.Prerequisite: A grade of C- or better in MTH 222 and in MTH 331, or permission of instructor.
+MTH 439/MTH 539.  Combinatorics.  (3)
+Counting methods: permutations, combinations, generating functions, recurrence relations, inclusion/exclusion. Incidence structures: block designs, Latin squares, finite geometries.Prerequisites: A grade of C- or better in MTH 222 and in MTH 331, or permission of instructor.
+MTH 440/MTH 540.  Topics in Analysis.  (1-4; maximum 8)
+Topics selected from an area of analysis.Prerequisites: A grade of C- or better in MTH 252 and in MTH 331, or permission of instructor.
+MTH 441/MTH 541.  Real Analysis.  (3)
+Continuity, differentiation, convergence, series and integration, in both one and several variables.Prerequisites: A grade of C- or better in MTH 222, in MTH 252 and in MTH 331.
+MTH 447/MTH 547.  Topics in Mathematical Finance.  (3)
+Mathematical methods in options pricing; options and their combinations, arbitrage and put-call parity, stock and option trees, risk neutral pricing, geometric Brownian motion for stock models and derivation of the Black-Scholes formula; and as time allows, additional topics such as futures, forwards, swaps and bond models. A course in probability, such as STA 401/STA 501, is recommended but not required.Prerequisite: A grade of C- or better in MTH 249, in MTH 251, or in an equivalent course.
+MTH 451/MTH 551.  Introduction to Complex Variables.  (4)
+Algebra and geometry of complex numbers, elementary functions of a complex variable including integrals, power series, residues and poles, conformal mapping, and their applications.Prerequisites: A grade of C- or better in MTH 222, in MTH 252 and in MTH 331.
+MTH 453/MTH 553.  Numerical Analysis.  (3)
+Errors and error propagation, root-finding methods, numerical solution of linear systems, polynomial and cubic spline interpolation, numerical differentiation and integration, programming of algorithms. An introductory CSE course, such as CSE 174, is recommended but not required. CAS-QL.Prerequisite: A grade of C- or better in MTH 222 and in MTH 252.
+MTH 455/MTH 555.  Introduction to Partial Differential Equations.  (3)
+Course focuses on first and second order partial differential equations (PDEs), boundary value problems and their applications. Topics include physical examples of PDEs, classification of second order linear PDEs, method of characteristics, D'Alembert's formulation, maximum principles, heat kernels, separation of variables, and Fourier series.Prerequisites: MTH 245 or MTH 347, or permission of the instructor.
+MTH 477.  Independent Studies.  (0-6)
+MTH 482.  Great Theorems of Mathematics.  (3) (MPC)
+Students explore the development of certain mathematical topics from 1800 B.C.E. to the modern day, with emphasis on the following: Development of numeration systems, Pythagorean Theorem, pi and quadrature, algebra, calculus, and the concept of infinity. Each student adopts a mathematician and completes an individual project related to that person’s mathematical work. The course concludes with a final paper and presentation assignment for each student on the development of a great theorem or topic that wasn’t yet explored in the coursework.Prerequisite: MTH 411/MTH 511 or MTH 421/MTH 521 or MTH 441/MTH 541.
+MTH 483/MTH 583.  Introduction to Mathematical Logic.  (3)
+Propositional logic, first-order logic, theories and models, completeness and compactness, additional topics such as nonstandard analysis.Prerequisite: MTH 421/MTH 521 or MTH 441/MTH 541, or permission of instructor.
+MTH 486/MTH 586.  Introduction to Set Theory.  (3)
+The recursion theorem, cardinality, cardinal numbers, well-orderings, ordinals, the axiom of replacement, transfinite induction and recursion, ordinal arithmetic, the axiom of choice, cardinal exponentiation, ultrafilters, stationary sets.Prerequisites: MTH 421/MTH 521 or MTH 441/MTH 541, or permission of instructor.
+MTH 491/MTH 591.  Introduction to Topology.  (3)
+Topological spaces, continuity, countability and separation axioms, product topology, quotient topology, compactness, connectedness, Tychonoff’s Theorem, Urysohn’s Lemma, metrizable spaces.Prerequisite: A grade of C- or better in MTH 222, in MTH 252, and in MTH 331.
+MTH 495/MTH 595.  Introduction to Applied Nonlinear Dynamics.  (3)
+Study of nonlinear dynamics of dynamical systems with application of associated one-dimensional and two-dimensional flows/maps, bifurcations, phase plane dynamics, stability and control. Applications from physics, biology, chemistry, and engineering will be utilized throughout the course.Prerequisite: MTH 245 or MTH 347 or permission of instructor.Cross-listed with MME.
+MTH 600.  Topics in Advanced Mathematics.  (1-4; maximum 10)
+Prerequisite: permission of department chair.
+MTH 604.  Discrete Mathematics for Secondary School Teachers.  (3)
+For high school teachers. Selected topics, such as: algorithms, Boolean algebra, combinatorics, difference equations, functions, graphs, and networks. For students in mathematics and statistics programs, credit may only be applied to the degree Master of Arts in Teaching.Prerequisite: licensure in secondary school mathematics or permission of instructor.
+MTH 605.  Calculus for Secondary School Teachers.  (3)
+For high school teachers. A return to the main topics of calculus with more emphasis on theory, applications, and historical development than in the usual introductory course. For students in mathematics and statistics programs, credit may only be applied to the degree Master of Arts in Teaching.Prerequisite: licensure in secondary school mathematics or permission of instructor.
+MTH 606.  Geometry for Secondary School Teachers.  (3)
+For high school teachers. Re-examination of traditional material of secondary-school geometry from an advanced viewpoint. Recent developments on content and methods are included. For students in mathematics and statistics programs, credit may be applied only to the degree Master of Arts in Teaching.Prerequisite: licensure in secondary school mathematics or permission of instructor.
+MTH 607.  Algebra for Secondary School Teachers.  (3)
+For high school teachers. An in-depth development of selected topics with their applications and history. Theory of equations, number theory, number systems, complex numbers, systems of equations, matrices, determinants, algebraic structures. For students in mathematics and statistics programs, credit may be applied only to the degree Master of Arts in Teaching.Prerequisite: licensure in secondary school mathematics or permission of instructor.
+MTH 609.  Data Analysis and Inference for Secondary School Teachers.  (3)
+For high school teachers. Re-examination of secondary-school data science topics from an advanced viewpoint. Student use various methods and tools to help design effective studies, make inferences from raw data, and translate those inferences into meaningful contexts. Recent developments on content and methods are included. For students in mathematics programs, credit may only be applied to the degree Master of Arts in Teaching.Prerequisite: Licensure in secondary school mathematics or permission of instructor.
+MTH 620.  Topics in Algebra.  (1-4; maximum 8)
+Topics selected from an area of algebra.Prerequisite: permission of department chair.
+MTH 621.  Abstract Algebra I.  (4)
+Sylow theory, composition series, polynomial rings. Galois theory of fields, modules over a principal ideal domain and their application.Prerequisite: MTH 421/MTH 521 or permission of department chair.
+MTH 622.  Abstract Algebra II.  (3)
+Continued study of structures from MTH 621 together with algebras, tensor products, radicals, chain conditions and dimension, within one of the frameworks: commutative algebra, artinian rings, homological algebra, or Lie algebras.Prerequisite: MTH 621.
+MTH 630.  Topics in Operations Research.  (1-4; maximum 8)
+Special topics selected from game theory, combinatorics, graph theory, optimization, computer algorithms, and other subjects under general heading of operations research.Prerequisite: permission of instructor.
+MTH 632.  Advanced Optimization.  (3)
+Careful development of the theory of finite-dimensional continuous optimization, emphasizing the differentiable and convex cases.Prerequisite: MTH 432/MTH 532/532 and 441 or permission of instructor.
+MTH 638.  Advanced Graph Theory.  (3)
+Advanced treatment of graph theory with selected topics from: Extremal problems, probabilistic, algebraic, and topological aspects of graph theory, analysis of graph algorithms, Ramsey theory.Prerequisite: MTH 438/MTH 538 or permission of instructor.
+MTH 641.  Functions of a Real Variable.  (4)
+Lebesgue measure, Lebesgue integration, differentiation, general measures and integration, Radon- Nikodym theorem, Fubini theorem, classical Lp spaces, Banach spaces.Prerequisite: MTH 491/MTH 591.
+MTH 651.  Functions of a Complex Variable.  (4)
+Complex number system, analytic functions, complex integration and calculus of residues, representation, analytic continuation, Riemann mapping theorem.Prerequisite: MTH 441/MTH 541 and 451.
+MTH 655.  Advanced Differential Equations.  (3)
+Concepts and techniques for solving the ordinary and partial differential equations that arise in various scientific disciplines.Prerequisites: MTH 441/MTH 541, MTH 455/MTH 555 or permission of the instructor.
+MTH 677.  Independent Studies.  (0-6)
+MTH 689.  Research in Math Education.  (3)
+An introduction to the interpretation and application of educational research methods in mathematics education. Emphasis will be on action research as a methodology. Practical experience in data collection and making research plans will be included.
+MTH 691.  Introduction to Algebraic Topology.  (4)
+Fundamental group and covering spaces: homotopy, fundamental group of the circle, Seifert-Van Kampen Theorem, group presentations, covering spaces and the correspondence theorem. Additionally, if time permits, topics in homology.Prerequisite: MTH 491/MTH 591.
+MTH 700.  Research for Master's Thesis.  (1-12; maximum 12)
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

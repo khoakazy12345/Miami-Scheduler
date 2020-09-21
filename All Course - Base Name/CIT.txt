@@ -1,0 +1,128 @@
+Computer and Information Technology (CIT) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+Computer and Information Technology (CIT)
+General Course Information
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Computer and Information Technology (CIT)
+Computer and Information Technology (CIT)
+CIT 101.  Computing Skills.  (1)
+Hands-on introduction to the use of current popular software and information retrieval tools. Self-paced and traditional instruction methods are used. A headnote specifies the instructional method and particular software tool.  Note: a maximum of nine credit hours of CIT 101, CSE 141, and CIT 154 can be used toward degree requirements. A maximum of three credit hours will be awarded among CIT 101W, 101S, and 101D, and CIT 154. A maximum of three credit hours will be awarded among CIT 101F, 101G, and 101V, and CIT 173. Credit/no credit only. Not open to CSE majors.
+CIT 102.  Digital Media and Design Tools.  (2; maximum 6)
+Practical and applied approach to digital media and design tools using industry standard software. The type of software studied will vary, and the course may be repeated for different software tools. The particular software used for the course will be specified as a note on the schedule. Up to six hours of credit may be applied toward graduation.
+CIT 154.  Personal Computer Concepts and Applications.  (3)
+Survey course for students who wish to become computer literate and make practical use of microcomputers. Survey of various hardware components and software systems used by current microcomputers. Includes hands-on experience with various software packages including word processing, spreadsheet, database management, and graphics. Not open to CSA baccalaureate majors. Credit awarded for only one of these: CMR 181 or CIT 154.
+CIT 167.  Information Technology People and Practices.  (2)
+This course is designed for new Miami students who also have declared or would like more information about the IT major. First, through reflection, self-assessment and group discussions, students gain a sense of belonging at Miami, plan how to make the most of their time at Miami, and establish a foundation for academic and co-curricular success. Second, students are introduced to computer and information technology and its role in society and the work place. Students will explore careers available to technology professionals and the use of technology in various domains, with an emphasis on technical problem solving, technical infrastructure, teamwork, and communication. Note: This course meets the requirements for UNV 101.
+CIT 168.  Information Technology Tools and Techniques for Organizations.  (4)
+An introduction to fundamental IT tools and techniques to solve technological problems for organizations. Students will use software and/or hardware tools to explore network fundamentals, web programming, data management and storage, and operating systems.3 Lec. 1 Lab.
+CIT 177.  Independent Studies.  (0-6)
+CIT 201.  Advanced Spreadsheets and Analytics.  (3)
+Hands-on instruction in advanced spreadsheet techniques using current popular software and information retrieval tools. Additionally, students will be introduced to basic analytic methods.Prerequisites: CIT 101S or CIT 154 or CMR 181 or CSE 148.
+CIT 205.  Agile Launchpad I.  (3)
+Agile is a term for a set of values, principles, and practices that have been shown to improve the efficiency, productivity, and quality of software development and delivery. The key objectives are to deliver working software that meets the needs of a customer while mitigating risk in the development process. This set of courses addresses the theory and practice of Agile in the context of globally dispersed teams. Students will learn and apply the values, principles, and practices of Agile while working in multi-disciplinary international teams. The course includes a significant practicum experience in which students collaborate with developers in other countries such as Australia, India, or China to develop working software using the Agile approach. Students will need to collaborate across time zones, cultural differences, and communication barriers. EL.Cross-listed with CEC 205.
+CIT 214.  Database Design and Development.  (3)
+Practical and applied approach to database management design and development. Introduction to database planning, design and management, data modeling and representation, and fundamental concepts of database access. Includes the study of design models with a focus on the relational model and includes the commonly used database systems. Will include hands-on experiences.Prerequisite: CIT 168.
+CIT 253.  Contemporary Programming Languages.  (3)
+Presents syntax and semantics of a particular programming language currently popular in industrial or academic settings. Addresses fundamental program construction, good software design and programming style, and development of applications focused on the strengths and special features of the language. Covers fundamental and advanced topics in the language. Course may present languages such as C++ (in 253.C), Perl (in 253.P), and others as they may emerge.Prerequisite: CSE 163 or CSE 174, or permission of the instructor.
+CIT 262.  Technology, Ethics, and Global Society.  (3) (MPF)
+Inquiry into a wide range of information technology issues, from moral responsibilities affecting professionals to wider ethical concerns associated with information technology in day-to-day living. Topics include general aspects of ethics; common ethical theories; professional codes of ethics in IT; privacy, security and reliability in using computer systems and the internet; issues and responsibilities in internet usage; legal issues in IT; global perspectives of computing issues; and general problems related to ethical and responsible computing. IIB, IIC.Prerequisites: ENG 111 and a minimum of 20 credit hours earned.Cross-listed with CSE.
+CIT 263.  Advanced Topics in Visual BASIC.  (3)
+Topics include using multiple file formats including databases, creating menus, multiple form projects, using ActiveX controls, modules, executable files, VBScripting, and VBA. Work with mouse events and OLE. Additional concentration on debugging, error detection, and testing programs for robustness.Prerequisite: CSE 163.
+CIT 268.  Introduction to Human-Computer Interaction.  (3)
+Inquiry into a wide range of Human Computer Interaction (HCI) issues ranging from the understanding and advocacy of the user in the development of IT applications and systems, to the technical components of design. Topics include foundations of HCI, the nature of the HCI design process, technical aspects and limitations of selected 'technologies' related to HCI, user-centered methodologies for development and deployment, task analysis, ergonomics, accessibility standards, emerging technologies, and principles and methodologies of effective interface design and evaluation. This course will also address appropriate communication skills for effective human-to-human interaction as the foundation for developing effective, user-centered designs.Prerequisite: CIT 168.
+CIT 270.  Special Topics in Computer and Information Technology.  (1-3; maximum 6)
+In-depth study and analysis of a topic of special or emerging interest in Computer and Information Technology.Prerequisite: sophomore standing or permission of instructor.
+CIT 273.  Web Application Development.  (3)
+This course addresses the development of interactive web applications using both client and server side technologies. Topics include client-side scripting, server-side scripting, persistence, connectivity issues and their implementation, access and updating of databases via web interfaces, and the use of embedded multimedia. Current technologies will be used to program and implement the web applications.Prerequisite: CIT 214 or permission of instructor.
+CIT 276.  IT Systems Design and Lifecycle Management.  (3)
+Review of systems development and project management fundamentals for IT. Topics include current project lifecycle development frameworks, tools and techniques used to support requirements gathering, systems analysis, project management, testing, maintenance, and support. Not open to CSE or ISA majors.Prerequisite: CIT 214 or permission of instructor.
+CIT 277.  Independent Studies.  (0-6)
+CIT 281.  Enterprise Network Infrastructure.  (3)
+Introduces the design and implementation of enterprise networks using industry-standard infrastructure operating systems. Topics will include selection of routing protocols, router configuration, advanced topics in network addressing, LAN switch configuration, VLAN configuration, inter-VLAN routing, port security, and enterprise wireless design.Prerequisite: CIT 168.
+CIT 284.  Enterprise Server Installation and Configuration.  (3)
+Covers the installation and configuration of industry-standard server solutions. Students will use virtual machines, and explore virtual networking. Topics will include client and server operating system selection, installation, management and troubleshooting; design and implementation of a directory services model; user-creation and management; and implementation of a variety of server-based applications and services.Prerequisite: CIT 168.
+CIT 286.  Designing and Deploying Secure Enterprise Networks.  (3)
+Integrates clients, servers and infastructure components into a secure network design. Students will learn about common network-based vulnerabilities, corresponding mitigation solutions, and structured testing methods. Topics will include infrastructure security concepts, protocols, and devices. Students will learn about device hardening, configuration of server and router-based ACLs, and firewall configuration concepts.Prerequisite: CIT 281.
+CIT 306.  Agile: Business Value Analysis.  (3)
+Agile is a term for a set of values, principles, and practices that have been shown to improve the efficiency, productivity, and quality of software development and delivery.  This course focuses on value-driven project delivery, the accompanying mindset, and key agile practices designed to emphasize customer value. Additionally, the course explores creating organizational and team environments conducive to frequent and transparent collaboration between the business and development teams. Students who complete this course earn the ICAgile Business Value Analysis certification. This certification provides an excellent foundation in value-based agile solutions delivery.Prerequisite: CIT 205.
+CIT 307.  Agile: Project Management.  (3)
+The key objectives of this course focus on core components of agile project management as distinct from traditional project management, and on equipping course participants with strategies and techniques for successful Lean and Agile project implementation. Agile is a term for a set of values, principles, and practices that have been shown to improve the efficiency, productivity, and quality of software development and delivery. A servant leadership mindset and approach is critical to empowering agile teams to produce great results. Students will practice the role of an agile project manager and a facilitator of agile practices towards achieving desired outcomes. Students who complete this course will earn the ICAgile Project Management certification. This certification also takes a much more in-depth look at the fundamental agile concepts of adaptive planning, customer collaboration, and value-driven delivery in dynamic and sometimes highly constrained environments. In addition, the learning outcomes address agile approaches to standard project management processes such as metrics, reporting, and contract management.Prerequisite: CIT 205.
+CIT 338.  Business Intelligence Tools.  (3)
+This course is designed as an exploration of the business intelligence tools used by organizations in decision making. Students will be introduced to a variety of analytic tools. These tools will be used to employ a variety of techniques to discover and analyze small and large data sets.Prerequisite: CIT 201.
+CIT 340.  Internship.  (0-20)
+CIT 348.  Information Management and Retrieval.  (3)
+This course will apply information technology to databases to support decision making. It will address information technology techniques as they apply to information lifecycle issues in a variety of domains. This course will include hands-on use of current information technology for organizational needs analysis, data acquisition and storage through data contextualization, and information retrieval effective use. Participants will analyze new tools and techniques for suitability to specific information management and retrieval objectives. Topics include data storage and retrieval techniques, data transformation, tool analysis and evaluation, information presentation, data mining, and organizational information need analysis.Prerequisites: CIT 214 and STA 261 or STA 368 or ISA 205.
+CIT 357.  Current Practices in Information Technology.  (3)
+Investigation of current practices, tools, and applications of Information Technology. Emphasis is on structured research techniques, critical analysis, and presentation of technical materials.Prerequisite: CIT 276 and junior standing.
+CIT 358.  Information Technology Assurance and Security.  (3)
+This course provides a foundational knowledge of the key issues associated with protecting information assets by addressing current issues and techniques in information security and information assurance. Topics will include the impact of security in the system development life cycle methodology, security threats, risks, and assets, incident response, cryptography, disaster recovery, data and information protection tools, information privacy, and regulatory compliance.Prerequisite: CIT 168.
+CIT 370.  Special Topics in Computer and Information Technology.  (1-3; maximum 6)
+In-depth study and analysis of a topic of special or emerging interest in Computer and Information Technology.Prerequisite: permission of instructor.
+CIT 376.  IT for Organizations.  (3)
+This course explores the management of the many aspects of an IT organization. It further examines the relationship and alignment between the IT functions and its’ support of the overall strategic goals of the organization.Prerequisite: CIT 276 or permission of instructor.
+CIT 377.  Independent Studies.  (0-6)
+CIT 431.  Health Information Technology I.  (3)
+Examination of information technology and related systems in healthcare settings, particularly as they pertain to clinical systems. Emphasis is on the analysis of data needs, interpretation of workflow analysis, and investigation into interoperability requirements and standards.Prerequisite: NSG 321.
+CIT 432.  Health Information Technology II.  (3)
+Continued examination of information technology and related systems in healthcare settings, particularly as they pertain to non-clinical systems such as healthcare administration and financial systems. Emphasis is on the analysis of data needs, security analysis, data reporting, and the design and development of HIT projects.Prerequisite: CIT 431.
+CIT 448.  Global and Strategic Issues in Information Technology.  (3) (MPF)
+While information technologies remain the same across national borders, their usage and context change according to country cultures and national laws. Features such as information infrastructure, languages, business practice, intellectual property protection, and tariffs impact the adoption of IT in a transnational organization. In this course, students will define global technology issues and their impact, understand cultural differences and their effect on standards for the use of technology, develop resources to make informed decisions personally and professionally, and generally raise global awareness within an IT context. IIIB, IC.Prerequisite: CIT 262/CSE 262 or permission of instructor.
+CIT 457.  IT Project Lifecycle I: Requirements and Design.  (3) (MPC)
+Students undertake all phases of information technology (IT) systems design and implementation, conducting a major IT project, working singly or in collaboration with other students under the direction of a faculty or external project sponsor. With instructor permission, students may elect to pursue a co-curricular activity. All elements of the IT project lifecycle are considered including analysis, requirements, design, user and feasibility studies, ethical considerations, implementation, testing, documentation, and system rollout. In CIT 457, students work through pre-implementation to produce a detailed requirements and design proposal (and potentially prototype systems). In CIT 458, students implement, test, and rollout their systems. EL.Prerequisites: CIT 357 and senior standing.
+CIT 458.  IT Project Lifecycle II: Implementation and Deployment.  (4) (MPC)
+Students undertake all phases of information technology (IT) systems design and implementation, conducting a major IT project, working singly or in collaboration with other students under the direction of a faculty or external project sponsor. With instructor permission, students may elect to pursue a co-curricular activity. All elements of the IT project lifecycle are considered including analysis, requirements, design, user and feasibility studies, ethical considerations, implementation, testing, documentation, and system rollout. In CIT 457, students work through pre-implementation to produce a detailed requirements and design proposal (and potentially prototype systems). In CIT 458, students implement, test, and rollout their systems. EL.Prerequisite: CIT 457.
+CIT 468.  Health Information Technology Project Lifecycle.  (4) (MPC)
+This course is designed for Health Information Technology majors. Students design and implement an information technology (IT) solution to a healthcare problem, working singly or in collaboration with other students under the direction of a faculty or external project sponsor. With instructor permission, students may elect to pursue a co-curricular activity. EL.Prerequisite: CIT 357.
+CIT 477.  Independent Studies.  (0-6)
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

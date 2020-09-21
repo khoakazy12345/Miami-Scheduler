@@ -1,0 +1,157 @@
+Statistics (STA) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+General Course Information
+Statistics (STA)
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Statistics (STA)
+Statistics (STA)
+Note: Service courses do not count toward majors in the Department of Statistics or the Department of Mathematics. They may or may not count toward majors in other departments. Look carefully at your major requirements elsewhere in this Bulletin.
+STA 125.  Introduction to Business Statistics.  (3)
+This course provides an introduction to data, probability, sampling and its importance to analytical decision-making in business. Upon successful completion of this course, students will have the foundational skills necessary to summarize data, describe relationships among variables, and conduct one-sample and two-sample statistical inference.Prerequisites: MTH 102 or MTH 121 or MTH 125 or MTH 151; ACT Math Score of 22 or higher; SAT Math Score of 540 or higher; or Miami International Math Placement Test score of 8 or higher; or successful completion of MTH 025; or permission of department chair.Cross-listed with ISA.
+STA 147.  First Year Seminar in Mathematics and Statistics.  (1)
+Serves as an introduction to various areas of Mathematics and Statistics. Conducted in a seminar/lecture format, the course provides majors in the departments of Mathematics and Statistics with information about undergraduate research and career options as well as about departmental, College, and University resources and requirements. The course helps students plan how to make the most of their time at Miami, and establish a foundation for academic and co-curricular success.Prerequisites: Completion of or enrollment in MTH 151 (or above) or permission of instructor.Cross-listed with MTH 147.
+STA 177.  Independent Studies.  (0-6)
+STA 250.  Basic Math for Analytics.  (3)
+Provides students with practical and applied foundational mathematics needed as background for success in data-driven decision making. Topics include sets, functions in single and multiple variables including logarithms, exponentials, and trigonometric; matrix algebra operations; introductory calculus concepts; and basic optimization principles necessary for data analysis. Introduction to applied software driven techniques is included in the course.Prerequisites: MTH 102 or MTH 121 or three years of college preparatory mathematics or permission of department chair.Co-requisites: STA 261, ISA 225, or STA 301.Cross-listed with ISA.
+STA 261.  Statistics.  (4) (MPF, MPT)
+Service course. Descriptive statistics, basic probability, random variables, binomial and normal probability distributions, tests of hypotheses, regression and correlation, analysis of variance. Emphasis on applications. Note: Credit for graduation will not be given for more than one of ISA 205, STA 261, STA 301, or STA 368. V. CAS-E.
+STA 271.  Introduction to Actuarial Science.  (1)
+Introduction to the actuarial profession and to the concepts and problems encountered by actuaries. Topics include the different types of insurance, probability's role in insurance, interest theory, mortality, annuities, pensions, reserves, life insurance, the different actuarial societies, and employment opportunities. Each class meeting will feature a guest lecturer from an area insurance company.
+STA 277.  Independent Studies.  (0-6)
+STA 301.  Applied Statistics.  (3) (MPT)
+A first course in applied statistics including an introduction to probability, the development of estimation and hypothesis testing, and a focus on statistical methods and applications. Includes introduction to probability of events, random variable, binomial and normal distributions, mathematical expectation, sampling distributions, estimation, and hypothesis testing. Statistical methods include one and two sample procedures for means and proportions, chi-square tests, analysis of variance, and linear regression. Credit for graduation will not be given for more than one of ISA 205, STA 261, STA 301, or STA 368.Prerequisite: MTH 151 or MTH 249 or MTH 251.
+STA 308.  Introduction to Programming and Scripting for Data Analytics.  (3)
+Introduction to computer programming concepts used for solving mathematical problems and manipulating data. Control structures, functions, formatted input/output, character and string processing, arrays, procedural and functional programming, basic elements of object-oriented programming. Emphasis on programming languages in high demand for data analytics.Prerequisites: STA 261 or STA 301 or ISA 225 or POL 306.Cross-listed with POL.
+STA 309.  Building, Managing and Exploring Data Sets in Analytics.  (3)
+Techniques for constructing, downloading, cleaning, combining, extracting and manipulating data sets to prepare them for statistical analysis and visualization. Emphasis on programming languages used in data analytics and structured query language.Prerequisites: STA/POL 308; STA 363 or ISA 291 or POL 306; MTH 133 or ISA/STA 250.
+STA 333.  Nonparametric Statistics.  (3) (MPT)
+Applied study of statistical techniques useful in estimating parameters of a population whose underlying distribution is unknown. Chi-square, runs, and association tests covered. CAS-QL. (For majors in the department, this course counts only toward the B.S. in Data Science and Statistics.)Co-requisite: ISA 291 or STA 363.Cross-listed with ISA.
+STA 340.  Internship.  (0-20)
+STA 350.  Topics in Statistics.  (1-4; maximum 6)
+Topics in statistics that are extensions or applications of ideas covered in previous statistics courses. Previous statistics courses at the 2xx/3xx level is typically assumed.
+STA 363.  Introduction to Statistical Modeling.  (3) (MPT)
+Applications of statistics using regression and design of experiments techniques. Regression topics include simple linear regression, correlation, multiple regression and selection of the best model. Design topics include the completely randomized design, multiple comparisons, blocking and factorials. STA 363 may not be taken after credit has been earned for STA 463/STA 563. CAS-QL.Prerequisite: STA 261 or STA 301 or STA 368 or ISA 205 or ISA 225; or permission of instructor.
+STA 365.  Statistical Monitoring and Design of Experiments.  (3)
+Introduction to statistical methods for monitoring process data and data streams. Introduction to experimental design with applications in business analytics. Prerequisite: ISA 205 or ISA 225 or STA 301 or STA 363 or equivalent.Cross-listed with ISA.
+STA 368.  Introduction to Statistics.  (4) (MPT)
+Service course. Beginning course in statistics with emphasis on methods and applications. Probability, random variables, binomial and normal probability distributions, sampling distributions, statistical inference procedures, linear regression, analysis of variance and other data analysis methods. Note: Students with majors other than engineering should take STA 301 rather than STA 368. Engineering majors should check the degree requirements for their major to determine whether to take STA 301 or STA 368. Credit for graduation will not be given for more than one of ISA 205, STA 261, STA 301, or STA 368.Prerequisite: MTH 151 or MTH 249 or MTH 251.
+STA 377.  Independent Studies.  (0-6)
+STA 401/STA 501.  Probability.  (3)
+Development of probability theory with emphasis on how probability relates to statistical inference. Topics include review of probability basics, counting rules, Bayes Theorem, distribution function, expectation and variance of random variables and functions of random variables, moment generating function, moments, probability models for special random variables, joint distributions, maximum likelihood estimation, unbiasedness, distributions of functions of random variables, chi-square distribution, students t distribution, F distribution, and sampling distributions of the sample mean and variance. Note: STA 401/STA 501 may not be counted toward graduate degree programs in mathematics or statistics.Prerequisite: STA 261, STA 301, or STA 368 or ISA 225 and MTH 249 or MTH 251.
+STA 402/STA 502.  Statistical Programming.  (3)
+Introduction to the use of computers to process and analyze data. Techniques and strategies for managing, manipulating, and analyzing data are discussed. Emphasis is on the use of the SAS system. Statistical computing topics, such as random number generation, randomization tests, and Monte Carlo simulation, will be used to illustrate these programming ideas.Prerequisite: A grade of C or better in ISA 291 or ISA/STA 333 or STA 363 or STA 463/STA 563 or STA 672; or STA graduate standing.
+STA 404/STA 504.  Advanced Data Visualization.  (3)
+Communicating clearly, efficiently, and in a visually compelling manner using data displays. Identifying appropriate displays based on various data characteristics/complexity, audiences, and goals. Using software to produce data displays. Integrating narratives and data displays. Critiquing visualizations based on design principles, statistical characteristics, and narrative quality. CAS-QL.Prerequisites: A grade of C or better in ISA 291 or ISA/STA 333 or STA 363 or STA 463/STA 563 or STA 672; or STA Graduate Standing.
+STA 427/STA 527.  Introduction to Bayesian Statistics.  (3)
+Introduces the Bayesian approach to statistical inference for data analysis in a variety of applications. Topics include: comparison of Bayesian and frequentist methods, Bayesian model specification, prior specification, basics of decision theory, Markov Chain Monte Carlo, Bayes factor, empirical Bayes, hierarchical models, and use of computational software.Prerequisites: A grade of C or better in STA 462/STA 562 or STA 665, and STA 463/STA 563; or permission of instructor.
+STA 432.  Survey Sampling in Business.  (3) (MPT)
+Survey sampling with applications to problems of business research. Simple random sampling, systematic sampling, stratified random sampling, ratio estimation, and cluster sampling. (For majors in the department, this course counts only toward B.S. in statistics.)Prerequisite: ECO 301, ISA 305, STA 363, STA 401/STA 501 or STA 463/STA 563 or permission of instructor.Cross-listed with ISA.
+STA 450.  Advanced Topics Statistics.  (1-4; maximum 8)
+Topics in statistics that are extensions or applications of ideas covered in previous statistics courses. Previous statistics courses at the 4xx level is typically assumed.
+STA 462/STA 562.  Inferential Statistics.  (3)
+A study of estimation and hypothesis testing including a development of related probability ideas. Topics include derivation of the distribution of functions of random variables, point estimation methods, properties of point estimators, derivation of confidence interval formulas, and derivation of test statistics and critical regions for testing hypotheses.Prerequisite: MTH 252 with a grade of C or better and STA 363 with a grade of C or better and STA 401/STA 501 with a grade of C or better.
+STA 463/STA 563.  Regression Analysis.  (4)
+Linear regression model, theory of least squares, statistical inference procedures, general linear hypothesis, partial F tests, residual analysis, regression diagnostics, comparison of several regressions, model adequacy, and use of statistical computer packages.Prerequisite: MTH 222 with a grade of C or better and STA 363 with a grade of C or better and STA 401/STA 501 with a grade of C or better.
+STA 466/STA 566.  Experimental Design Methods.  (4)
+Experimental design concepts; completely randomized, randomized block, and Latin square designs; planned and multiple comparisons; analysis of variance and covariance; factorial and split-plot experiments; nested designs and variance components; fixed, random, and mixed effects models. Emphasis on applications and computer usage.Prerequisite: STA 463/STA 563 or ISA 291 with a grade of C or better.
+STA 467/STA 567.  Statistical Learning.  (3)
+Introduction to methods of statistical learning, with emphases on both theory and implementation. Topics include supervised and unsupervised learning methods, including linear and nonlinear models for regression and classification, additive models, recursive partitioning methods, neural networks, support vector machines, association rules, and cluster analysis; ensemble methods; and methods of model assessment and selection. Credit not awarded for both STA 467/STA 567 and ISA 491/ISA 591.Prerequisite: STA 463/STA 563 with a grade of C or better.
+STA 471/STA 571.  Actuarial Exam Preparation Seminar: Probability.  (1)
+Solution and discussion of challenging probability problems such as those found on the first actuarial exam.Prerequisite: STA 401/STA 501 or permission of instructor.
+STA 475.  Data Analysis Practicum.  (3) (MPC)
+The use of statistical data analysis to solve a variety of projects. Emphasis on integrating a broad spectrum of statistical methodology, presentation of results both oral and written, use of statistical computing packages to analyze and display data, and an introduction to the statistical literature. A term project involving student teams combines elements of all of the above. CAS-QL.Prerequisite: senior standing and STA 463/STA 563 or 363, or ISA 291 with a grade of C or better and at least one of STA 404/STA 504, STA 466/STA 566, STA 467/STA 567 or STA 483/STA 583.
+STA 477.  Independent Studies.  (0-6)
+STA 480.  Departmental Honors.  (1-6; maximum 6)
+Departmental honors may be taken for a minimum of four semester hours and a maximum total of six semester hours in one or more semesters of student's senior year.
+STA 483/STA 583.  Analysis of Forecasting Systems.  (3)
+Introduction to quantitative prediction techniques using historical time series. Involves extensive use of interactive computing facilities in developing forecasting models and considers problems in design and updating of computerized forecasting systems. Credit not awarded for both STA 483/STA 583 and ISA 444.Prerequisite: A grade of C or better in STA 463/STA 563; or a grade of C or better in STA 401/STA 501 and STA 363 or ISA 291.
+STA 600.  Topics in Advanced Statistics.  (1-4; maximum 10)
+Prerequisite: permission of department chair.
+STA 615.  Statistics for Criminal Justice.  (3)
+This course provides an expedited instruction of statistical analyses used in the social sciences. Additionally, students will learn statistical analytic techniques applicable in a wide variety of criminal justice agency settings.Prerequisite: admission to the MS in Criminal Justice or permission of instructor.Cross-listed with CJS.
+STA 616.  Communicating with Data.  (3)
+Bridges the study of technical and computational tools to the audiences who need the results of this work. This course will span the entire process of developing a data analytic product from consultation with a client to implementing a solution to presenting the solution to the client. This course will address the fundamentals of effectively communicating with and about quantitative analyses. Topics include using data visualization to describe data; document descriptive, predictive, and prescriptive analytical methods for reproducibility; write professional white papers and technical reports; and ethical considerations related to writing and communication with data.Cross-listed with ISA.
+STA 635.  Introduction to Predictive Analytics.  (3)
+Introduction to foundational statistical methods and techniques relevant to predictive statistical modeling. Topics include simple and multiple linear regression models, logistic regression models, nonlinear regression, and classification and regression trees. Widely used statistical software packages will be introduced and used extensively in the course.Cross-listed with ISA.
+STA 637.  Statistical Programming and Data Visualization.  (3)
+Introduction to programming concepts, techniques and strategies for preparing, managing and displaying data in the context of statistical analyses. Topics include cleaning, combining, extracting and reshaping data sets; invoking statistical procedures and managing the results as data sets; creating appropriate production-quality tabular and graphical displays of data and results of analyses. Emphasis on widely used software packages for statistical analysis and visualization.
+STA 638.  Predictive Analytics and Data Mining.  (3)
+An in-depth look at predictive modeling using decision trees, neural networks, logistic regression and ensemble methods. Best practices for building, comparing, and implementing predictive models are presented. Other topics include unsupervised learning techniques such as cluster analysis, segmentation analysis, market basket, and sequence analysis. Emphasis on use of software and real-world applications.Cross-listed with ISA.
+STA 640.  Internship.  (0-12; maximum 6)
+STA 650.  Topics in Statistics.  (1-4; maximum 8)
+Topics selected from an area of statistics.Prerequisite: permission of instructor.
+STA 651.  Advanced Statistical Methods I.  (3)
+Advanced topics selected from an area of statistics.Prerequisites: STA 563 and STA 664 and STA 665, or permission of instructor.
+STA 652.  Advanced Statistical Methods 2.  (3)
+Advanced topics selected from an area of statistics.Prerequisites: STA 563 and STA 664 and STA 665 or permission of instructor.
+STA 660.  Practicum in Data Analysis.  (3)
+Supervised practice in consulting and statistical data analysis including use of computer programs. Maximum of six hours may be applied toward a degree in mathematics or statistics. Offered credit/no-credit basis only.Prerequisite: STA 566.
+STA 664.  Theory of Statistics.  (3)
+Topics from distribution theory, theory of estimation, theory of tests of hypothesis.Prerequisite: Graduate standing or permission of instructor.
+STA 665.  Theory of Statistics.  (3)
+Topics from distribution theory, theory of estimation, theory of tests of hypothesis.Prerequisite: STA 664 and graduate standing; or permission of instructor.
+STA 666.  General Linear Models.  (3)
+The theory of linear models used in regression and experimental design. Topics will include: multivariate normal distributions, quadratic form theory, general linear model theory and inference for both full and less than full rank models, estimability and estimable functions.Prerequisite: STA 463/STA 563.
+STA 667.  An Introduction to Multivariate Statistical Analysis.  (3)
+Study of multivariate normal distribution, estimation and tests of hypotheses for multivariate populations, principal components, factor analysis, discriminant analysis.Prerequisite: Graduate standing or permission of instructor.
+STA 671.  Environmental Statistics.  (3)
+Service course. Descriptive statistics, probability models, sampling distributions, estimation, hypothesis testing, regression and correlation analysis, elements of experimental design, and analysis of variance.Prerequisite: Graduate standing or permission of instructor.
+STA 672.  Statistical Modeling and Study Design.  (4)
+Introduction for graduate students to various methods of data analysis, forecasting, and building and use of computer simulation and optimization models for analysis and solution of environmental problems.Prerequisite: basic course in statistics and admission to IES or permission of instructor.
+STA 677.  Independent Studies.  (0-6)
+STA 685.  Biostatistics.  (3)
+Introduction to statistical techniques used in biostatistics focusing on analysis of survival and lifetime data. Topics include nonparametric and parametric methods for estimation and comparison of survival distributions. Additional material chosen from clinical trials design and analysis, dose-response models, and risk estimation models.Prerequisite: Graduate standing or permission of instructor.
+STA 686.  Quality Control and Industrial Statistics.  (3)
+Introduction to theory and application of statistical procedures used in industry. Topics include quality control, control charts, acceptance sampling, process optimization techniques, evolutionary operations, response surface methodology, canonical and ridge analysis, method of steepest ascent, and first and second order models.Prerequisite: STA 463/STA 563 or permission of instructor.
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

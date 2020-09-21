@@ -1,0 +1,157 @@
+Electrical & Computer Engineering (ECE) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+Electrical &​ Computer Engineering (ECE)
+General Course Information
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Electrical & Computer Engineering (ECE)
+Electrical & Computer Engineering (ECE)
+ECE 102.  Introduction to Electrical and Computer Engineering.  (3)
+This course introduces students to electrical and computer engineering. The course focuses on various computing and engineering tools used in the profession. Students will apply these tools to complete homework assignments and labs required throughout the course. This course is open to all majors. Credit will be given for only one of CPB 102, CSE 102, ECE 102, MME 102, CEC 102.
+ECE 177.  Independent Studies.  (0-6)
+ECE 205.  Electric Circuit Analysis I.  (4)
+Study of electric circuits and networks. Includes resistive circuits, first-order transients, sinusoidal steady-state analysis, and frequency response. Emphasis on basic principles and their application to circuit analysis using linear algebra and calculus. Laboratory component included. 3 Lec 1 Lab.Prerequisite: PHY 192 and (MTH 249 or MTH 251).
+ECE 277.  Independent Studies.  (0-6)
+ECE 287.  Digital Systems Design.  (4)
+Topics include switching algebra and switching functions, logic design of combinational and sequential circuits using TTL, combinational logic design with MSI and LSI, busing, flip-flops, registers, counters, programmable logic devices, memory devices, register-level design, and microcomputer system organization. Students must show competency in the computer-aided design (CAD) and laboratory implementation of digital systems.3 Lec. 1 Lab.
+ECE 289.  Computer Organization.  (3)
+Study of the design and interconnection of digital hardware to create computers. Includes principles of Von Neumann computer architecture, data representation, computer arithmetic, memory hierarchy, CPU structure and instruction sets, assembly language programming, performance considerations and alternative computer architectures.Prerequisites: ECE 287 and either CSE 174 or CSE 153.
+ECE 291.  Energy Systems Engineering.  (3)
+This course studies power producing systems using fossil and renewable energy sources. The components and operations of power producing systems such as hydro, thermal power plant, nuclear reactor, solar panel, wind turbine, and bioreactor are investigated. Economic decisions and societal and environmental consequences of using various energy sources are emphasized.Prerequisites: PHY 121, 162 or 192 or the instructor's permission.
+ECE 301.  Advanced Circuits and Fundamentals of Renewable Energy.  (3)
+This course addresses second order circuits, Laplace transforms, AC power analysis, poly-phase circuits, magnetically coupled circuits, rotating machines, and advanced topics in circuits and renewable energy. The course lectures expose students to the theories and concepts of electrical engineering and apply these concepts to solving problems relevant to real world applications. Prerequisite or co-requisite: MTH 245 or MTH 246 or MTH 347.Prerequisites: ECE 205.
+ECE 302.  MATLAB and its engineering applications.  (3)
+This course will introduce students to MATLAB programming and its applications in engineering problem solving. MATLAB topics include: programming fundamentals, display and visualization, and advanced topics. Mathematical concepts and theories essential to engineering disciplines will be reviewed and used as practice examples. Students will apply programming skills to solve practical problems, such as circuit analysis, mechanical vibrations and structure analysis, radar pulse compression, image processing, fractals, etc.Prerequisites: PHY 192 and MTH 251, or permission of instructor.
+ECE 303.  Computer-Aided Experimentation.  (3)
+Study of theory and application of instrumentation and experimentation including: components and concepts of computer-machine interface systems; design of computer-controlled experimentation for real-time industrial measurement, monitoring, and control; AC power analysis; applications of the Laplace Transform. Laboratory component included.2 Lec. 1 Lab.Prerequisite: ECE 205.Prerequisite or Co-requisite: MTH 245 or MTH 246 or MTH 347.Cross-listed with MME.
+ECE 304.  Electronics.  (3)
+Analysis and design of electronic circuits and subsystems; study of diodes, transistors, and operational amplifier characteristics; amplification, frequency response and feedback in small signal amplifiers; applications of electronic devices and circuits.2 Lec. 1 Lab.Prerequisite: ECE 205 and (MTH 245 or MTH 246 or MTH 347).
+ECE 306.  Signals and Systems.  (3)
+Study of the principles of signals and systems. The course combines lectures, simulation laboratory exercises, and/or design projects to expose students to the theories and concepts of both continuous-time and discrete time forms of signals and systems, as well as applications of the theories and concepts in communication systems, control systems, and signal processing.Prerequisites: ECE 205 or PHY 292/294.Prerequisite or Co-requisites: MTH 245, MTH 246 or MTH 347.
+ECE 314.  Elements of Robotics.  (3)
+Introduction to robotics, including: microprocessor, programming with robotics applications, comparators, ADC, DAC, interfacing circuits, H-bridge, motors, active and passive sensors.Prerequisites: ECE 102 or CEC 102 or CPB 102 or CSE 102 or MME 102.Prerequisite or Co-requisite: ECE 304.
+ECE 317.  Industrial Robotics.  (3)
+This course covers the use of robotics for industrial applications.Topics include: safety measures for robotic systems; standard and collaborative robots; effectors and sensors; analysis of production output, cost and flexibility in designing a robotic system.Prerequisite: ECE 205.
+ECE 320.  Professional Practice.  (0)
+Students participating in the ECE co-op program register for this course during semesters when they are away from Oxford on work assignment.
+ECE 325.  Applied Electromagnetics.  (3)
+Theories and applications of electromagnetic fields and waves; including signal integrity engineering, transmission line analysis, computational electro- and magnetostatics, and Maxwell's Equations.Prerequisite: ECE 205.Prerequisite or Co-requisite: ECE 306.
+ECE 340.  Internship.  (0-20)
+ECE 345.  Applied Probability and Statistics for Engineers.  (3) (MPT)
+Introduces probability and statistics, including applications relevant to electrical and computer engineering. Includes extensive coverage of random variables and introduces random processes.Prerequisite: MTH 251 or equivalent.
+ECE 353.  Software Defined Radio.  (3)
+This course introduces concepts of software defined radio through lectures and experiments. Students will apply signal processing theories and techniques to build AM/FM radios and more advanced digital communication systems using software defined radio kits.Prerequisites: ECE 102 (or equivalent), CSE 174 and ECE 306.
+ECE 370.  Intermediate Special Topics.  (1-3; maximum 6)
+Study of practical electrical and computer engineering technologies used in the industry, such as programming logic control, printed circuit board, universal software radio peripheral. Topics may vary.Prerequisite: ECE 205.
+ECE 377.  Independent Studies.  (0-6)
+ECE 387.  Embedded Systems Design.  (4)
+Fundamentals of computer systems design. Interfacing and basics of embedded computers (microprocessors). Laboratory projects will require students to successfully design, implement, debug, and document computer solutions requiring a mix of hardware and software. Models and methodologies for designing systems containing hardware and software. Models and methodologies for designing systems containing both hardware and software components, or co-design, will be introduced. Substantial design projects will be required of each student.3 Lec. 1 Lab.Prerequisites: ECE 287, CSE 153 or CSE 174.
+ECE 388.  Introduction to Smartphone Technologies.  (3)
+This course introduces students to the fundamental elements of smartphone technologies from the following four aspects: communications, hardware architecture, mobile safety and privacy, and operating system (OS) with mobile applications (APPs). Topics include mobile communication techniques and protocols, radio resource management, existing and emerging cellular communication systems, System on a Chip (SoC) Architecture, wireless authentication, location-aware privacy preservation, and APP developments in mobile OS.Prerequisites: ECE 289 or CSE 278, ECE 345, and MTH 222 or MTH 246.
+ECE 395.  Undergraduate Research Immersion Project.  (1-3; maximum 3)
+This course will introduce students to a special topic in an area of science and/or technology. Students will conduct an in-depth research project. Through carrying out the project, students will experience and reflect on the research process, including literature review, information evaluation, problem definition, data analysis, results interpretation, and potentially a peer-reviewed publication. This course is typically offered only for study-abroad or study-away workshops.Prerequisites: PHY 192 and MTH 251, or permission of instructor.
+ECE 411/ECE 511.  Sensors and Data Fusion with Robotics Applications.  (3)
+The course discusses sensing techniques and methods of data fusion for robotics applications. Topics include active and passive sensors, data filtering, deterministic and probabilistic data fusion methods.Prerequisites: ECE 306 and (ECE 345 or STA 301 or STA 261).
+ECE 414/ECE 514.  Design and Modeling of Robotic Systems.  (3)
+The course discusses the process of conceptualization, design, modeling and integration of robotic systems. Robotics Operating System programming and applications will be covered in depth. Students will apply the knowledge to build robotic systems.Prerequisites: ECE314 and (MTH 246 or MTH 245 or MTH 347).
+ECE 425/ECE 525.  Digital Signal Processing.  (3)
+This course investigates the relation between continuous-time and discrete-time signals and processing of discrete-time signals. Topics include sampling theory, signal representation, quantization noise,transformation and manipulation of digital signals, digital filter structure and design.Prerequisite: ECE 306.Prerequisite or Co-requisite: ECE 345 or STA 301, or permission of instructor.
+ECE 426/ECE 526.  Biomedical Signal Analysis.  (3)
+Physiological origin, characterization, modeling, and analysis of biomedical signals, including EEG, MEG and ECG signals. Noise and artifact reduction; nonparametric and model-based spectral estimation; joint time-frequency analysis.Prerequisites: ECE 306, and STA 301 or ECE 345.
+ECE 427/ECE 527.  Radar Signal Processing.  (3)
+Principles, theories and techniques of radar signal processing. Including: elements of radar systems; radar equation; sampling and quantization of pulse radar signals; radar waveforms; Doppler processing; target detections; and concepts of synthetic aperture imaging and beamforming.Prerequisites: ECE 306, and either STA 301 or ECE 345.
+ECE 429/ECE 529.  Digital Image Processing.  (3)
+Study of digital image processing techniques, digital image fundamentals, digital image spatial filtering, digital image frequency filtering, image restoration, inverse filtering, Wiener filtering, and color image processing fundamentals. Prerequisite: ECE 425/ECE 525 or ECE 426/ECE 526.
+ECE 430/ECE 530.  Electromagnetics in Wireless Sensing and Communications.  (3)
+Introduces electromagnetic aspects of modern wireless sensing and communications. Covers fundamentals of Electromagnetic (EM) wave propagation in various media, antenna design and wireless system analysis. Hands-on experience with computational modeling and contemporary EM software is provided.Prerequisite: ECE 325.Prerequisite or Co-requisite: STA 301 or ECE 345.
+ECE 436/ECE 536.  Control of Dynamic Systems.  (3)
+An in-depth study of the theory, design, and analysis of feedback control of dynamic systems. Integrate the problem-solving techniques and concepts of electric circuits and computer-aided experimentation into the design and construction of programmable-logic based control systems and its application in modern manufacturing systems. Design methodologies applied in lab exercises and short-term design projects.2 Lec. 1 Lab.Prerequisites: ECE 205 and (MTH 245 or MTH 246 or MTH 347).Prerequisite or Co-requisite: ECE/MME 303.Cross-listed with MME.
+ECE 448.  Senior Design Project.  (2) (MPC)
+Student teams, with varied academic backgrounds, conduct major open-ended research/design projects. Elements of the design process are considered as well as real-world constraints, such as economic and societal factors, marketability, ergonomics, safety, aesthetics, and ethics; feasibility studies performed.Prerequisite: ECE 306 or MME 312 or MME 314 and senior standing in student's major.Cross-listed with MME.
+ECE 449.  Senior Design Project.  (2) (MPC)
+Continuation of ECE 448. Student teams, with varied academic backgrounds, conduct major open-ended research/design projects; implementation, testing, and production of design. Nonmajors can register for 1-2 credits.Prerequisite: senior standing in student's major and (MME 448 or ECE 448).Cross-listed with MME.
+ECE 453/ECE 553.  Communication Systems.  (3)
+This course introduces students to basic communication system principles and practice. Topics include modulation, demodulation and multiplexing techniques. System design and performance analysis will also be covered.Prerequisite: ECE 306 and ECE 345 or STA 301; or permission of the instructor.
+ECE 461/ECE 561.  Network Performance Analysis.  (3)
+Modeling and performance analysis of computer and communication networks including delay and occupancy models in networks, architectures, transmission media, multiple access, switching, and protocols. Emphasis is on lower layer network performance.Prerequisites: ECE 345 or STA 301; or permission of instructor.
+ECE 470/ECE 570.  Special Topics.  (3)
+Advanced special topics in electrical and computer engineering.Prerequisite: Permission of instructor.
+ECE 477.  Independent Studies.  (1-6)
+ECE 484.  Embedded Systems Design.  (3)
+Models and methodologies for designing systems containing both hardware and software components, or co-design, will be introduced. Computer engineering applications are emphasized. Design projects will be required of each student.2 Lec. 1 Lab.Prerequisites: ECE 287, CSE 174, ECE 314.
+ECE 487/ECE 587.  Computer Aided Design Tools for Computer Engineering.  (3)
+This course focuses on the understanding and creation of tools for design in related applications such as VLSI design, FPGA design, 3D printing, DSP design, and parallel and high-performance computation. This study will include focus on both advanced algorithms and structure/architecture of the target technologies. The course will include at least one major design project that will require students to extend (add features) to an existing software base.Prerequisite: CSE 274 or ECE 289, or equivalent.
+ECE 491/ECE 591.  Power Systems Engineering.  (3)
+Study of electric power generation, utility load flow, fault analysis, system stability, surge protection, and the interconnection of the electrical grid system.Prerequisite: ECE 301 or ECE 303 or MME 303.
+ECE 493/ECE 593.  Power Electronics.  (3)
+This course studies the analysis, design, and application of power electronic circuits. It covers the switching characteristics of power semiconductors, PWM (Pulse Width Modulation) techniques for voltage and frequency control, and the DC to DC, DC to AC, and AC to DC power converters.Prerequisite: (ECE 301 or ECE/MME 303) and (ECE 304 or (PHY 292 and PHY 294)).
+ECE 497/ECE 597.  Electric Vehicle Technology.  (3)
+This course studies the elements of electric vehicles (EV), hybrid electric vehicles (HEV), and plug-in hybrid electric vehicles (PHEV). It focuses on three major components in an electrified powertrain: electric machines, power electronics, and energy storage systems. Additional concepts include vehicle-to-grid (V2G) and using PHEVs as mobile energy storage devices. The laboratory element involves simulation and hardware experiments that introduce these topics. Furthermore, it explores important control concepts that are fundamental when using a digital signal processor (DSP): analog-to-digital conversion, sampling time, and switching frequency of the traction inverter.Prerequisites: ECE 301 or ECE 304, or graduate standing.
+ECE 601.  State Variables for Engineers.  (3)
+This course provides a description of state variable theory as applied to engineering principles covering continuous and discrete systems and transform theory. Various methods to determine the fundamental matrix of a linear system will be investigated. Recommended prerequisites include signals and systems, differential equations, and linear algebra.
+ECE 610.  Graduate Seminars.  (1-3)
+Weekly presentations on current research topics in multi-disciplinary areas of electrical and computer engineering, computational science and engineering, and their applications in other disciplines by graduate students, faculty, and visiting scientists and researchers. Research methods, processes, and presentation skills are emphasized. Approved for credit/no-credit grading only. May be repeated.
+ECE 625.  Advanced Digital Signal Processing.  (3)
+After taking this class, students should be able to (1) model a stochastic process; (2) apply Wiener and Kalman filtering in different engineering applications; (3) design an adaptive filter with different updating algorithms and apply the adaptive filter in signal processing applications such as modeling and equalization; (4) apply multirate signal processing in engineering applications such as communications; and (5) estimate power spectrum of random signals.
+ECE 661.  Advanced Optical Network Architectures.  (3)
+This course covers advanced optical network architectures, algorithms, and protocols. Architectural aspects of the course include wavelength-division-multiplexing and elastic optical networks; optical circuit, burst, and packet switching; and optical data center networks. Algorithms and protocols will cover routing and spectrum allocation, survivable and secure network design, GMPLS- based and software-defined-networking-based control planes, application-based network operation, and statistical modeling of optical networks.Prerequisite: ECE 461/ECE 561 or permission of instructor.
+ECE 670.  Advanced Topics in Electrical and Computer Engineering.  (1-3; maximum 6)
+Advanced topics in electrical and computer engineering. Students may repeat the course if the contents offered are sufficiently different.Prerequisite: graduate standing and permission of course instructor or coordinator.
+ECE 677.  Independent Studies.  (0-6)
+ECE 695.  Graduate Research Project.  (1-2; maximum 3)
+Individual research to satisfy the research project requirement for the MS in Computational Science and Engineering course intensive (non-thesis) option, Electrical and Computer Systems concentration. Maximum of three credits can be applied to graduation for the course intensive (non-thesis) option. Not open to Research (thesis) option students.Prerequisite: graduate standing and permission of instructor or academic adviser.
+ECE 700.  Research for Master's Thesis.  (0-9)
+Study under graduate faculty supervision of a research problem related to electrical and computer systems. Maximum of six credit hours of ECE 700 may be applied toward fulfillment of the thesis research requirement for the Master of Science in Computational Science and Engineering.Prerequisite: permission of student's graduate advisor.
+ECE 704.  Non-Thesis Project.  (0-12; maximum 12)
+This repeatable course is for non-thesis culminating experiences. Permission of the instructor is required.
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

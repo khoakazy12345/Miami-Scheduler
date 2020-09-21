@@ -1,0 +1,222 @@
+Computer Science & Software Engineering (CSE) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+Computer Science &​ Software Engineering (CSE)
+General Course Information
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Computer Science & Software Engineering (CSE)
+Computer Science & Software Engineering (CSE)
+CSE 102.  Introduction to Computer Science and Software Engineering.  (3)
+This course introduces students to the computer science and software engineering disciplines. The course focuses on various computing and software design principles and tools used in the profession. Students will be able to model, implement, and test these principles via projects required throughout the course. This course is open to all majors. Credit will be given for only one of CPB 102, CSE 102, ECE 102, MME 102, CEC 102.
+CSE 148.  Business Computing.  (3)
+An introduction to business-oriented computer skills. Extensive hands-on use of electronic spreadsheets and database software. Examples and exercises will stress problem-solving in a business context. Credit not awarded for both CSE 148 and CSE 243.
+CSE 151.  Computers, Computer Science, and Society.  (3) (MPF)
+Perspective on the potential and limitations of computing technology. Topics include problem-solving in computing, computers as thinking machines, and the impact of computing on societies. Exposes students to programming languages and various computer tools. Not open to CSE and ISA majors. V.
+CSE 153.  Introduction to C/C++ Programming.  (3) (MPT)
+Introduction to use of C/C++ programming language as an aid to solving mathematical and scientific problems. Students design, write, and implement programs.
+CSE 163.  Introduction to Computer Concepts and Programming.  (3) (MPF, MPT)
+Introduction to computers in data processing, survey of various hardware and software concepts, and analysis and solution of problems by computer programming. Lecture/laboratory, project-oriented course to provide numerous opportunities to analyze problems, formulate alternative solutions, implement solutions, and assess their effectiveness. No prior knowledge of computer concepts or programming assumed. V.Prerequisite: ACT Math score of 19 or higher, OR SAT Math Score of 510 or higher, or permission of instructor.
+CSE 174.  Fundamentals of Programming and Problem Solving.  (3) (MPT)
+Algorithm development and refinement in problem solving. Modular programming using sequence, selection, and repetition control structures. Program debugging and testing. Formatted input/output. Data files. Fundamental data types. User-defined data types: structured and enumerated. Arrays and arrays of structures. Simple sorting and searching algorithms. Character data and string processing. Algorithm efficiency considerations. Classes, objects, and introduction to object-oriented programming.2 Lec. 1 Lab.Prerequisite: ACT Math score of 22 or higher, or SAT Math score of 520 or higher, or score of at least 8 on the Miami International Math Placement Test.Prerequisite or Co-requisite: MTH 125 or MTH 151 or MTH 249 or MTH 251.
+CSE 177.  Independent Studies.  (0-6)
+CSE 201.  Introduction to Software Engineering.  (3)
+Principles of software engineering: Introduction to all phases of the software development life cycle and associated tools and engineering methods including the unified modeling language (UML).Prerequisite: CSE 274.
+CSE 211.  Software Construction.  (3)
+General principles and techniques for disciplined detailed software design. Basic theory of grammars and parsing. State-transition and table-based design. Formal specification languages and program derivation. Techniques for handling concurrency and inter-process communication. Tools for model-driven construction.Prerequisites: CSE 201, CSE 274 and MTH 231.
+CSE 212.  Software Engineering for User Interface and User Experience Design.  (3)
+Principles of user interfaces (UI) and user experiences (UX) for software engineering. Psychological principles; Design methods such as task analysis and user-centered design. Projects demonstrating window, menu, and command design; voice and natural language I/O; response time and feedback; color, icons, sound.Prerequisite: CSE 271.
+CSE 220.  Professional Practice.  (0)
+Students participating in computer technology associate's degree co-op program register for this course during semesters when they are on work assignment. This enables students to maintain continuing student status with the university.
+CSE 243.  Problem Analysis Using Computer Tools.  (3) (MPF)
+Students will learn to use personal computer productivity tools to analyze data, work with others in conducting analyses, develop conclusions and effectively communicate results. Students will utilize spreadsheet tools to analyze data and will be challenged to evaluate data from multiple perspectives in order to develop conclusions supported by their analysis. Students will use word processing tools to integrate text and graphical information that clearly and concisely communicates their conclusions. While an important part of the course is learning to use the software tools, the emphasis of the course is learning to use these tools to solve problems and communicate results. Credit not awarded for both CSE 243 and CSE 148. V.
+CSE 251.  Introduction to Game Programming.  (3)
+Introduction to computer programming techniques used in games and visual simulations. Simple data and control structures, mathematical foundations, transformations, rendering algorithms, and interfaces. This course is not open to CSE students without permission of instructor.Prerequisite: high school algebra and trigonometry.
+CSE 252.  Web Application Programming.  (3) (MPT)
+An introduction to programming concepts and practices for creating applications which use the web as the delivery platform. Students will learn technologies including HTML, Javascript, AJAX, client side programming and server side scripting to create interactive web applications. Not an elective for computer science and systems analysis majors.Prerequisite: CSE 153 or CSE 163 or CSE 174.
+CSE 253.  Programming Languages.  (1-2)
+Presents syntax and semantics of a particular programming language currently popular in industrial or academic settings. Addresses construction of programs in the language. Applications of the language presented. Coverage of good programming style and software engineering concepts addressed in context of the language. Not applicable to CSE electives requirement for a CSE major.
+CSE 256.  Introduction to Programming for the Life Sciences.  (3)
+Introduction to programming for majors in the life sciences. The ability to write programs to perform tasks related to the organization and analysis of biological data has become a highly-valued skill for researchers in the life sciences, allowing wet-lab researchers to quickly process and sort through large amounts of data to find information relative to their own work. This course serves as an introduction to programming designed specifically for life science majors, targeting the specific skills and techniques commonly needed and explaining the fundamental methods of working with biological data while centering programming assignments around topics of interest to those studying the life sciences. Topics covered include basic programming techniques, representation and manipulation of genomic and protein sequence data, and the automated interface with BLAST and the NCBI GenBank database.Cross-listed with BIO/MBI.
+CSE 262.  Technology, Ethics, and Global Society.  (3) (MPF)
+Inquiry into a wide range of information technology issues, from moral responsibilities affecting professionals to wider ethical concerns associated with information technology in day-to-day living. Topics include general aspects of ethics; common ethical theories; professional codes of ethics in IT; privacy, secruity and reliability in using computer systems and the internet; issues and responsibilities in internet usage; legal issues in IT; global perspectives of computing issues; and general problems related to ethical and responsible computing. IIB, IIC.Prerequisites: ENG 111 and a minimum of 20 credit hours earned.Cross-listed with CIT.
+CSE 270.  Special Topics.  (3)
+Special topics in computer science, computer information systems, or operations research.Prerequisite: permission of instructor.
+CSE 271.  Object-Oriented Programming.  (3) (MPT)
+The design and implementation of software using object-oriented programming techniques including inheritance, polymorphism, object persistence, and operator overloading. Students will analyze program specifications and identify appropriate objects and classes. Additional programming topics include dynamic memory recursion, using existing object libraries, and binary/ASCII file processing.Prerequisite: CSE 174 with a grade of C- or better or equivalent.
+CSE 273.  Optimization Modeling.  (3) (MPT)
+Use of deterministic models and computers to study and optimize systems. Includes an introduction to modeling, calculus-based models, financial models, spreadsheet models, and linear-programming models.Prerequisite: MTH 251 or equivalent.
+CSE 274.  Data Abstraction and Data Structures.  (3) (MPT)
+Abstract data types and their implementation as data structures using object-oriented programming. Use of object-oriented principles in the selection and analysis of various ADT implementations. Sequential and linked storage representations: lists, stacks, queues, and tables. Nonlinear data structures: trees and graphs. Recursion, sorting, searching, and algorithm complexity.Prerequisites: C- or higher in CSE 271.
+CSE 277.  Independent Studies.  (0-6)
+CSE 278.  Systems I: Introduction to Systems Programming.  (3)
+Principles of Von Neumann computer architecture through the C/C++ programming language. Data representation and computer arithmetic. Memory hierarchy. CPU structure and instruction sets. Network programming including use of sockets. Database programming through SQL.Prerequisite: CSE 271, and CSE 102 (or ECE/MME/CPB/CEC 102).
+CSE 283.  Data Communication and Networks.  (3)
+Introduction to data communications, computer networks, protocols, and distributed processing as well as relevant standards and underlying theory. Topics include communication codes, transmission methods, interfacing, error detection, communication protocols, communications architectures, switching methods, and network types. Local area network and internetwork technologies are studied. The client/server model of distributed processing addressed. Students design and implement data communications and network-based software.Prerequisite: CSE 271.
+CSE 310.  Undergraduate Research Seminar.  (1; maximum 3)
+Seminar or workshop on topics in computer science, software engineering, or related fields.
+CSE 311.  Software Architecture and Design.  (3)
+An in-depth look at software design. Study of software architecture, design patterns and software product lines. Designing for quality attributes such as performance, safety, security, reusability, reliability, etc. Measuring internal qualities and complexity of software designs. Evolution of designs. Basics of software evolution, reengineering, and reverse engineering. Application of formal methods to specify and evaluate designs.Prerequisite: CSE 201.
+CSE 320.  Professional Practice.  (0)
+Students participating in the computer science and systems analysis co-op program register for this course during semesters when they are away from Oxford on work assignment. This enables students to maintain continuing student status with the university.
+CSE 321.  Software Quality Assurance and Testing.  (3)
+Quality: how to assure it and verify it, and the need for a culture of quality. Avoidance of errors and other quality problems. Inspections and reviews. Testing, verification, and validation techniques. Product and process assurance. Formal verification. Statistical testing.Prerequisite: CSE 201.
+CSE 322.  Software Requirements.  (3)
+Domain engineering. Techniques for discovering and eliciting requirements. Languages and models for representing requirements. Analysis and validation techniques, including need, goal, and use case analysis. Specifying and measuring external qualities. Traceability. Agile approaches.Prerequisite: CSE 201.
+CSE 340.  Internship.  (0-20)
+CSE 340U.  Undergraduate Summer Scholars Program.  (1-12)
+CSE 372.  Stochastic Modeling.  (3) (MPT)
+Survey of methods of stochastic operations research including reliability, Markov processes, queuing theory, and decision theory. Computer used for modeling and solving problems.Prerequisite: STA 301 or STA 368.Prerequisite or Co-requisite: STA 401/STA 501.
+CSE 374.  Algorithms I.  (3)
+Design, analysis and implementation of algorithms and data structures. Dynamic programming, brute force algorithms, divide and conquer algorithms, greedy algorithms, graph algorithms, and red-black trees. Other topics include: string matching and computational geometry.Prerequisites: CSE 274 and MTH 231.
+CSE 377.  Independent Studies.  (0-6)
+CSE 381.  Systems 2: OS, Currency, Virtualization, and Security.  (3)
+Introduction to operating systems concepts. The operating system as a resource manager. The principles for the design and implementation of operating systems. Process scheduling and deadlock prevention. Memory management, virtual memory, paging, and segmentation. Interrupt processing. Device management, I/O systems and I/O processing. Concurrency and multithreading. Virtualization and cloud services. Security and protection.Prerequisite: CSE 278.
+CSE 383.  Web Application Programming.  (3)
+An introduction to the software, concepts and methodologies necessary to design and implement web applications. Students will design and construct web applications utilizing remote servers on multiple platforms. Projects will be used to enable the students to apply the principles and techniques presented in class.Prerequisite: CSE 278.
+CSE 385.  Database Systems.  (3)
+Overview of database management, database system architecture, and database modeling principles. Logical database design. The relational database model, relational integrity constraints, and relational algebra. Relational commercial database management systems and languages. Interactive database processing, view processing, and database application programming. Database integrity. Relational database design by normalization. File structures for database systems.Prerequisite or Co-requisite: CSE 274.
+CSE 386.  Foundations of Computer Graphics and Games.  (3)
+An introduction to techniques used to create images on the computer. The course covers the algorithms and mathematical theory behind three-dimensional image generation with an emphasis on 3D geometry, 3D transformations, and the graphics pipeline. Programming required.Prerequisites: MTH 151, and (CSE 274 or CSE 278).
+CSE 389.  Game Design and Implementation.  (3)
+Study of architectures, algorithms, and software design patterns used in computer games. Students work with a game engine to design and implement several kinds of games. Topics include animation techniques, physics simulation, user controls, graphical methods, and intelligent behaviors.Prerequisites: CSE 287 or CSE 386.
+CSE 411/CSE 511.  Introduction to Model-Driven Software Engineering.  (3)
+An introduction to model-driven software engineering (MDSE) techniques; applying software engineering practices to model-based artifacts; modeling and abstraction; model transformations; model-based testing; tool implementations.Prerequisites: CSE 311 or permission of instructor for graduate course.
+CSE 432/CSE 532.  Machine Learning.  (3)
+This course introduces the process, methods, and computing tools fundamental to machine learning. Students will work on large real-world datasets to write code to accomplish tasks such as predicting outcomes, discovering associations, and identifying similar groups. Students will complete a term project showcasing the different steps of the machine learning process, from data cleaning to the extraction of accurate models and the visualization of results.Prerequisite: CSE 274.
+CSE 443/CSE 543.  High Performance Computing & Parallel Programming.  (3)
+Introduction to practical use of multi-processor workstations and supercomputing clusters. Developing and using parallel programs for solving computationally intensive problems. The course builds on basic concepts of programming and problem solving.Prerequisite: CSE 381.
+CSE 448.  Senior Design Project.  (2) (MPC)
+Student teams, with varied academic backgrounds, conduct major open-ended research/design projects. Elements of the design process are considered as well as real-world constraints, such as economic and societal factors, marketability, ergonomics, safety, aesthetics, and ethics; feasibility and design studies performed.Prerequisites: CSE 201 and CSE 274 and senior standing in student's major.
+CSE 449.  Senior Design Project.  (1-2) (MPC)
+Continuation of CSE 448. Student teams, with varied academic backgrounds, conduct major open-ended research/design projects; implementation, testing, and production of design. Nonmajors can register for 1-2 credits.Prerequisite: CSE 448.
+CSE 451/CSE 551.  Web Services and Service Oriented Architectures.  (3)
+Intro to service-oriented architectures; examine purposes and differences between different web service technologies; analyze shortcomings and strengths of integration techniques; development of cross-platform applications using standard interchange languages.Prerequisites: CSE 383.
+CSE 456/CSE 556.  Bioinformatic Principles.  (3)
+Concepts and basic computational techniques for mainstream bioinformatics problems. Emphasis placed on transforming biological problems into computable ones and seeking solutions. Cross-listed BIO/MBI 485/MBI 585.Prerequisites: (BIO/CSE/MBI 256 or CSE 174) and (BIO/MBI 116 or MBI 201 or BIO 342) or permission of instructor.
+CSE 464/CSE 564.  Algorithms.  (3)
+Review of basic data structures and algorithms. Analysis of algorithms. Problem assessment and algorithm design techniques. Algorithm implementation considerations. Concept of NP-completeness. Analysis of algorithms selected from topics relevant to computer science and software engineering (sorting, searching, string processing, graph theory, parallel algorithms, NP-complete problems, etc.)Prerequisite: MTH 231 or discrete math and CSE 274 or equivalent.
+CSE 465/CSE 565.  Comparative Programming Languages.  (3)
+Survey of programming languages and their accompanying paradigms. Basic principles of syntax, semantics, implementation, and pragmatics are addressed. The survey will include representatives from the families of imperative languages, functional languages, logic languages, and hybrid languages. Formal methods of definition and specification are introduced.Prerequisite: CSE 274 or equivalent.
+CSE 466/CSE 566.  Bioinformatics Computing Skills.  (3)
+Study of the core computational and biological concepts in bioinformatics, with programming in Python, MySQL and Ubuntu OS. You will gain hands-on experience in popular bioinformatics applications, including BLAST, sequence alignment, genome browser, and gene annotation, among others.Prerequisites: BIO 256; or CSE 174; or permission of instructor.Cross-listed with BIO/CHM/MBI.
+CSE 467/CSE 567.  Computer and Network Security.  (3)
+Fundamentals of network, operating system and application security. Students will study and implement a variety of security techniques including defense, response and forensics. Extensive analysis, reading and writing will be integral to this course.Prerequisite: CSE 383.
+CSE 470/CSE 570.  Special Topics  In CSE.  (3)
+Advanced special topics in computer science, computer information systems, or operations research.Prerequisite: permission of instructor.
+CSE 471/CSE 571.  Simulation.  (3) (MPT)
+Use of digital computer program to simulate operating characteristics of stochastic dynamic system. Topics: problems encountered in construction of simulation programs, random number generation, random variate sampling, programming in simulation compiler languages, problems in design of successful simulation investigations, design of simulation experiments, interpretations of simulated output, and verification and validation. Case studies and projects used. Prerequisites: CSE 174 or equivalent; and STA 368 or 401.
+CSE 473/CSE 573.  Automata, Formal Languages, and Computability.  (3)
+Regular expressions. Closure properties. Sequential machines and finite state transducers. State minimization. Chomsky hierarchy grammars, pushdown acceptors and linear bounded automata. Closure properties of algorithms on grammars. Turing machine as acceptor and transducer. Universal machine. Computable and noncomputable functions. Halting problem.Prerequisite: CSE 274 or equivalent and MTH 231 or discrete math.
+CSE 474/CSE 574.  Compiler Design.  (3)
+Examination of the nature of programming languages and programs which implement them. Compiler and interpreter design and implementation techniques. Review of grammars and languages (context free, context sensitive, regular). Design of interactive interfaces. Parsing of context free languages. Lexical analysis. Semantic analysis and code optimization.Prerequisite: CSE 274 or equivalent.
+CSE 476.  Math for Software Engineering.  (1-2; maximum 2)
+This course focuses on the essential mathematics that software engineers will find useful in creating large software systems. This includes various types of discrete mathematics used for specification of requirements, for modeling of designs, and for static and dynamic analysis and testing. The topics vary somewhat depending on student needs and faculty interests. The course topics may overlap topics for the algorithms course that computer science students typically take, but approach them from a Software Engineering perspective.Prerequisites: MTH 231, CSE 201, and CSE 274.
+CSE 477.  Independent Studies.  (0-6)
+CSE 480/CSE 580.  Special Problems.  (1-4; maximum 12)
+Special systems problems decided by students in consultation with instructor. For students in departmental or university honors program.Prerequisite: permission of department chair prior to registration.
+CSE 484/CSE 584.  Algorithms II.  (3)
+Study problems in computer science for which we have no known efficient solutions, and the methods used to recognize intractable problems as well as the current approaches taken to cope with those problems. Concept of NP-completeness and poly-time reductions; an introduction to randomized algorithms and the randomized complexity classes PP, RP, and BPP; an introduction to approximation algorithms for solving NP-Hard problems; polynomial-space algorithms and the classes PSPACE and the poly-time hierarchy; Poly-time approximation schemes and approximation algorithms via linear-program rounding.Prerequisite: CSE 374.
+CSE 485/CSE 585.  Advanced Database Systems.  (3)
+Relational calculus. Query processing and optimization. Transaction processing: failure, recovery, and concurrency. Database security. Logic-based systems. Parallel, distributed, and client/server systems. Object-oriented database systems. Emerging database technologies.Prerequisite: CSE 385 or equivalent and MTH 231.
+CSE 486/CSE 586.  Introduction to Artificial Intelligence.  (3)
+Basic concepts of artificial intelligence (AI) including problem solving, search knowledge representation, and rule-based systems covered with symbolic AI language such as PROLOG or LISP. Application areas (natural language understanding, pattern recognition, learning and expert systems) are explored.Prerequisite: CSE 274 or equivalent and MTH 231.
+CSE 488/CSE 588.  Image Processing & Computer Vision.  (3)
+An introduction to computer vision including sensors and image formation, camera geometry, signal processing, feature detection, tracking and motion estimation, scene understanding, image classification, segmentation, object detection, and deep learning.Prerequisites: CSE 274 and (MTH 231 or MTH 331).
+CSE 489/CSE 589.  Advanced Graphics and Game Engine Design.  (3)
+The course covers graphics hardware, game engine architectures, and the mathematics and algorithms used to create digital games. Topics will include shader based rendering and programming. Students will implement portions of a game engine which incorporates animation, collision detection, and simulated physics. Programming required.Prerequisites: CSE 287 or CSE 386.
+CSE 491.  Undergraduate Research.  (1-4; maximum 10)
+Research problems in computer science, systems analysis, or operations research, chosen in consultation with a faculty advisor. Requires a public presentation of completed work. For grade only.Prerequisites: Permission of instructor and approval of department chair.
+CSE 587.  Game Design and Implementation.  (3)
+Study of architectures, algorithms, and software design patterns used in computer games. Students work with a game engine to design and implement several kinds of games. Topics include animation techniques, physics simulation, user controls, graphical methods, and intelligent behaviors.Prerequisite: CSE 386, for 587: graduate standing or permission of instructor.
+CSE 600.  Independent Studies.  (1-3; maximum 3)
+Special problems in computer science, computer information systems, or operations research requiring reading and research, decided in consultation with the instructor and the student's graduate adviser. Does not apply toward fulfillment of the requirements of the graduate program. Credit/no-credit only.Prerequisite: permission of instructor and department chair.
+CSE 601.  Computer Science Research Methods.  (3)
+An introduction to conducting research in computer science and software engineering. Students will develop basic skills required of a graduate student in CSE including writing scientific papers, performing literature reviews, preparing and delivering presentations, research methods, and participating in academic discussions.
+CSE 609.  Programming for Engineers and Scientists.  (3)
+This course addresses programming skills at an intermediate level and focuses specifically on scientific and engineering computing skills. This course will emphasize topics commonly encountered in scientific computing/computational science. It primarily addresses non-parallel (serial) computing competencies and is a prerequisite to the high performance computing area. The course will focus on an appropriate programming language currently used in research. Recommended prerequisite: a programming course in any language.
+CSE 610.  Seminar in Computer Science.  (1-3)
+Seminar topics in computer science, computer information systems, or operations research. Does not apply toward fulfillment of the requirements of the Master of Systems Analysis. Credit/no-credit only.Prerequisite: permission of instructor.
+CSE 611.  Computer Science Seminar Attendance Requirement.  (0; maximum 0)
+Required seminar attendance for graduate students in all tracks during each fall and spring semester in which they are enrolled as fulltime students. Attendance must be verified at a designated number of approved events each semester. Approved events include proposal and defense presentations, oral exams associated with the Coursework Only track, and presentations by faculty search candidates.Prerequisite: graduate standing.
+CSE 615.  Mathematical Modeling.  (3)
+Use of deterministic and stochastic mathematical models to study and optimize systems. This course includes an introduction to mathematical modeling and the study of linear programming, network models, Markov processes and queuing theory. Students will use computer software for model construction and problem solving.Prerequisites: credit in calculus, probability, statistics, or permission of instructor.
+CSE 616.  Simulation of Physical Systems.  (3)
+This course is an introduction to the principles and use of simulation, and suitable software tools, to model the behavior of physical systems in the sciences and engineering. Concepts related to discrete event simulation including random number generation, scheduling and processing are addressed. Concepts related to continuous simulation including linear, nonlinear, and dynamic systems are studied. Students will design and implement simulations using suitable modeling and simulation software tools.
+CSE 617.  Advanced Networks.  (3)
+Study of advanced networking techniques, client/ server programming, and distributed processing. Critical analysis of these areas develops as students learn the strengths and weaknesses of these technologies through assigned programming projects.
+CSE 618.  Graphics for Simulation and Virtual Environments.  (3)
+Study of hardware, software, and algorithms used in computer graphics. Instruction emphasizes the use of a scene graph-based API. Topics will include lighting, blending, texture mapping, non real-time rendering techniques such as radiosity and ray tracing.
+CSE 620.  Special Topics in Computer Science Applications.  (3; maximum 12)
+Special topics in computer science, computer information systems, or operations research.Prerequisite: permission of instructor.
+CSE 621.  Foundations of Software Engineering.  (3)
+Foundational theories for software engineering. Topics include project management, modeling notations, refinements processes, verification and validation, and evolution.
+CSE 627.  Machine Learning.  (3)
+Concepts and algorithms of machine learning including version-spaces, decision trees, instance-based learning, networks, evolutionary computation, Bayesian learning and reinforcement learning.
+CSE 630.  Graduate Professional Practice.  (0)
+Students participating in the masters of computer science program may register for this course during semesters when they are away from Oxford working in an internship or co-op work experience related to the degree. This enables students to maintain continuing student status with the university.Prerequisite: permission of instructor.
+CSE 631.  Ontologies for Semantic Web.  (3)
+Principles, practice and current research underlying the use of ontologies for the Semantic Web. Key concepts including: ontology representation and reasoning, ontological engineering, software tools, ontology visualization, and applications.Prerequisite: CSE 486/CSE 586 or permission of instructor.
+CSE 640.  Internship.  (0-12; maximum 6)
+CSE 650.  Special Topics in Computer Science Theory.  (3; maximum 18)
+This course covers special topics in theory within Computer Science. Understanding theory is fundamental in any Computational Science venture as it is the foundation on which all work and applications are built upon. Faculty will be covering a variety of new and emerging theory areas.
+CSE 664.  Advanced Algorithms.  (3)
+A review of NP-Completeness and poly-time reductions; an introduction to randomized algorithms and the randomized complexity classes PP, RP, and BPP; an introduction to approximation algorithms for solving NP-Hard problems; polynomial-space algorithms and the classes PSPACE and the poly-time hierarchy; Poly-time approximation schemes and approximation algorithms via linear-program rounding.
+CSE 667.  Cryptography.  (3)
+This course presents the techniques and tools used in modern cryptography. The course covers common cryptographic assumptions and tools, including: pseudorandomness, symmetric key cryptography, and asymmetric key cryptography. Recommended co-requisite: CSE 464/CSE 564/564.Prerequisite: graduate standing or permission of instructor.
+CSE 690.  Graduate Research.  (3)
+Research problems in computer science, computer information systems, or operations research, decided upon in consultation with the instructor and student's graduate adviser. Requires a public presentation of completed work. For grade only.Prerequisite: permission of instructor, student's graduate adviser, and graduate director.
+CSE 700.  Research for Master's Thesis.  (0-9; maximum 6)
+Study under graduate faculty supervision of a research problem related to computer science or software engineering. Approval and public presentation of a project proposal is expected within the first three hours of research. Upon completion of research, the results must be defended before the advisory committee for approval. A minimum of two semesters of research can be counted toward fulfillment of the research requirement.
+CSE 704.  Non-Thesis Project.  (0-12; maximum 12)
+This repeatable course is for non-thesis culminating experiences. Permission of the instructor is required.
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

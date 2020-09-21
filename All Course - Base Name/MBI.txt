@@ -1,0 +1,176 @@
+Microbiology (MBI) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+General Course Information
+Microbiology (MBI)
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Microbiology (MBI)
+Microbiology (MBI)
+MBI 104.  Developing Skills and Approaches for Science Success.  (1-2; maximum 2)
+Teaches effective study strategies to enable comprehension of basic biology concepts emphasized in the introductory biology course, BIO/MBI 115/116; Explores the relationship of these concepts to current endeavors such as scientific research; Emphasizes development of skills and habits of mind that will ensure success for biological science majors.Cross-listed with BIO.
+MBI 111.  Microorganisms and Human Disease.  (3) (MPF)
+Discussion of microorganisms and human diseases they cause, with particular emphasis on the impact of these relationships on the development of human societies' past, present, and future. Does not count as credit toward an A.B. or B.S. in microbiology. IVA. CAS-D.
+MBI 115.  Biological Concepts: Ecology, Evolution, Genetics, and Diversity.  (4) (MPF, MPT)
+Integrated study of microbes, plants, and animals, emphasizing biological diversity and interdependence of life and the environment. IVA, LAB. CAS-D/LAB.3 Lec. 1 Lab.Cross-listed with BIO.
+MBI 116.  Biological Concepts: Structure, Function, Cellular and Molecular Biology.  (4) (MPF, MPT)
+Biological principles common to microbes, plants, and animals, including interactions between organism and the environment. IVA, LAB. CAS-D/LAB. CAS-QL.3 Lec. 1 Lab.Cross-listed with BIO.
+MBI 121.  The Microbial World.  (3) (MPF)
+Introduces basic concepts in the study of microorganisms - bacteria, viruses, and fungi. Topics include microbial structure and function, metabolism, genetics and the immune system. Special emphasis is placed on the impact of microorganisms on medicine, agriculture, food production, biotechnology, and the environment. IVA. CAS-D.
+MBI 123.  Experimenting with Microbes.  (1) (MPF)
+A series of laboratory exercises and demonstrations emphasizing general techniques of isolation, characterization, and cultivation of selected microorganisms. IVA, LAB CAS-D/LAB.Co-requisite: MBI 111 or MBI 121.
+MBI 131.  Community Health Perspectives.  (3) (MPF)
+Discussion of community health primarily from the perspective of leading causes of disease and death in the U.S. Exploration of the impact of environment, behavior, and disease, including prevention and treatment strategies, on human health, public resources, and quality of life for society. Does not count as credit toward an A.B. or B.S. in microbiology. IVA. CAS-D.
+MBI 143.  Parasitology and Mycology Labs.  (1) (MPF)
+Combination of laboratory exercises, demonstrations, and discussions exploring concepts and techniques used in parasitology and mycology laboratories, including public health, research, and diagnostic laboratories. Does not count as credit toward an A.B. or B.S. in microbiology. IVA. CAS-D/LAB.
+MBI 147.  Microbiology Introductory Seminar.  (1)
+Introduces the majors offered by Department of Microbiology, and the associated degree requirements. Students learn about departmental and university resources available to help achieve their academic goals. Includes discussion of undergraduate research opportunities and career development. Provides students with opportunities for professional orientation and networking via access to faculty, graduate students, alumnae, and professional microbiologists from industry, government and academia.
+MBI 150.  Topics in Microbiology.  (1-4; maximum 4)
+Focuses on selected topics in microbiology. No prior courses in microbiology are required. Does not count as credit toward an A.B. or B.S. in microbiology.
+MBI 161.  Elementary Medical Microbiology.  (4) (MPF, MPT)
+Elementary microbiology for students interested in a single unit devoted to understanding characteristics and activities of microorganisms and their relation to health and disease. Taught in Hamilton and Middletown only. IVA, LAB. CAS-D/ LAB.
+MBI 177.  Independent Studies.  (0-6)
+MBI 201.  General Microbiology.  (4) (MPT)
+Consideration of fundamental aspects of structure, metabolism, genetics, and behavior of bacteria, archaea, viruses, and fungi. Laboratory stresses basic techniques and procedures common to all phases of science at professional level. CAS-D/LAB. Recommended: MBI 121 or BIO/MBI 116.3 Lec. 1 Lab.Co-requisite: CHM 231 or CHM 241.
+MBI 223.  Bacteriophage Biology.  (1)
+Isolation and study of viruses that infect bacteria using general microbiology techniques together with electron microscopy and molecular biology methods.Co-requisite: MBI 121 or BIO/MBI 115.
+MBI 224.  Bacteriophage Genomics.  (1)
+Continues from MBI 223 (Bacteriophage Biology). First-year students will perform hands-on analysis of the genome of a virus that infects bacteria (bacteriophage). Students will be introduced to principles of DNA structure, genome organization, and basic principles of bioinformatics, and will apply this knowledge toward the annotation of a complete bacteriophage genome using current computational methods.Prerequisite: MBI 223.Co-requisite: BIO/MBI 116.
+MBI 250.  Topics in Microbiology.  (1-6; maximum 6)
+Focuses on selected topics in microbiology.Prerequisite: BIO/MBI 115, or BIO/MBI 116, or equivalent.
+MBI 256.  Introduction to Programming for the Life Sciences.  (3)
+Introduction to programming for majors in the life sciences. The ability to write programs to perform tasks related to the organization and analysis of biological data has become a highly-valued skill for researchers in the life sciences, allowing wet-lab researchers to quickly process and sort through large amounts of data to find information relative to their own work. This course serves as an introduction to programming designed specifically for life science majors, targeting the specific skills and techniques commonly needed and explaining the fundamental methods of working with biological data while centering programming assignments around topics of interest to those studying the life sciences. Topics covered include basic programming techniques, representation and manipulation of genomic and protein sequence data, and the automated interface with BLAST and the NCBI GenBank database.Cross-listed with BIO/CSE.
+MBI 277.  Independent Studies.  (0-6)
+MBI 340.  Internship.  (0-20)
+MBI 350.  Topics in Microbiology.  (1-6; maximum 6)
+Focuses on selected topics in microbiology.Prerequisite: MBI 201 or equivalent.
+MBI 361.  Epidemiology.  (3) (MPT)
+Consideration of the epidemic nature, etiology, and characteristics of infectious and organic diseases, and methods used to analyze their control within the framework of environmental and population variables.Prerequisite: two hours of microbiology or biology or permission of instructor.
+MBI 365.  Molecular and Cell Biology.  (3) (MPT)
+Cellular and molecular mechanisms utilized by bacteria, bacterial viruses, eukaryotes and animal viruses in converting genetic information into functional macromolecules, transporting them, using them to receive signals that induce cellular effects, and controlling the cell cycle.Prerequisites: BIO/MBI 116 and MBI 201.Co-requisite: CHM 231 or CHM 241.
+MBI 377.  Independent Studies.  (0-6)
+MBI 405/MBI 505.  Medical Bacteriology.  (4)
+Pathogenic bacteria, their identification, and mechanisms by which they cause disease.3 Lec. 1 Lab.Prerequisites: MBI 201 and either MBI 365 or BIO 203.
+MBI 410.  Senior Internship.  (2; maximum 4) (MPC)
+Supervised microbiology-related work experience in government agencies, industry, or academia; and construction of an extensive analytical and reflective report based on the experience.Prerequisite: senior status in MBI and permission of instructor (MBI 410 combined with MBI 490 is a Miami Plan Capstone).
+MBI 414/MBI 514.  Immunology Principles.  (3)
+Lectures covering molecules, cells, tissues, and organs of the immune system. Primary emphasis on mechanisms involved in immune responses.3 Lec. 1 Lab.Prerequisites: MBI 365 or BIO 203, and CHM 242 or CHM 332.
+MBI 415/MBI 515.  Immunology Principles and Practice.  (4)
+Covers the same lecture content as MBI 414/MBI 514, but adds laboratory exercises and demonstrations illustrating a variety of immunologic phenomena, techniques, and applications. Credit not given for both MBI 414/MBI 514 and MBI 415/MBI 515.3 Lec. 1 Lab.Prerequisites: MBI 365 or BIO 203, and CHM 242 or CHM 332.
+MBI 424/MBI 524.  Advanced Experimental Techniques in Structural and Functional Genomics.  (4)
+Theory and application of modern biological instrumentation and techniques. Basic and advanced skills including use, maintenance and calibration of biological instruments.Prerequisites: BIO/MBI 115 or BIO/MBI 116 or BIO 191 or MBI 201 or equivalent, CHM 141 and CHM 142 or equivalent, or permission of instructor.Cross-listed with BIO/CHM.
+MBI 425/MBI 525.  Microbial Physiology.  (4)
+Biochemical activities of microorganisms as revealed by their cellular physiology.3 Lec. 1 Lab.Prerequisite: MBI 201 and either CHM 242 or CHM 332.
+MBI 433.  Field Ecology.  (3)
+Practical experience in the collection, analysis, and interpretation of ecological data, and communicating with other scientists. 1.5 Lec. 1.5 Lab.Prerequisites: BIO 209 and STA 261 or equivalent.Cross-listed with BIO.
+MBI 435/MBI 535.  Medical Mycology.  (3)
+Characteristics of fungi associated with disease. Includes discussion of epidemiology, pathology, and diagnosis of mycotic diseases. Laboratory focuses on identification and biochemical activities of pathogenic fungi.2 Lec. 1 Lab.Prerequisite: BIO/MBI 116 or MBI 201 or permission of instructor.
+MBI 436.  Principles in Fermentation.  (3)
+Through a combination of lectures from faculty and experts in the fermentation industry, hands-on laboratory experiences, and site visits, students will develop an understanding of the importance of fermentation in the food, beverage, and drug industry. Students will have the opportunity to learn how microbiology, biology, chemistry/biochemistry and engineering are interrelated in the fermentation industry.Prerequisites: CHM 332 or CHM 432/CHM 532; or MBI 201; or CPB 204.Cross-listed with CHM/CPB.
+MBI 440.  Research Problems.  (1-4; maximum 4)
+Library research. Open to senior majors. (MBI 440 (2 cr) combined with MBI 490 is a Miami Plan Capstone).Prerequisite: 20 hours of microbiology and permission of instructor.
+MBI 445/MBI 545.  Microbial Genetics.  (3)
+Genetic changes that occur in bacteria and bacterial viruses and resulting changes in their biochemical and physiological activities.Prerequisite: MBI 365.
+MBI 450.  Topics in Microbiology.  (1-6; maximum 6)
+Focuses on selected topics in microbiology.Prerequisite: MBI 201 or equivalent.Co-requisite: an MBI or BIO class at the 300-level or higher or equivalent.
+MBI 461.  Human Disease and Epidemiology.  (3) (MPC)
+Serves as the culminating experience for Public Health majors concentrating in the Human Disease and Epidemiology track. Provides students with hands-on experience assessing and analyzing disease surveillance data and in communicating findings.Prerequisites: Core public health major requirements including: MBI 131 or KNH 125, MBI 361, IES 441/IES 541, GTY 365 or KNH 321, Stat 261 or 301, KNH 218, KNH 221.
+MBI 464/MBI 564.  Human Viruses.  (3)
+Study of the physical and chemical characteristics of viruses, virus replication mechanisms, disease causation and host response, and tumor induction.Prerequisites: MBI 365 or BIO 203 and BIO 342 or permission of instructor.
+MBI 465.  Microbial and Molecular Genetics Laboratory.  (2)
+Laboratory methodology associated with experimental aspects of microbial genetics and recombinant DNA technique.Prerequisite: BIO 342 or MBI 445/MBI 545 or permission of instructor.
+MBI 466/MBI 566.  Bioinformatics Computing Skills.  (3)
+Study of the core computational and biological concepts in bioinformatics, with programming in Python, MySQL and Ubuntu OS. You will gain hands-on experience in popular bioinformatics applications, including BLAST, sequence alignment, genome browser, and gene annotation, among others.Prerequisites: BIO 256; or CSE 174; or permission of instructor.Cross-listed with BIO/CHM/CSE.
+MBI 475/MBI 575.  Microbial Ecology: Exploration of the Diverse Roles of Microorganisms in Earth's Ecology.  (4)
+Integrative examination of the evolution of life, distribution, and abundance of microorganisms, and biogeochemical cycles leading to the discovery of principles used for societal applications such as water quality management and bioremediation.3 Lec. 1 Lab.Prerequisites: MBI 201 and either CHM 231 or CHM 242; or permission of instructor.
+MBI 477.  Independent Studies.  (0-6)
+Research experience in the laboratory of a professor. Special attention given to the scientific method, literature searches, experimental design, and laboratory instrumentation and techniques. (MBI 477R combined with MBI 490 is a Miami Plan Capstone).Prerequisite: MBI 201.
+MBI 480.  Departmental Honors.  (1-6; maximum 6)
+Departmental honors may be taken for a minimum of one semester hour and a maximum of six semester hours in two semesters of student's senior year. (MBI 480 combined with MBI 490 is a Miami Plan Capstone).
+MBI 485/MBI 585.  Bioinformatics Principles.  (3)
+Concepts and basic computational techniques for mainstream bioinformatics problems. Emphasis placed on transforming biological problems into computable ones and seeking solutions.Prerequisite: (BIO/CSE/MBI 256 or CSE 174) and (BIO/MBI 116 or MBI 201 or BIO 342) or permission of instructor.Cross-listed with BIO 485/BIO 585 and CSE 456/CSE 556.
+MBI 487.  Medical Laboratory Science Practicum.  (8) (MPC)
+Off-campus, structured sequence of laboratory and lecture rotations through clinical chemistry, hematology, immunohematology, immunology, microbiology, molecular, and other emerging diagnostics laboratories. Structured lecture criteria accompany the corresponding laboratory rotations.
+MBI 488.  Medical Laboratory Science Practicum.  (12) (MPC)
+Off-campus, structured sequence of laboratory and lecture rotations through clinical chemistry, hematology, immunohematology, immunology, microbiology, molecular, and other emerging diagnostics laboratories. Structured lecture criteria accompany the corresponding laboratory rotations.
+MBI 489.  Medical Laboratory Science Practicum.  (12) (MPC)
+Off-campus, structured sequence of laboratory and lecture rotations through clinical chemistry, hematology, immunohematology, immunology, microbiology, molecular, and other emerging diagnostics laboratories. Structured lecture criteria accompany the corresponding laboratory rotations.
+MBI 490.  Undergraduate Seminar.  (1; maximum 4) (MPC)
+Discussion by undergraduate majors and staff of current topics in selected areas. (MBI 490 combined with 2 credits of with MBI 410 or MBI 440 or MBI 477 or MBI 480 is a Miami Plan Capstone).Prerequisite: 20 hours of microbiology and senior status.
+MBI 495/MBI 595.  Bacterial Cellular and Developmental Biology.  (3)
+Focuses on the biology of bacteria at the cellular level, including regulation of cell shape, cell division, motility, development and differentiation, and interactions with other cells, including life in a biofilm and in association with symbionts.Prerequisite: MBI 201 or BIO 203; or permission of instructor.
+MBI 605.  Advanced Molecular Biology.  (3)
+In-depth study of genome organization, rearrangement, replication, and expression in prokaryotic and eukaryotic cells and their viruses, with an emphasis on regulatory mechanisms.Prerequisite: graduate status, a course in molecular genetics, biochemistry, or cell biology, and permission of instructor.Cross-listed with BIO.
+MBI 606.  Advanced Cell Biology.  (3)
+Advanced level study of molecular basis of prokaryotic and eukaryotic cell structure/function relationships. Offered even year Spring semesters.Prerequisite: graduate status, course in molecular genetics, cell biology, or biochemistry, and permission of instructor.Cross-listed with BIO.
+MBI 615.  Communicating Science: Papers, Proposals, and Presentations.  (2)
+Introduces the principles of scientific writing for the biological sciences. Students practice writing grant proposals and papers and prepare graphic presentation of data for poster and oral presentations.
+MBI 640.  Infectious Disease Microbiology for Teachers.  (0-20)
+MBI 650.  Seminar in Molecular Biology.  (1)
+Discussion of current literature in molecular biology.Prerequisite: graduate standing.Cross-listed with BIO/CHM.
+MBI 671.  Population and Community Ecology.  (4)
+Principles and applications of population and community ecology: population dynamics, direct and indirect species interactions, food webs, and species diversity.Prerequisite: at least one course in general ecology (calculus is recommended).Cross-listed with BIO.
+MBI 672.  Ecosystem and Global Ecology.  (4)
+Structure, dynamics and management of ecosystems and the biosphere, including food web interactions, nutrient cycling, ecosystem functioning, and biogeochemical cycles at local, regional and global scales.Prerequisites: at least one course in general ecology and general chemistry.Cross-listed with BIO.
+MBI 677.  Independent Studies.  (0-6)
+MBI 689.  Pedagogy in Microbiology for Graduate Students.  (1)
+Introduction of new graduate students to the role of the graduate teaching assistant. Summer only.
+MBI 690.  Graduate Seminar.  (1; maximum 8)
+Discussions of current research and literature by graduate students and faculty.
+MBI 700.  Research for Master's Thesis.  (1-12; maximum 12)
+MBI 710.  Graduate Research Problems.  (1-10; maximum 16)
+Prerequisites: graduate standing and permission of instructor.
+MBI 750.  Advanced Topics in Microbiology.  (1-3; maximum 36)
+Study of special topics from current research in the following areas: 750A Pathogenic Microbiology, 750B Immunology, 750C Microbial Physiology, 750E Microbial and Molecular Genetics, 750F Microbial Ecology, 750H Virology, 750I Bacterial Cell Biology, 750J Bioinformatics.Prerequisites: graduate standing and permission of instructor.
+MBI 790.  Pre-Candidacy Doctoral Research.  (1-12)
+MBI 850.  Research for Doctoral Dissertation.  (1-16; maximum 60)
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

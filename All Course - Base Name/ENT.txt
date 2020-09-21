@@ -1,0 +1,150 @@
+Engineering Technology (ENT) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+Engineering Technology (ENT)
+General Course Information
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Engineering Technology (ENT)
+Engineering Technology (ENT)
+ENT 135.  Computer-Aided Drafting.  (3)
+Study of drafting as the graphic language of industry and application of computer-aided technology to two and three-dimensional engineering drawings. Microcomputers are used.1 Lec. 2 Lab.
+ENT 137.  Introduction to Engineering Technology.  (1)
+An introductory course for students entering Engineering Technology. This course covers broad elementary engineering concepts to include a definition of engineering technology, the distinction between the various areas of focus in engineering technology, introduction to engineering "terminology," and a survey of current issues (problems, research efforts, recent developments, etc.) in the engineering field.Prerequisite: high school algebra.
+ENT 151.  Engineering Materials.  (3)
+Study of basic engineering materials; metals, plastics, ceramics, and composites. Structure, properties, and applications emphasized. (Mechanical technology).2 Lec. 1 Lab.Prerequisite: two years of high school algebra.
+ENT 152.  Computer-Aided Manufacturing I.  (3)
+Introduction to manufacturing processes and the use of the computer as a tool in those processes. Students introduced to computer numerical control programming, statistical process and control, and topics related to automated factory. (Mechanical technology).2 Lec. 1 Lab.Prerequisite: two years of high school algebra.Co-requisite: MTH 125.
+ENT 177.  Independent Studies.  (0-6)
+ENT 192.  Circuit Analysis I.  (3)
+A detailed study of d-c electric circuits and related bilteral devices. Conventional and computer circuit analysis will be used.Prerequisite: high school algebra.
+ENT 193.  Circuit Analysis II.  (3)
+A detailed study of analog a-c electric networks, including resistive, reactive, and combinational thereof. Analysis techniques include conventional and computerized modeling methodology. (Electrical technology)2 Lec. 1 Lab.Prerequisite: ENT 192, MTH 125.
+ENT 196.  Electronics.  (3)
+Detailed study of analog electronic circuits and devices. Emphasis placed on operating parameters of linear (analog) circuits; techniques of circuit analysis applied as an integral part of the course. Use of computerized data analysis encouraged. (Electrical technology).2 Lec. 1 Lab.Prerequisite: ENT 192.Co-requisite: ENT 193.
+ENT 202.  Special Problems.  (0.5-3; maximum 3)
+Intensive concentration of a problem or set of problems in an approved area of study in technology to be determined in consultation with instructor. May be used as an elective for ENT associate's degree programs.Prerequisite: sophomore standing and departmental approval.
+ENT 235.  Computer-Aided Design.  (3)
+Computerized graphic design study of industrial related engineering problems with emphasis on three-dimensional data base. Laboratory portion uses microcomputers. (Mechanical Technology)2 Lec. 1 Lab.Prerequisite: ENT 135, MTH 125.
+ENT 252.  Computer-Aided Manufacturing II.  (3)
+Covers topics related to the automated factory including: computer numerical control and computer-assisted part programming, distributive numerical control (DNC), computer-assisted process planning, flexible manufacturing systems, and robotics. (Mechanical technology).2 Lec. 1 Lab.Prerequisite: ENT 152, CSE 153, 163, or equivalent recommended.
+ENT 271.  Mechanics I: Statics.  (3)
+Introduction to the application of the equations of equilibrium to the solution of two- and three-dimensional problems involving rigid body structures and machines. Concept of friction and mechanical work introduced.Prerequisite: A grade of C or better in MTH 125.Co-requisite: PHY 161 or equivalent recommended.
+ENT 272.  Mechanics II: Strength of Materials.  (3)
+Elastic relationships between external forces acting on deformable bodies and resulting stresses and deformations are studied. Industrial applications of these relationships to the solution of engineering design problems are emphasized. (Mechanical technology).2 Lec. 1 Lab.Prerequisite: A grade of C or better in ENT 271.
+ENT 277.  Independent Studies.  (0-6)
+ENT 278.  Mechanics III: Analysis of Machine Components.  (3)
+Introduction to the use of statics and strength of materials to the analysis of individual machine components. Application of these principles to overall machine analysis presented. (Mechanical technology).2 Lec. 1 Lab.Prerequisite: A grade of C or better in ENT 272.
+ENT 291.  Industrial Electronics.  (3)
+A study of the basic components and systems used in industrial electronics including operational amplifiers, linear integrated circuits, brushless and stepper dc motors, control devices, optoelectronics, pulse modulation, sequential process control and programmable logic controllers. (Electrical technology).2 Lec. 1 Lab.Prerequisite: ENT 196.
+ENT 293.  Digital Systems.  (3)
+Principles and applications of digital systems. Emphasis placed on the study of combinational and sequential logic from a systems approach. Actual ICs and Programmable logic devices (PLDs) are used as well as digital timing diagrams and waveforms.2 Lec. 1 Lab.Prerequisite: CSE 163 and ENT 192.
+ENT 294.  Local Area Networks.  (3)
+Introductory coverage of the technology and administration of Local Area Networks. Various transmission mediums are covered including Ethernet, fiber optics, and wireless communication.
+ENT 295.  Microprocessor Technology I.  (3)
+Introductory study of architecture, operation, and application of microprocessors for commercial and industrial use. Emphasis on understanding internal architecture, segmentation, arithmetic instructions, and the role I/O ports, memory, and machine language play in putting the microprocessor to work. (Electrical technology).2 Lec. 1 Lab.Prerequisite: ENT 293.
+ENT 296.  Programmable Logic Controllers.  (3)
+Study of the principles and application of Programmable Logic Controllers including ladder logic, program control, data manipulation, math instructions, sequencers, shift registers, networking, PLC-mechanism interfacing and human-machine interfacing.2 Lec. 1 Lab.Prerequisite: ENT 192.
+ENT 298.  Data Communications.  (3)
+Introduction to data communications, computer networks, and media. Includes transmission basics, digital representations, data link concepts, and other networking issues. Networking data telecommunications project assigned as a significant part of the course requirement.Prerequisite: CSE 153 or 174.
+ENT 301.  Dynamics.  (3)
+The basic concepts of force, mass, and acceleration; work and energy; and impulse and momentum are introduced and applied to problems involving particles and rigid bodies. Topics include displacement, velocity, and acceleration of a particle; relations between forces acting on a particle or rigid body; and the changes in motion produced.2 Lec. 1 Lab.Prerequisite: ENT 271 and MTH 151 or equivalent.
+ENT 302.  Fundamentals of Signals and Systems.  (3)
+Introduction to the field of signals and systems analysis, which is prevalent in many areas of engineering and technology. Central to this is an understanding of the mathematical formalisms, which define this field, such as the Fourier and Laplace transforms, not only in their mathematical sense, but also in their direct application to the solving of real engineering problems. MatLab® will be used extensively in this course to visualize signal flow and illustrate tough theoretical concepts.Prerequisites: CSE 153 or CSE 163 and MTH 251.
+ENT 303.  Digital Signal Processing Technology.  (3)
+Study of how digital signal processing is used in industry, including spectral analyzers, analog and digital filtering, Fourier series and transforms, data compression, image processing, and DSP hardware design issues.2 Lec. 1 Lab.Prerequisites: ENT 295, STA 301, MTH 151.
+ENT 310.  Fluid Mechanics.  (3)
+The application of fluid statics and fluid dynamics to the solution of fundamental engineering fluid problems. The one dimensional energy and momentum equations are introduced and applied to the solution of fluid flow problems.2 Lec. 1 Lab.Prerequisite: ENT 271 and MTH 151 or equivalent.
+ENT 311.  Process Control Interface Design.  (3)
+Introduction to data acquisition and control with a graphical user interface (GUI). Topics include parallel, serial, and network access. Data transfer technology such as Object Linking and Embedding and Dynamic Data Exchange also covered.2 Lec. 1 Lab.Prerequisite: CSE 153, ENT 193 or equivalent and completion of an engineering technology associate's degree or permission of instructor.
+ENT 312.  Thermodynamics and Heat Power.  (3)
+Fundamental concepts of energy transformation and transport are introduced. The First and Second Laws of thermodynamics are applied to process and cycle analysis. Heat conduction, convection, and radiation modes are introduced and applied to simple heat balance problems.Prerequisite: PHY 162, MTH 151 or equivalent, and completion of an engineering technology associate's degree or permission of instructor.
+ENT 313.  Introduction to Robotics Systems.  (3)
+This course provides an overview of robot components, mechanisms, dynamics, and intelligent control algorithms. Topics include planar and spatial kinematics, and motion planning; mechanism design for manipulators and mobile robots, multi-rigid-body dynamics. Weekly laboratories provide experience with servo drives, real-time control, and embedded software.Prerequisites: ENT 301 and ENT 192.
+ENT 314.  Mechanisms for Machine Design.  (3)
+Rigid body kinematics is applied to the analysis and design of mechanisms used in machines. The course includes motion and force transference from power source, motion characteristics of real-world machinery, and analysis and design concepts to facilitate optimization of the machine arrangement.Prerequisite: ENT 301.
+ENT 316.  Project Management.  (3)
+A course for upper-level students in Engineering Technology. This course covers background, techniques, and case studies in project management particularly focused on engineering technology applications. The student will develop a fundamental understanding of the concepts for managing both small and large projects. Discussion, evaluation, and presentation skills will be enhanced. Some of the specific topics to be covered include: Gantt charts, PERT charts, project life-cycle, budgeting, cost analysis, breakeven analysis, conflict resolution, organization tools, project planning, statistical process control, and other selected quality improvement tools. Microsoft Project and Microsoft Excel will be used as software tools throughout the course.Prerequisite: ECO 201 or 202 or permission of instructor.Co-requisite: STA 301, 368, or equivalent.
+ENT 333.  Computational Methods for Engineering Technology.  (4)
+An in-depth study of engineering analysis techniques with emphasis on mathematical analysis of mechanical and electrical subsystems. Detailed study of a variety of situations using techniques based on state-variable analysis and state transition matrix; convolution and circuit response in the time domain; system function and response in the frequency domain; and time shift and periodic functions.3 Lec. 1 Lab.Co-requisite: MTH 251 or equivalent.
+ENT 340.  Internship.  (0-20)
+ENT 355.  Introduction to Finite Element Analysis.  (3)
+An application of the basic concepts of finite element modeling and analysis to various types of engineering technology problems including structural and machine component analysis, conduction and convection heat-transfer analysis, and fluid mechanics analysis. Selected analytical aspects of finite element analysis are introduced throughout the course without becoming too theoretical. ANSYS computer software is an integral part of the course and is used within the laboratory portion.2 Lec. 1 Lab.Prerequisite: ENT 333.
+ENT 377.  Independent Studies.  (0-6)
+ENT 387.  Embedded Systems Technology.  (3)
+This course focuses on utilization of microcontroller/microprocessor architecture in system design. It covers understanding of interfacing standard protocols associated with common microcontroller based embedded systems, implementation on hardware platform, and associated debug software requirements.Prerequisites: CSE 153 and ENT 295.
+ENT 401.  Computerized Instrumentation.  (3)
+Overview of the requirements for the design of servo-mechanisms including stability, transfer functions, loop dynamics, and digital signal processing. Covers digital and analog signal conditioning, transducers, and controllers.2 Lec. 1 Lab.Prerequisite: ENT 311 and MTH 151 or equivalent.
+ENT 402.  Industrial Automation Lab.  (3)
+This course uses lab based experiences to investigate common electrical and mechanical instrumentation including hydraulic and pneumatic equipment, programmable logic controllers (PLC), microcontrollers, and industrial SQL databases. Prerequisite: ENT 311.
+ENT 403.  Wireless Communication and Networks.  (3)
+Fundamental techniques of wireless communication, signal transmission, encoding, propagation theory, cellular wireless networks, Wireless LANs, Wireless Access Protocol (WAP), Wi-Fi, Bluetooth and IEEE 802.15.4 ZigBee protocols, security in wireless networks.2 Lec. 1 Lab.Prerequisite: ENT 303.
+ENT 404.  Experimentation Techniques.  (3)
+Coverage of experimentation techniques pertaining to mechanical engineering technology measurement methods and performance testing. Emphasis is on basic principles involved in measurement techniques. Topics range from mechanical systems to air pollution measurement techniques.2 Lec. 1 Lab.Prerequisite: MTH 251.
+ENT 407.  Modern Manufacturing Systems.  (3)
+Coverage of topics related to the manufacturing environment including metal deflection and tolerance, robotics, programmable controller applications, and manufacturing cells.Prerequisites: ENT 151 and ENT 272.
+ENT 413.  Industrial Robotics Lab.  (3)
+Lab intensive course covering the fundamental and advanced topics on common industrial robotics systems. Provides detailed definitions and classifications of industrial robot systems. Discusses grippers and other end-of-arm tooling for robots. robot teach/pro Programming, program languages, robot arm, robot controller, workstation and safety systems. There is a significant lab-based component in which teams of students compete in several main industrial robotics areas to optimize mission performance under real world time constraints.Prerequisites: ENT 313.
+ENT 415.  Heat Transfer with Applications.  (3)
+Concepts of the three modes of heat transfer, conduction, convection, and radiation, discussed separately and in combination. Each mode of heat transfer is presented by relating fundamental principles and computational methods to practical, real-world thermal systems and applications. Practical application projects from such industries as aerospace, automotive, and chemical processing are assigned to reinforce these principles.Prerequisite: ENT 312.
+ENT 416.  Topics in Mechanical Vibrations.  (3)
+This course provides a study of mechanical vibrations topics with emphasis on mathematical analysis methods that may be applied to the solution of industrial engineering technology problems. Computer analysis software and experimental methods are introduced within the laboratory portion of the course.2 Lec. 1 Lab.Prerequisite: ENT 301, ENT 333.
+ENT 417.  Integrated Robotics Systems Engineering.  (3)
+This course combines the components of Fundamentals of Robotics into the design, testing and deployment of fully working interdisciplinary robotic systems. This course discusses the history and development of industrial collaborative robots, programming and integration of robotic work cells and other computer, and robot-integrated systems used in industrial applications. The course explores the interrelations of automation and robotics equipment via communication and networking. The course discusses intelligent control algorithms, sensors and vision systems and their value in expanding the potential application for robots. The course also covers topics related to computer integrated manufacturing, flexible manufacturing, automated material handling, smart warehousing. Weekly laboratory modules are given for design, integration and programming of integrated robotics cells.Prerequisites: ENT 313 and ENT 296.
+ENT 418.  Electro-Mechanical Control Systems.  (3)
+Covers advanced control topics including state variable models, higher order system response, transient response, and stability analysis.Prerequisite: ENT 311 and MTH 245 or ENT 333.
+ENT 477.  Independent Studies.  (0-6)
+ENT 497.  Senior Design Project.  (2) (MPC)
+Student teams conduct major open-ended research and design projects. Elements of the design process including establishment of objectives, synthesis, analysis, and evaluation are integral parts. Real-world constraints such as economical and societal factors, marketability, ergonomics, safety, aesthetics, and ethics are also integral parts. Feasibility studies performed. Includes guest lecturers, team presentations, team building sessions, team meetings, and guided discussions relating to design. Continuous interaction with faculty and outside professionals.Prerequisite: senior standing, ENT 316, and 9 credit hours of 300 and 400 ENT/ECE level courses or permission of instructor.
+ENT 498.  Senior Design Project.  (2) (MPC)
+Student teams conduct major open-ended research and design projects. Elements of the design process including establishment of objectives, synthesis, analysis, and evaluation are integral parts. Real-world constraints such as economical and societal factors, marketability, ergonomics, safety, aesthetics, and ethics are also integral parts. Implementation, testing, and production of design. Includes guest lecturers, team presentations, team building sessions, team meetings, and guided discussions relating to design. Continuous interaction with faculty and outside professionals.Prerequisite: senior standing, ENT 316, and 9 credit hours of 300 and 400 ENT/ECE level courses or permission of instructor.
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

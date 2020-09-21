@@ -1,0 +1,260 @@
+Interactive Media Studies (IMS) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+General Course Information
+Interactive Media Studies (IMS)
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Interactive Media Studies (IMS)
+Interactive Media Studies (IMS)
+IMS 101.  Introduction to Emerging Technology in Business and Design.  (1)
+This course provides an overview of all of the areas of specialization within the ETBD program as well as a review of the landscape of emerging media.
+IMS 102.  Digital Experience Bootcamp.  (1; maximum 4)
+This one-credit-hour course offers students the opportunity to experience a collaborative project that spans from brainstorming to a deliverable under a compressed timeframe. Offered in concert with Start Up Weekend and Global Game Jam, IMS Experience Bootcamp brings together students, faculty, staff, and experts from the community to engage in rapid iteration and development.
+IMS 105.  Digital Literacy.  (1)
+The course provides an overview of the software and hardware upon which nearly all emerging technology is predicated. Material is presented through the medium of a personal computer, but the course comprehends not only local (computer) issues but also issues fundamental to networks.Prerequisite: Standing as a major in the Emerging Technology degree program.
+IMS 109.  Digital Ethics.  (1)
+The course explores the special challenges of behaving ethically in a digital culture and provides a primer toward good online citizenship.Prerequisites: Standing as a major in the Emerging Technology degree program.
+IMS 111.  Introduction to Game Careers.  (1)
+In this course, students learn the careers available in game design and development, the basics of games as an academic discipline, and become acquainted with the games faculty and university resources.
+IMS 171.  Humanities and Technology.  (3) (MPF, MPT)
+Introduction to methods of thinking used in humanities disciplines (literature, history, philosophy, classics, etc.), computer technologies, and their relationship. Practical skills (web page making; research on the Internet) and analytical skills (how to tell good information from bad) combined with theories about the Information Society. IIB, CAS-B.Cross-listed with ENG.
+IMS 177.  Independent Studies.  (0-6)
+IMS 201.  Information Studies and Digital Citizenship.  (3) (MPF, MPT)
+Explores what it means to be information literate in today's “post-truth” world. Students will reflect on ethical and legal issues created by the information age and will develop awareness of the power of information and its effect on society. This course prepares students to ask critical questions about technologies and tools they encounter everyday, apply those skills to their own disciplines, and reflect on their own role as knowledge creators. Students will learn how to critically evaluate information and how information is produced and valued, and explore personal privacy, information ethics, and intellectual property issues in changing technology environments. IIB.
+IMS 203.  Applied Digital Humanities.  (3) (MPF)
+Explores how digital technologies are transforming scholarly practice. Course is intended for students wishing to explore the use of technology to investigate scholarship in the humanities. Students will collaboratively plan, develop, and create a digital scholarship project over the course of the class. IIB.
+IMS 211.  Introduction to Game Studies.  (3)
+Offers an introduction to key historical and contemporary research in game studies and theories of play, with particular attention paid to the digital video game. The course surveys current debates and issues in the field of game studies, introduces various methods for interpreting games, and cultivates a deeper understanding of the importance of games and play in contemporary social, political, and cultural contexts.
+IMS 212.  Introduction to Game Design.  (3)
+This course is an introduction to the many philosophies of game design. Students will learn the core principles of game design, will create games (non-digital) and will learn to iterate and play-test. No previous game design training is required.
+IMS 213.  Introduction to Game Development.  (3)
+This course introduces students to the process of developing simple 2D games. It is built around a number of game-development challenges that are selected to develop a basic proficiency in 2D game development while learning basic programming and art principles. To complete the challenges, the students are provided with curated online videos and 1-1 in-class instruction.
+IMS 215.  3D Digital Sculpting.  (3)
+Digital sculpting is an essential part of 3D content creation. This course needs to be a requirement for students in the game program who want to work as an artist creating assets for video games. This course teaches industry standard software and the methodologies that game studios use when producing professional quality 3D assets for video games and other media.  The course is project driven, and grades will be based on the visual quality and passion expressed in the work submitted for assignments, ability to follow instructions for submission and their ability to meet deadlines for assignments.Cross-listed with ART.
+IMS 218.  3D Shading and Texturing.  (3)
+In this course, students will learn the workflows necessary to create materials, textures, and shaders for physically based render systems. Students will learn how to edit shaders and materials through the creation and editing of textures in an image-editing program. Students will also be taught the theory behind physically based rendering and how it relates to rendering objects in real time through game engine technology. The course is project driven and grades will be based on the visual quality and passion expressed in the work submitted for assignments, ability to follow instructions for submission, and ability to meet deadlines for assignments.Cross-listed with ART.
+IMS 221.  Music Technologies.  (3) (MPF)
+Introduces students to the fundamentals of music technology in the context of its historical and cultural use. Scientific foundations of acoustics, digital audio, and audio engineering as well as technical skills for music production and notation will be addressed. Participants will learn the skills-based foundations of music technology through hands-on projects. Critical discussion will consider the social impact of contemporary and historical systems of recording, notation, and dissemination. Applications in the fields of interaction design, music entertainment, game design, digital signal processing, electrical engineering, music education, acoustics, and mass communications will be explored. IIA, V.Cross-listed with MUS.
+IMS 222.  Introduction to Interaction Design and Development.  (3) (MPF)
+This course is an opportunity to investigate interactive design and front-end development as it relates to a variety media types. Using industry standard tools, students will learn to design, implement, and refine interactive media for specific audiences. For the purpose of this class, interactive media includes a variety of software and hardware solutions that intersect the domain of human-computer interaction. Effective interactive design is often achieved by the creative application of sometimes disparate disciplines. Students should expect to incorporate their understanding of art theory, psychology, commercial business practice, and creative problem solving. V.
+IMS 224.  Digital Writing and Rhetoric: Composing with Words, Images and Sounds.  (3) (MPT)
+Students will analyze and produce digital multimodal compositions that integrate words, images, and sounds. No prior web or digital writing experience required. ADVW.Cross-listed with ENG.
+IMS 225.  Games and Learning.  (3)
+Surveys and assesses the role of gaming within educational research. Topics covered include: games and literacy, designing games for schools, and the learning implications of gaming culture.
+IMS 228.  Collaborative Laboratory 1.  (3; maximum 6)
+The Co-Lab course is designed to enable students to work collaboratively on projects of their choosing while being coached and mentored directly by faculty and industry mentors. This will allow sophomores and juniors to begin using their skills to collaborate on emerging technology to build portfolio pieces that will push the envelope of what’s possible.Prerequisite: IMS 222 and either completion or concurrent enrollment in IMS 322.
+IMS 229.  Collaborative Laboratory 2.  (2)
+The Co-Lab course sequence is a unique set of courses designed to enable students to work collaboratively on projects of their choosing while being coached and mentored directly by faculty and industry mentors. This will allow sophomores and juniors to begin using their skills to collaborate on emerging technology to build portfolio pieces that will push the envelope of what’s possible. Co-Lab 2 focuses on production. In this course, students will complete the alpha version of their artifact.Prerequisite: IMS 228.
+IMS 238.  Narrative and Digital Technology.  (3) (MPF, MPT)
+Applies to digital games those notions about narrative structure and character development that have evolved in literature. Students will explore digital art as literary critics, asking whether games are "art" and analyzing how postmodern literary/digital art participates in globalization. Students compose narratives in writing as well as 3D graphics. IIB. CAS-B-Other.Cross-listed with ENG.
+IMS 240.  Collaborative Client-based Project.  (3-4; maximum 8)
+In the context of a study abroad or away program, students will study different development models in a real-world setting and work with a client in business or industry to produce an interactive solution, under the guidance of ETBD faculty and industry mentors. This course particularly focuses on two aspects of the client project: (1) the management of new media development, and (2) the processes that best develop the synergy of an interdisciplinary team working toward a shared goal and the tools of development.Prerequisites: IMS 222 and either completion of or concurrent enrollment in IMS 322 OR acceptance into an ETBD study abroad or away program.Co-requisites: IMS 322 or acceptance into an ETBD study abroad or away program.
+IMS 253.  Building and Designing Interactive Devices.  (3)
+Building and Designing Interactive Devices is an introduction to Physical Computing for students interested in exploring and building alternative game controllers. Through building simple prototypes, students will learn how to use a variety of switches and sensors, how to build circuits for them, and various ways microcontrollers (like Arduino) can be used with them as well as interface with a variety of computing systems and software. We will prototype using various design lenses including form, function, accessibility, and immersion.
+IMS 254.  Design Thinking & Design Principles Applied.  (3)
+(MPF) An understanding of design thinking & design principles is central to the creation of digital solutions and interfaces. Whether it be the design of a system/organization or the creation of a digital product, a design solution is the result of a multi-disciplinary approach. This approach builds empathy and understanding in order to solve problems for users who are often different from ourselves. The course will also examine the impact that culture has on aesthetic choices such as color, form and spacial relationships as well as the diverse history of design, typography and interaction. No prior design experience required. IIA.
+IMS 259.  Art and Digital Tools I.  (3)
+This course builds a solid foundation for making and manipulating digital images and graphics, and for thinking about the cultural nature of visual materials produced with these processes and software tools. Students will critically engage with a variety of related imagery, from fine art to marketing. Technical theory is coupled with projects to provide hands-on mastery of fundamental ideas, techniques, and specific software tools.Cross-listed with ART.
+IMS 261.  Information and Data Visualization.  (3)
+Introduction to both static and interactive information and data visualization. Includes basic statistical and design principles for data visuals and diagrams. The course covers the history, context, ethics, and theory of analytical design. Includes application and creation of static and interactive visuals.Prerequisites: IMS 222, IMS 254, and IMS 257/IMS 322.
+IMS 277.  Independent Studies.  (0-6)
+IMS 278.  Digital Innovation Workshop Preparation.  (1; maximum 2)
+Introduction to Digital Innovation is a 1 credit hour preparatory course designed for students that have already been accepted into the Digital Innovation Program. The course will cover program requirements, provide city-specific orientations, and support professional development activities in order to best prepare students for success during the program. To be taken the semester immediately preceding participation in Digital Innovation.
+IMS 279.  Luxembourg Digital Innovation Workshop Preparation.  (1; maximum 2)
+Introduction to Digital Innovation is a 1 credit hour preparatory course designed for students that have already been accepted into the Luxembourg Digital Innovation Program. The course will cover program requirements, business and cultural understanding, and professional development activities in order to best prepare students for success during the program. To be taken the semester immediately preceding participation in Lux Digital Innovation.Prerequisite: Acceptance in Lux Digital Innovation.
+IMS 285.  Inside the Game Developers Conference.  (2; maximum 6)
+This Sprint course takes place before and after the San Francisco Game Developers Conference. It helps students to collaboratively prepare for the conference by providing information on the GDC events, creating supporting materials (such as business cards, portfolios, etc.) and setting personal goals. After returning from the conference, students are debriefed and reflect on their experience. (The course does not include admission or lodging. Students are expected to attend GDC by themselves and will be unsupervised during the conference.)
+IMS 287.  Streaming Media: Twitch.tv and Beyond.  (3)
+Streaming media has become ubiquitous. In this course, students will learn the mechanics and methods of creating and streaming video.
+IMS 304.  Electronic Music.  (3)
+Electronic music history, literature, styles, and studio techniques with emphasis on original expression using digital, editing, multi-track recording, and basic synthesis concepts. Designed for the undergraduate junior or senior, but open to all students. Formal music training not required.Cross-listed with MUS 304.
+IMS 305.  3D Character Design.  (3; maximum 6)
+In this course, students will create fully realized characters using 3D animation software to be implemented in a game engine. Students will learn a complete workflow for taking a character concept through all stages of a 3D character-creation process. This includes concept art, proper scene setup, 3D modeling, digital sculpting, degrading assets, UV Unwrapping, texture painting, and character rigging, posing, rendering, and importing into a game engine. The course is project driven and grades will be based on the visual quality and passion expressed in the work submitted for assignments, ability to follow instructions for submission, and ability to meet deadlines for assignments.Prerequisites: ART/IMS 215, ART/IMS 218, and IMS 319 or permission of instructor.Cross-listed with ART.
+IMS 306.  Advanced Electronic Music.  (3)
+Advanced Electronic Music offers an in-depth look at the music studio environment. The course focuses on Ableton Live as the primary Digital Audio Workstation (DAW) and touches on a few other free music apps. Class time is devoted to learning practical skills such as the use of microphones, studio hardware use, and mixing and mastering. Also introduced is Max-for-Live, a relatively simple programming environment that greatly expands on the capabilities of Ableton Live. Synthesis is covered from both a theoretical and practical perspective, including the use of the Doepfer analog modular synthesizer. A survey of historical and contemporary practice in the field will provide the basis for exploring analytical and critical techniques.Prerequisites: MUS/IMS 221 or MUS 304/IMS 304 or permission of instructor.Cross-listed with MUS 306.
+IMS 314.  Game Usability & Human Factors.  (3)
+Usability and user experience design are critical to the design and production of games. For most games, however, this has been limited to playtesting. While playtesting is important, it only addresses usability after the point that the game has been developed to the point of actual play. As any game designer will tell you, that's late in the process. This course looks at how to utilize existing UX concepts and testing on games, but the class will also focus on how games are different and why games require specific testing and research techniques.
+IMS 317.  Writing for Games.  (3)
+Writing for Games offers students an opportunity to learn the genres and professional standards of writing for games and the gaming industry, including instructions, proposals, design documents, publicity documents, and in-game scripts. ADVW.Prerequisite: ENG 111.Cross-listed with ENG.
+IMS 319.  Foundations in Digital 3-D Modeling and Animation.  (3) (MPT)
+Provides knowledge in the underlying concepts and practical skills in the design and development of computer generated 3-D imagery. Examines 3-D modeling; animation, lighting and rendering; character animation; and other related topics.
+IMS 322.  Intermediate Interaction Design and Development.  (3; maximum 6)
+This course covers the basic coding patterns and practices present in all programming languages with an emphasis on those languages most common in web and mobile application platforms. It will take students through the fundamentals of algorithm design and then move on to expressing those designs in several popular languages. Because of the focus on web environments, this course will also explore the difference between presentation (such as with HTML) and interactivity (such as with JavaScript). The web and mobile focus will lead to rudimentary discussions on client/server architectures and what content delivery choices are available when a mobile device, such as a smartphone or a tablet, has such strong technical capabilities.Prerequisite: B- or better in IMS 222.
+IMS 333.  Digital Innovation and Entrepreneurship.  (3) (MPT)
+Focuses on building new interactive/digital ventures, venture capital, and private equity with respect to networking technologies in both existing and emerging industries based on opportunity and assembling the resources required.
+IMS 340.  Internship.  (0-20)
+IMS 351.  Introduction to Mobile Application Development.  (3; maximum 6)
+Examination of the critical issues related to development of mobile applications; creation of application non-native mobile applications using graphical and script-based programming languages; ethics of mobile applications; mobile media and user interfaces for mobile devices; problem analysis for assessing applicability of mobile solutions.Prerequisite: IMS 322 or IMS 257.
+IMS 354.  Intermed Interaction Design.  (3)
+The synthesis of design principles, usability, and technology is vital to successful interaction design. This course will leverage the exploration of emerging design processes and emerging technology to delve deeper into interaction design. This course challenges students to integrate design principles from a variety of domains to create user interfaces that surprise and delight.Prerequisites: IMS 254 and IMS 259.
+IMS 355.  Principles and Practices of Managing Interactive Projects.  (3)
+Students will prepare themselves for life beyond Miami by learning about leadership, client management, digital project organization, and team work. This course teaches lightweight methods of running an interactive project of any kind, allowing the student to apply what he/she learn through actual project-management and team work. Emphasizing the latest Agile project management techniques, the course teaches how to manage complex interactive media projects using a leadership philosophy that encourages teamwork, self-organization and accountability.Prerequisites: IMS 228, IMS 315, IMS 418/IMS 518 or IMS 419/IMS 519, IMS 414/IMS 514.
+IMS 375.  Human Robot Interaction.  (3)
+This course introduces basic robotic principles including kinematics, robot architecture and control. The historic context of robotics will be discussed. Students research current technical and societal issues related to human robot interaction. Throughout the course, students develop a project to observe a small humanoid robot interacting with people. The project includes the design and implementation of the robotic activity.Prerequisite: MME/ECE 303 or MME 305 or IMS 322.Cross-listed with MME.
+IMS 377.  Independent Studies.  (0-6)
+IMS 381.  Music for Games.  (3)
+Music for Games (a) examines the theory and traditions of background or incidental music in various media, (b) discusses how to put theory into practice within game design, and (c) places new music into new games. Students create their own music for their own games or for games of colleagues. Unity is the preferred software platform.Prerequisite: IMS 221.Cross-listed with MUS.
+IMS 382.  The Business of Games.  (3)
+In this course students will learn the basics of gamification and of marketing games and will learn how to work as an independent developer or start their own games business.Prerequisite: IMS 211.
+IMS 384.  Rhetoric of Games.  (3)
+The study of video games has exploded in the last decade. While the field of “game studies” is still relatively small in academia, when partnered with disciplinary knowledge, the study of the rhetoric of games constitutes some of the most cutting-edge theoretical and practical liberal arts work being done in all of the academy. In this class, students will learn to apply rhetorical thinking and disciplinary knowledge to the study of games. A particular focus will be placed on cultural (race and gender) rhetorics as related to games and gaming. IC.Prerequisite: IMS 211.
+IMS 390.  Special Topics in Interactive Media Studies.  (3; maximum 9)
+This course offers a rotating series of topics to meet the changing needs and interest of students and faculty, specifically focusing on the varying applications and theories of interactive media. Though designed for those who live in a world of digital media, this course does not teach mechanical skills (PowerPoint, Fireworks, Flash, or Photoshop).
+IMS 390C.  Special Topics in Interactive Media Studies.  (3)
+This course offers a rotating series of topics to meet the changing needs and interest of students and faculty, specifically focusing on the varying applications and theories of interactive media.
+IMS 390S.  Special Topics in Interactive Media Studies.  (3)
+This course offers a rotating series of topics to meet the changing needs and interest of students and faculty, specifically focusing on the varying applications and theories of interactive media.
+IMS 391.  3D Character Animation.  (3)
+Introduction to 3D character animation and motion capture, with a strong emphasis on the principles of animation. The course examines how to design a good character, in a general sense, and how to express personality through motion. The course also covers related topics such as creating video-game animation clips and designing game-engine character controllers. A working knowledge of 3D modeling and animation is required.Prerequisite: IMS 319.
+IMS 392.  Content Marketing.  (3)
+Content marketing is a profession, a central marketing strategy in contemporary business. Students acquire proficiency in the creation and distribution of digital media (e.g., blogs, videos, social media posts) to promote brand interest and awareness while providing value to users.
+IMS 396.  Inside Startups.  (3; maximum 6)
+This course is designed to provide students an inside look at some of the most successful startup companies in regional startup ecosystems. It provides a hands-on approach to investigating successful business models. The course is structured around company visits, guest lectures, and company research.Prerequisite: IMS 278.
+IMS 397.  Inside the Startup Environment (SF).  (3; maximum 6) (MPF)
+This course is designed to provide students an inside look at some of the most successful startup companies in regional startup ecosystems in San Francisco. It provides a hands-on approach to investigating successful business models. The course is structured around company visits, guest lectures, and company research. IIIB.Prerequisite: IMS 278.
+IMS 398.  Startup Networking.  (1; maximum 2)
+Professional Networking is designed to complement the internship required in the Digital Innovation Program. Within this course, students will develop relationships with industry experts, build a network of professional contacts, and increase their exposure to the startup ecosystem in their respective cities.Prerequisite: IMS 278.
+IMS 404Y.  Mind and Medium.  (3)
+Courses in three of the primary curricular areas: communication process; history and theory; environmental systems. Offerings vary. May include: housing, contemporary architecture theory and practice, vernacular architecture, urban studies, architectural theory, exploration of graphic media, advanced work in building systems, etc. Seminar descriptions available at departmental office during preregistration each semester.Cross-listed with ARC.
+IMS 407/IMS 507.  Interactive Business Communication.  (3)
+Writing and communicating effectively within business contexts, with an emphasis on researching, reporting, proposing, and maintaining relationships using digitally networked interactive technologies.Cross-listed with ENG.
+IMS 411/IMS 511.  Visual Rhetoric.  (3) (MPT)
+Provides an introduction to the theory and techniques of visual rhetoric used by professional communicators. Covers elements of layout, design, and typography, giving students practice with short and longer print texts and non-print media.Cross-listed with ENG.
+IMS 413/IMS 513.  User Experience Research.  (3)
+We will explore and discuss important concepts in human-computer interaction (HCI) theory and usability, and learn about cutting-edge technologies used to measure the effectiveness of digital media environment design. In so doing, we will pay particular attention to user expectations and how they drive user behavior. The major focus of the course assignments is designing and managing a usability study then reporting on the results of that study.
+IMS 414/IMS 514.  Web and Social Media Analytics.  (3)
+Examines and develops analytical ability with respect to the variety of information provided by web and social media behaviors. Students will learn about the mechanisms for observing behavioral and consumer generated information and the leading-edge technologies that aid in the collection and analysis of these data. We will focus on strategic and practical ways to provide radical personalization, improve consumer relationships, and develop effective and value-driven online marketing activities.
+IMS 415/IMS 515.  Advanced Usability and User Experience.  (3)
+This course is the second in a sequence (IMS 413/IMS 513 is the first) focusing on the study of user experience research and design. In this class, students work with a real client to evaluate and redesign an existing interface. As part of this engagement, students are assigned to small groups. They have client contact and consider and carry out the user experience research methodologies (including eye tracking and facial expression analysis) that will be most helpful to their client. After analyzing the data, teams then decide on an interactive design approach to take and work through the steps to build wireframes and a clickable prototype. Finally, they prepare a written recommendations report and client presentation. There is no coding involved.Prerequisite: IMS 413/IMS 513.
+IMS 416/IMS 516.  Writing for Global Audiences.  (3)
+This course focuses on how to write effectively in print and digital media for global audiences. Students will research cross-cultural written communication, including networked communication, and they will develop intercultural literacy skills necessary for writing to global audiences. Through frequent writing assignments, students will learn and enact the theories and strategies for targeting print and digital communications to international and culturally diverse audiences.Cross-listed with ENG.
+IMS 418/IMS 518.  Social Media Marketing and Online Community Management.  (3)
+Traditional advertising and marketing models are being increasingly challenged by a world in which content creation, transmission, and aggregation are being decentralized. Markets are now conversations - some very short. Social media are living conversations that present marketers with the challenge of how to understand and participate in those conversations in an authentic and value-based manner. Moreover, these conversations don't happen in a vacuum. The connected nature of different social (and physical) relationships define a community of interest. The community manager uses this entire space to help bring value to this community. This class examines the variety and taxonomy of social media and the strategies and tactics associated with social media marketing and community management. Recommended prerequisite: IMS 201.
+IMS 419/IMS 519.  Digital Branding.  (3) (MPT)
+Survey course emphasizing a hands-on immersion into ECommerce; studies the impact this technology has on the basics of the marketing mix and effective and efficient marketing strategies. Focuses on applications, innovations, and future direction (not on the technology that enables the Internet and www). Heavy reading, electronic and in-class discussions, and 'surfing' required (recommended prerequisite: MKT 291).Cross-listed with MKT.
+IMS 421.  Digital Product Management.  (3)
+Digital Product management can be defined as the general business structure within a company that supports and manages all the activities related to developing, marketing and selling a product – or even more than one – all through its lifecycle. Managing a product encompasses everything related to a specific product, from creating a concept and studying the targeted audience to developing, producing and marketing it (and providing customer support afterward).Prerequisites: IMS 228, IMS 315, IMS 414/IMS 514 and IMS 418/IMS 518 or IMS 419/IMS 519.
+IMS 422/IMS 522.  Advanced Interaction Design and Development.  (3)
+This course is an opportunity to investigate interactive design as it relates to a variety of media types used by businesses. Using industry-standard measures of effective design methods, students will learn to design and evaluate interactive products for business needs. This includes the design and evaluation of websites, games, kiosk systems, and others. Topics include the use of standard interaction (e.g., mouse, touch screens) but also extend into emerging interaction through eye tracking, computer vision, and haptic interface. Effective interactive design is often achieved by the creative application of sometimes disparate disciplines. Students should expect to incorporate their understanding of art theory, psychology, commercial business practice, and creative problem solving.Prerequisites: IMS 257/IMS 322 or a working knowledge of HTML/CSS/JavaScript; or by permission of instructor.
+IMS 424/IMS 524.  Ethics and Digital Media.  (3)
+Students will focus on key ethical issues related to online writing, communication, and visual design. Course will introduce key ethical principles, including principles of rhetoric, communication, and design ethics, as well as key principles of professional ethics as articulated in fields like professional writing, technical communication, and graphic design. Topics include intellectual property, access and universal design, privacy and surveillance, visual representation and manipulation, global communication and cultural difference, economic issues of justice and equity, and professional rhetorics.Cross-listed with ENG/JRN.
+IMS 426/IMS 526.  Developing & Publishing Digital Books.  (3)
+Digital Publishing offers students opportunities to design, edit, and distribute electronic books. Students will learn theories and processes for digital publishing and work with a number of tools and platforms. They will also learn the genres, standards, and literacies required for web-based and ebook production. Students will gain real-world, client-based experience by assisting a non-profit academic press with the development of new ebooks and the digitization of earlier titles.Cross-listed with ENG.
+IMS 430/IMS 530.  Motion Design Toolkit.  (3)
+Students will learn keyframe-based motion design, generative/parametric-based motion design as well as an introduction to 3D animation. Students will apply these skills to create standard graphic animations and generative content and to use non-traditional delivery formats like VR and projection mapping.Prerequisite: IMS 259 or permission of instructor.
+IMS 431/IMS 531.  Creative Direction in Entertainment Design.  (3)
+Students will learn to lead and manage the conceptualization and execution of immersive entertainment design projects.Prerequisite: IMS 430/IMS 530 or permission of instructor.
+IMS 432/IMS 532.  Invention, Innovation and Implementation in Entertainment Design.  (3)
+An introduction to entertainment design and a survey of the discipline; basic technologies, design principles, and career opportunities are explored. The course focuses on the implementation of entertainment design principles at Walt Disney World.
+IMS 440/IMS 540.  Interactive Media Studies Practicum.  (4; maximum 8) (MPC)
+Examines the tools and methodologies involved in creating and managing the production of new media. Students will study different development models in a real-world setting and work with a client in business or industry to produce an interactive solution. This course particularly focuses on two aspects of the client project: (1) the management of new media development, and (2) the processes that best develop the synergy of an interdisciplinary team working toward a shared goal and the tools of development. It will also emphasize project planning and management. While it may be the case that programmers need to know coding and graphic designers need to know vector graphics, the successful manager will know something about all of these tools, about how they work together, and about how to specialize in one of them.Prerequisites: (IMS 355 or IMS 421) and (IMS 422/IMS 522 or IMS 351 or CSE 252).
+IMS 443.  Research Methods in Games.  (3)
+Research in the games space is different than in some other spaces. Major issues change. For example, what are the ethics of treating an avatar vs. treating a person? When observing a gamer playing, are you observing the on-screen activity, the human holding the interface device, or both? The goal of this course is to explore and better understand these issues.
+IMS 445.  Advanced Game Design.  (3) (MPT)
+Develops theoretical foundations, methods, and skills in building complete games. Focuses are placed in particular on the understanding of how design influences gameplay and mechanics.Prerequisites: IMS 211, IMS 212, and IMS 213.
+IMS 452.  Senior Degree Project.  (3) (MPT)
+Independent interactive media research project, to be completed in the final year of IMS coursework. This project provides an opportunity for the student to synthesize various strands of their academic work, professional experiences, and knowledge into a work that should stand as a demonstration of the student's accumulated skills and critical perspective. IC.Prerequisite: IMS 257 or IMS 322 and IMS 228.
+IMS 453.  Indie Game Development I.  (3; maximum 6)
+All IMS students with a games focus must complete an independent project in which they create and publish a finished game (on an online distribution platform). This project provides an opportunity for the student to synthesize various strands of their academic work, professional experience, and design knowledge. Furthermore, it requires the student to develop the ability to scope their projects realistically and see them through within a strict time budget. This is the first of a two-course sequence.Prerequisite: IMS 211, IMS 212, and either IMS 213 or CSE 251.
+IMS 454.  Indie Game Development II.  (3; maximum 6)
+All IMS students with a games focus must complete an independent project in which they create and publish a finished game (on an online distribution platform). This project provides an opportunity for the student to synthesize various strands of their academic work, professional experience, and design knowledge. Furthermore, it requires the student to develop the ability to scope their projects realistically and see them through within a strict time budget. This is the second of a two-course sequence.Prerequisite: IMS 453.
+IMS 461/IMS 561.  Virtual Reality.  (3)
+Advanced course in Virtual Reality, 360-degree video, 3D simulations, motion tracking, and 3D data visualization. Provides background, theory, and practice in creating virtual reality simulations, games, training applications, and 3D visualizations. Prior experience with Game engines is strongly recommended (e.g., CSE 251 or IMS 466/IMS 566).Prerequisites: CSE 251 or CSE 487 or IMS 465 or permission by instructor.
+IMS 465.  Game Engine Scripting.  (3)
+This is an advanced game development course meant to build on the introductory game engine groundwork laid by the coding and game development courses students must take as prerequisites. Students will design and code a short series of game prototypes using a commercial-level game engine, increasing proficiency in navigating the engine tools and speed in which they are able to prototype and iterate on game mechanics and design. Guidance and constraints will be provided to keep projects within a reasonable scope. Students are expected to put a great deal of effort into learning how to debug problems and understand engine features while being provided guidance, not answers, by the professor. The goal of this course is to increase student comfort with professional game engine tools and prepare students to learn (and self-teach) increasing advanced features based on their development interests.Prerequisite: IMS 213 and CSE 251.
+IMS 466/IMS 566.  Critical Game Development.  (3; maximum 6)
+It often takes an entire collegiate career for a student to develop their first finished game. This course aims to change this by letting students develop a short game (by themselves or with friends who are also taking the class). The course starts with the development of a game design that has a realistic scope. Afterwards, the students get to use their class time to work, discuss the games, playtest them, and tackle development problems as a group, all under the guidance of an experienced game design professor. The students are expected to invest a minimum of 100 hours into developing this game (which will be divided between home work and in-class time). The goal of the course is for to develop a short game that is publishable on an indie gaming website, such as Itch.io, Game Jolt, Desura, and that can be submitted to design competitions.Prerequisite: IMS 212, IMS 445 or IMS 487/IMS 587.
+IMS 470/IMS 570.  Introduction to Esports.  (2)
+This course introduces students to the taxonomy and structure of videogames that are played as esports. It also outlines the history of the sport, the full ecosystem of the sport, and the present state of the sport.
+IMS 471/IMS 571.  Esports Broadcasting.  (2)
+This course provides a structural understanding of the broadcast of esports as well as best practices for broadcasting. The course examines business models, media right, and legal issues in streaming. Students will also learn about hardware and technology used in streaming as well as production and strategic decisions the successful streamers employ.
+IMS 472/IMS 572.  Esports Event Management.  (2)
+This course introduces the world of esports event management, also known as TO (tournament organization.) Students will learn how to promote, recruit, research, and run and esports event. Students will learn customer relationships, sponsorship, promotion, and venue logistics.
+IMS 473/IMS 573.  The Business of Esports.  (2)
+This course is an in-depth and advanced study of the business and management aspects of esports. This course, team-taught with Miami Faculty and a practitioner from the world of esports, provides an deep understanding of esports logistics, legal considerations, business models, finance, and project management.Prerequisites: IMS 470/IMS 570, IMS 471/IMS 571, and IMS 472/IMS 572.
+IMS 474/IMS 574.  Special Topics in Esports.  (2)
+This course varies in content each time it is offered and is meant to explore timely and significant topics in the world of esports.Prerequisites: IMS 470/IMS 570, IMS 471/IMS 571, and IMS 472/IMS 572.
+IMS 475/IMS 575.  Esports Brand Management.  (2)
+This course is an in-depth and advanced study of marketing and promotion in esports. This course provides an deep understanding of brand management, social media marketing, pr/journalism, sponsorship, and community management in esports.Prerequisites: IMS 470/IMS 570, IMS 471/IMS 571, and IMS 472/IMS 572.
+IMS 476/IMS 576.  Esports Event Practicum.  (2; maximum 4)
+This course is the practicum where students will manage and run a full-scale professional esports tournament sponsored by one of Miami's event partners.Prerequisites: IMS 470/IMS 570, IMS 471/IMS 571, and IMS 472/IMS 572.
+IMS 477.  Independent Studies.  (0-6)
+IMS 478/IMS 578.  Esports Ecosystems.  (1)
+This one-credit-hour course prepares students for IMS 476/IMS 576, the first esports event practicum. It is an overview of the structure of the practicum, the event, and their role in it, as well as an overview of the events industry ecosystem.Prerequisites: IMS 470/IMS 570, IMS 471/IMS 571, and IMS 472/IMS 572.
+IMS 480/IMS 580.  Esports Tournament Ecosystems.  (1)
+This course provides an overview of esport tournament ecosystems to prepare students for the practicum, where they will be working an actual tournament. This one hour course has guest speakers from the esports tournament space who will provide the landscape of all the organization, structure, timing, and promotional considerations for live esports events.Prerequisites: IMS 470/IMS 570, IMS 471/IMS 571, IMS 472/IMS 572.
+IMS 485/IMS 585.  Technology Entrepreneurship Ecosystems.  (1)
+This one-hour course, tied to the Bootcamp course in the graduate program in emerging media and entrepreneurship is an introduction to the tech startup space for a specific geography. While this course is traditionally in San Francisco, it may also be in other startup hubs. The course helps students understand how startup, funders, founders, employees, government and geography help define unique startup ecosystems such as the Bay Area.
+IMS 486.  Advanced Digital Marketing.  (3)
+This course builds on IMS 418/IMS 518 and 419, which provide the strategic and theoretical framework to support state-of-the-art digital tactics. The tactics taught in this course would vary each semester, as the frontiers of digital marketing are always moving.Prerequisites: IMS 418/IMS 518 and IMS 419/IMS 519.
+IMS 487/IMS 587.  Game Prototyping, Pipeline and Production.  (3)
+In this course, students will be introduced to skills, concepts, and competencies that deal with video game pipeline production. This course serves as a precursor to IMS 488. Students will not only develop as individual artists, programmers, and designers, but will learn how to thrive in an interdisciplinary team to create video games. Students will work on original, small-scope, small-team projects that will culminate into playable prototypes of a real-time interactive experience. Strategies for working proactively on a development team will be introduced and applied.Prerequisites: IMS 445 and IMS 465.
+IMS 488.  Game Preproduction.  (3)
+In this course, students will bring together everything they learned during the program and start preproduction for a digital game that they will develop and (independently) publish in the games capstone production class. They learn skills, concepts and competencies that deal with the video game production pipeline. The goal of the course is to finalize the game concept, to complete tech demos, to finish concept art, and to deliver a production plan. As the students work in a team format in which they are assigned a role that corresponds to the role that they seek to take on in the industry after graduating, the deliverables for each student differ based on their role. Programmers will develop tech demos, artists will develop concept art, designers write technical documents, etc. Unique, interesting or unorthodox ideas are encouraged.Prerequisites: IMS 487/IMS 587.
+IMS 489.  Game Production.  (6) (MPT)
+This course follows IMS 488. In this course, students move from pre-production for their capstone game into the production phase. At the end of this course, the game is intended to be completely functional and ready for distribution.Prerequisite: IMS 488.
+IMS 490/IMS 590.  Advanced Topics in Interactive Media Studies.  (3; maximum 6)
+This course complements IMS 390, the IMS "Special Topics" course. This course is taught by various faculty about topics that may be timely, unique, or experimental and are not covered by the permanent curriculum. This course may be a test bed for a future permanent course or it may be a one-time exploration of a topic. Topics vary each time the course is taught. Look for a notation in the course listing that provides additional detail about which special topic is being covered at the advanced level.
+IMS 491/IMS 591.  Tech Startup Bootcamp.  (2)
+This course is an all-day, week-long, deep dive into the business side of technology startups, providing a track/expertise in the ET graduate programs. This course is designed to provide expertise and depth to aid in an internship or future job search.
+IMS 492/IMS 592.  Startup Development Bootcamp.  (2)
+This course is an all-day, week-long, deep dive into the programming and development side of technology startups, providing a track/expertise in the ET graduate programs. This course is designed to provide expertise and depth to aid in an internship or future job search.
+IMS 493/IMS 593.  Startup Design Bootcamp.  (2)
+This course is an all-day, week-long, deep dive into the design side of technology startups, providing a track/expertise in the ET graduate programs. This course is designed to provide expertise and depth to aid in an internship or future job search.
+IMS 617.  Interactive Web Programming.  (3)
+This course covers the basic coding patterns and practices present in most prevalent programming languages in web application platforms. It will take students through the fundamentals of the semantics, syntax, and algorithms of the languages, and then move on to expressing the knowledge in developing web and mobile applications. This course will explore the difference between structure (such as with HTML5), presentation (such as CSS3), and behavior (such as with JavaScript/jQuery/React and PHP/MySQL). It also will examine client-side (JavaScript/JQuery), server-side (Node.Js, PHP/MySQL), and mobile programming (JQuery Mobile) and their computing environments.
+IMS 640.  Internship.  (0-12; maximum 6)
+IMS 652.  Graduate Research Project.  (3)
+This course is the culminating experience in the IMS/ESP graduate program. Students will propose a new product/venture/service that meets a need identified in their internship. Once approved, they will conduct research, propose a solution (as an entrepreneurial "pitch"), build a solution, and test the efficacy of the solution. This will require the student to demonstrate mastery of the learning objectives of the degree.
+IMS 677.  Independent Studies.  (0-6)
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

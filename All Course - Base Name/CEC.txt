@@ -1,0 +1,106 @@
+Engineering & Computing (CEC) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+Engineering &​ Computing (CEC)
+General Course Information
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Engineering & Computing (CEC)
+Engineering & Computing (CEC)
+CEC 101.  Computing, Engineering & Society.  (1)
+This course is designed for first-year students with majors in the College of Engineering and Computing. Its goal is to facilitate student transition to college by introducing key information, resources, and skills needed to succeed. It will also introduce students to the curriculum and fields in engineering and computing and provide opportunities to connect with faculty, staff, and other students. This course facilitates opportunities for open discussion and individual advising; addresses issues including information literacy, academic integrity, personal responsibility and career development; and identifies key campus resources to enhance academic success.
+CEC 102.  Problem Solving and Design.  (3)
+This course introduces an approach to problem solving for engineering students. The students will learn systematic approaches to problem solving. Topics covered include: problem identification, requirement analysis, research on existing and alternative solutions, and quantitative analysis of solutions, synthesis and evaluation of data, prototyping, and testing. Students will also develop their oral and written communication skills as well as team work skills. Credit will be given for only one of CPB 102, CSE 102, ECE 102, MME 102, CEC 102.
+CEC 130.  Special Topics and Student Projects I.  (1-3; maximum 6)
+Introductory level course focused on a special topic and/or interdisciplinary student project.Cross-listed with ESP.
+CEC 140.  Grand Challenge Scholars Experience.  (0)
+This course is restricted to students in the Grand Challenge Scholars program. It will ensure that students meet particular non-course requirements such as submission of progress reports, submission of reflections, participation in the Grand Challenge Scholar in Residence program, and participation in the peer mentor program. Students are required to enroll in this course each semester (fall and spring) that they participate in the Grand Challenge Scholars program with a minimum of three semesters of participation.Prerequisite: admission to the Grand Challenge Scholars Program.
+CEC 150.  CEC Scholars Seminar.  (0)
+This seminar for Engineering and Computing Scholars will bring in weekly guest speakers from across Miami to introduce the Scholars to valuable people, centers, and opportunities. It will also help the students build a core community for future networking.
+CEC 177.  Independent Studies.  (0-6)
+CEC 205.  Agile Launchpad I.  (3)
+Agile is a term for a set of values, principles, and practices that have been shown to improve the efficiency, productivity, and quality of software development and delivery. The key objectives are to deliver working software that meets the needs of a customer while mitigating risk in the development process. This set of courses addresses the theory and practice of Agile in the context of globally dispersed teams. Students will learn and apply the values, principles, and practices of Agile while working in multi-disciplinary international teams. The course includes a significant practicum experience in which students collaborate with developers in other countries such as Australia, India, or China to develop working software using the Agile approach. Students will need to collaborate across time zones, cultural differences, and communication barriers.Cross-listed with CIT 205.
+CEC 206.  Agile Launchpad II.  (3)
+Continuation of CEC 205.Prerequisite: permission of instructor.
+CEC 230.  Special Topics and Student Projects II.  (1-3; maximum 6)
+Fundamental activities in the research and implementation of a special topic and/or interdisciplinary student project.Prerequisite: permission of instructor.Cross-listed with ESP.
+CEC 255.  CEC Preparation - Study Abroad.  (2; maximum 4)
+The purpose of this course is to prepare students for an international cultural immersion experience where they will work on projects that are appropriate to the culture and communities of the host country. This seminar will introduce students to the country and its cultural basics, provide an overview of logistical details, living conditions, and other country-specific information. Students will research possible projects focusing on planning, technical constraints, and accessing appropriate resources. Topics concerning goals for working with communities in other countries and effective strategies will also be included. Intercultural competence will be discussed and students will identify areas for improvement.Prerequisite: Permission of instructor.
+CEC 258.  Reflection on CEC Study Abroad Projects.  (1; maximum 2)
+This seminar will provide a review and reflection on the cultural immersion and project experience in an international setting. Students will evaluate the effectiveness of project work done in the host country and the cultural impact on their project designs, solutions, and implementations. Students will re-assess their Intercultural competence and evaluate the results in the context of the study abroad experience.Prerequisite: CEC 255.
+CEC 266.  Metal on Metal: Engineering and Globalization in Heavy Metal Music.  (3) (MPF)
+This course addresses the linkages among heavy metal music, global culture and engineering developments. Heavy metal is a truly global popular music with major impacts from Europe, Asia, the Americas and beyond. Advances in various technologies have extensively influenced heavy metal, enabling some of its most defining characteristics. This course explores the interplays of technology, music and culture by integrating the powerful history of metal with an overview of the engineering impacts. Students will engage in demonstrations and discussions of the musical breadth along with the engineering technologies. IC, IIIB, V.
+CEC 277.  Independent Studies.  (0-6)
+CEC 291.  Personal Leadership I.  (2)
+The 200 level courses are designed for the CEC Leadership Institute sophomore cohort. They introduce the various dimensions of personal leadership to assist students in understanding the traits for becoming a better leader in their professional and personal lives. These courses span an academic year and serve as a dynamic, integrative and practical introduction to a leadership development program. Students will explore emotional intelligence, teamwork, crucial conversations and group dynamics. The activities in these courses will help students define individual personality preferences, strengths and areas of development and understand how to utilize the self-awareness to become a more effective leader. With the guidance of advisors, students will create their individual leadership plans. Students will also interact with a variety of executives and professionals from diverse industries.Prerequisite: CEC 101.
+CEC 292.  Personal Leadership II.  (2)
+Continuation of CEC 291.Prerequisite: CEC 291.
+CEC 330.  Special Topics and Student Projects III.  (1-3; maximum 6)
+Intermediate-level activities in the research, management and implementation of a special topic or project in engineering and computing with a focus on innovation.Prerequisite: CEC 230.
+CEC 340.  Internship.  (0-20)
+CEC 377.  Independent Studies.  (0-6)
+CEC 391.  People Leadership I.  (2)
+The 300 level courses are designed for the CEC Leadership Institute junior cohort. They focus on various dimensions of leading others, and assist students in becoming better leaders in their professional and personal lives. These courses span the second year of a dynamic, integrative and practical leadership development program for the selective cohort of majors in the College of Engineering and Computing. The students will explore creativity (brainstorming, creative conflict, storyboarding) negotiation, listening and speaking skills, conducting meetings, diversity (cultural, gender, age awareness), how others perceive them (360 reviews), and related topics. Students will continue to implement and revise their personal leadership development plan created in their first year, and deepen their relationships with their executive mentor and their peers.Prerequisite: CEC 292.
+CEC 392.  People Leadership II.  (2)
+Continuation of CEC 391.Prerequisite: CEC 391.
+CEC 399A.  Community Project in Guatemala.  (3)
+This course will be offered in Guatemala where students will have a cultural immersion experience living with a host family, practicing lessons learned about cultural awareness and social entrepreneurship, and working on projects suitable for host communities in Guatemala.
+CEC 460.  Special Topics in Engineering and Computing.  (1-3; maximum 6)
+Topics in engineering and/or computing beyond the technical requirements of a major. These topics and activities may be of an interdisciplinary nature, not restricted to a specific department.
+CEC 477.  Independent Studies.  (0-6)
+CEC 488.  Senior Design-Special Projects.  (4) (MPC)
+Student teams conduct major open-ended design projects. Elements of the design process are considered as well as real-world constraints, such as economic and societal factors, marketability, ergonomics, safety, aesthetics, and ethics. Feasibility and design studies are performed and are followed by implementation/prototyping, testing and analysis of the final design will be completed. This course is designed to support SEEC initiatives in CEC and is primarily for students conducting projects under SEEC initiatives. The projects must have approved elements of SEEC to be part of this special capstone.
+CEC 491.  Strategic Leadership I.  (1-2; maximum 2)
+The 400 level courses are designed for the CEC Leadership Institute junior cohort. These courses span the third and final year of a dynamic, integrative and practical leadership development program and focus on various dimensions of strategic leadership and the transition from college to future careers. Topics to be explored include strategic planning, customer focus, decision analysis, ethics/values, global and diversity perspectives, innovation, and the language of business.Prerequisite: CEC 392.
+CEC 492.  Strategic Leadership II.  (2)
+Continuation of CEC 491.Prerequisite: CEC 491.
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

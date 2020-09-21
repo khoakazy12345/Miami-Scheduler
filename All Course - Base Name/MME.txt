@@ -1,0 +1,206 @@
+Mechanical & Manufacturing Engineering (MME) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+General Course Information
+Mechanical &​ Manufacturing Engineering (MME)
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Mechanical & Manufacturing Engineering (MME)
+Mechanical & Manufacturing Engineering (MME)
+MME 102.  Introduction to Mechanical and Manufacturing Engineering.  (3)
+This course introduces students to engineering, with a focus on mechanical and manufacturing engineering. Topics include how to use state-of-the-art tools to: draw, perform computational analyses, model physical systems, and manipulate and present data. The course covers the Engineering Design Process; a systematic approach to problem solving used by all engineering disciplines. Additionally, the course addresses skills including effective time management, an ability to study and work effectively in groups, and professionalism. The course culminates in a team based engineering design project that draws upon all the lessons covered. This course is open to all majors. Credit will be given for only one of CPB 102, CSE 102, ECE 102, MME 102, CEC 102.
+MME 177.  Independent Studies.  (0-6)
+MME 201.  Modeling and Design in Engineering.  (2)
+Students will develop the ability to read, interpret and develop solid models, and drawings, in the context of applying an engineering design process. Students will apply engineering analyses to guide design decisions.Prerequisite: MME 102 or equivalent.Prerequisite or Co-requisite: MME 211.
+MME 202.  Numerical Methods in Engineering.  (3)
+This course provides hands-on experiences for MME students in the areas of numerical methods and its application to engineering problems. This course includes lab exercises and focuses on utilizing computational software, which will implement numerical methods in order to solve problems associated with various engineering applications and systems.Prerequisites: MME 102 and MTH 151.Prerequisite or Co-requisite: MTH 245 or MTH 246.
+MME 211.  Static Modeling of Mechanical Systems.  (3)
+Introduction to mechanics. Study of the theory and application of the mechanics of rigid bodies in equilibrium.Prerequisite: MTH 151 or equivalent; and PHY 191, sophomore standing.Prerequisite or Co-requisite: MME 102 or equivalent.
+MME 213.  Computational Methods in Engineering.  (3)
+Study and use of fundamental computational methods as applied to engineering analysis and design. Computational methods are explored via discussion of errors and approximations, iterative methods of solving equations. Graphical methods are explored via 3-D modeling with emphasis on assembly and design including limit dimensioning and geometric tolerancing.Prerequisite: MME 102 or equivalent; sophomore standing.
+MME 223.  Engineering Materials.  (3)
+Study of metals, ceramics, and plastics; dependence of properties on structure; selection and application of engineering materials.2 Lec. 1 Lab.Prerequisite: MTH 151 and sophomore standing.Prerequisite or Co-requisite: CHM 141.
+MME 231.  Manufacturing Processes.  (3)
+Introduction to a wide variety of manufacturing processes with emphasis on process modeling and laboratory measurement of process conditions and product variables. Consideration of relations among material properties, process settings, tooling features, and product attributes. Design and implementation of a process for manufacture of a given component.2 Lec. 1 Lab.Prerequisite: MME 211, MME 223, MME 201.Prerequisite or Co-requisite: STA 301 or STA 261.
+MME 277.  Independent Studies.  (0-6)
+MME 301.  Product Design and Development.  (3)
+This course explores the product development cycle from product planning to production ramp up. The relationship between customer needs, product design, and manufacturing capability are discussed within a business and engineering context. Students will apply decision making tools and techniques through case studies and a product based design project in order to critically evaluate the course concepts.Prerequisites: MME 201 and MME 231.
+MME 303.  Computer-Aided Experimentation.  (3)
+Study of theory and application of instrumentation and experimentation including: components and concepts of computer-machine interface systems; design of computer-controlled experimentation for real-time industrial measurement, monitoring, and control; AC power analysis; applications of the Laplace Transform. Laboratory component included.2 Lec. 1 Lab.Prerequisite: ECE 205.Prerequisite or Co-requisite: MTH 245 or MTH 246 or MTH 347.Cross-listed with ECE.
+MME 305.  Measurements and Instrumentation.  (3)
+Study of theory and application of instrumentation and experimentation including: components and concepts of sensors, transducers, signal conditioning, data transmission and acquisition, design of computer-controlled experimentation for real-time industrial measurement, monitoring, and control; AC power applications. Laboratory component included.Prerequisite: ECE 205.Prerequisite or Co-requisite: MTH 246 or MTH 245.
+MME 311.  Dynamic Modeling of Mechanical Systems.  (3)
+Displacement, velocity, and acceleration of a particle; relations between forces acting on a rigid body and changes in motion produced; translation; rotation, plane motion. Solutions using principles of force, mass, and acceleration; work and energy; and impulse and momentum.Prerequisite: MME 211, MME 213 or MME 201, MTH 251 or equivalent.
+MME 312.  Mechanics of Materials.  (3)
+Elastic relationships between external forces acting on deformable bodies and resulting stresses and deformations. Theory, analysis, and applications of these relationships.Prerequisite: a grade of C- or better in MME 211.
+MME 313.  Fluid Mechanics.  (3)
+Fundamentals and application of the mechanics of fluids including properties, statics and dynamics of fluids, dimensional analysis and similitude, steady state flow, and topics in compressible flow.Prerequisite: PHY 191, and either CPB 219 or MME 211, or permission of instructor.Prerequisite or Co-requisite: MTH 252 or equivalent.Cross-listed with CPB.
+MME 314.  Engineering Thermodynamics.  (3)
+Study of the fundamental principles of thermodynamics. Emphasis placed on engineering applications such as power cycles, refrigeration, and heat transfer systems.Prerequisite: MME 211 or CPB 204 or CPB 219.Prerequisite or Co-requisite: MTH 251 or equivalent.Cross-listed with CPB.
+MME 315.  Mechanical Vibrations.  (3)
+Modeling and analysis of the vibrational response characteristics of single-degree-of-freedom, multi-degree-of-freedom, and continuous systems.Prerequisites: MME 311 and MTH 245 or MTH 246 or MTH 347.
+MME 320.  Professional Practice.  (0)
+Students participating in the MME co-op program register for this course during semesters when they are away from Oxford on work assignment. This enables students to remain in good standing with the University Registrar.
+MME 321.  System Modeling, Analysis, & Control.  (3)
+This course provides an in-depth study of mathematical modeling, and analysis of dynamic systems and introduces the design of controllers to achieve closed-loop behavior. The mathematical models will be developed for multiple domains (mechanical, electrical, thermal, fluids, electromechanical etc.) from first principles. Time and frequency domain techniques will be used to predict the dynamic performance of various engineering systems.Prerequisites: MME 202, MME 211, and MTH 246 or MTH 245.Prerequisite or Co-requisite: MME 305.
+MME 334.  Quality Planning and Control.  (3)
+Study of principles and techniques of precision linear measurement, analysis of these measurements, design of experiments, total quality management concepts and applications in the manufacturing environment. Philosophy, structure, and implementation of quality assurance programs.Prerequisite: MME 231 and STA 301 or STA 261.
+MME 335.  Design of Experiments for Quality Control.  (1)
+This course develops the fundamentals of Design of Experiments and applies them to Quality Control concepts. Projects require the design and implementation of experiments that address engineering problems in quality control, process control and manufacturing. Subsequent data analysis emphasizes robust statistical techniques.Prerequisite: STA 301.Prerequisite or Co-requisite: MME 334.
+MME 340.  Internship.  (0-20)
+MME 341.  Engineering Economics.  (3)
+Engineering economic decisions; breakeven and minimum cost analysis; engineering methods of resource allocation; concepts of interest; time evaluation of tactical and strategic alternatives.Prerequisite: MTH 151 and (CPB 102 or CEC 102 or MME102 or equivalent).Prerequisite or Co-requisite: STA 301 or STA 261 or CEC 345.Cross-listed with CPB.
+MME 360.  Special Topics.  (1-3)
+MME 375.  Human Robot Interaction.  (3)
+This course introduces basic robotic principles including kinematics, robot architecture and control. The historic context of robotics will be discussed. Students research current technical and societal issues related to human robot interaction. Throughout the course, students develop a project to observe a small humanoid robot interacting with people. The project includes the design and implementation of the robotic activity.Prerequisite: MME/ECE 303 or MME 305 or IMS 322.Cross-listed with IMS.
+MME 377.  Independent Studies.  (0-6)
+MME 403/MME 503.  Heat Transfer.  (3)
+Continued study of unit operations with emphasis on heat transfer. Study of steady and unsteady conduction, and laminar, turbulent, boiling, and condensing convective heat transfer. Radiation heat transfer, heat exchangers, evaporators, and transfer units.Prerequisite: CPB/MME 314 and (CPB/MME 313 or CPB 318 or CPB 418/CPB 518) and (MTH 245 or MTH 246).Cross-listed with CPB.
+MME 410.  Undergraduate Research Seminar.  (1)
+Seminar course for initiating research problems in consultation with the faculty advisor and participation in the seminars. For grade only.Prerequisite: permission of instructor.
+MME 411.  Machine and Tool Design.  (4)
+Applications of fundamental engineering principles for implementing all phases of the design of machines and tooling, including economic and manufacturability considerations. Emphasis on design, analysis, and engineering judgment.3 Lec. 1 Lab.Prerequisite: MME 231, 312.
+MME 412/MME 512.  Advanced Mechanics of Materials.  (3)
+This course is the advanced study of mechanical behavior of structures. Analysis, design and computational techniques for curved beams, spinning disks, thick-walled cylinders, asymmetric beams, torsion, and buckling will be introduced with the foundations for energy and Finite element methods.Prerequisites: MME 223 and 312; MTH 245 or MTH 347 or MTH 246.Prerequisite or Co-requisite: MME 411.
+MME 413/MME 513.  Introduction to Compressible Flow.  (3)
+Introductory concepts to compressible flow; conservation of mass, momentum, and energy; methods of treating one-dimensional gas dynamics including flow in nozzles and diffusers; normal and oblique shock waves; Prandtl-Meyer flow, Fanno flow, and Rayleigh flow.Prerequisite: MME/CPB 313.
+MME 414.  Engineering Thermodynamics II.  (3)
+Thermodynamics of ideal and real power and refrigeration cycles and devices, mixtures, combustion, and compressible flow, property relations and determination, advanced energy considerations.Prerequisite: MME/CPB 314.
+MME 415.  Thermal-Fluid Studio.  (2)
+This course provides hands-on experiences for MME students in the areas of fluid mechanics, thermodynamics, and heat transfer. This course includes lab exercises and focuses on the collection, analysis and interpretation of data associated with thermal-fluid applications and systems. Students will learn about different measurement devices and complete practical engineering lab work which includes design methodologies applied in exercises and projects.Prerequisites: MME/CPB 313 and MME/CPB 314.Prerequisite or Co-requisite: MME/CPB 403/CPB 503.
+MME 434.  Manufacturing Design.  (3)
+This course focuses on the process of transforming a design concept into a producible artifact. Workparts produced via machining operations will provide the primary context for this process, with supplemental coverage of design considerations for solidification and bulk deformation processes where feasible. Additionally, students will augment their "toolbox" for manufacturing design by gaining both breadth and depth in processes and current topics that are beyond the scope of the typical introductory manufacturing processes course.2 Lec. 1 Lab.Prerequisite: MME 231.
+MME 435.  Manufacturing Competitiveness.  (3)
+This course provides an in-depth study of the proper selection and sequencing of manufacturing enterprise processes and resources in order to continuously improve operations. The course focuses on process improvement methodologies and their integration into overall production aims to provide value, improve quality, and reduce cost.2 Lec. 1 Lab.Prerequisite: MME 231.
+MME 436/MME 536.  Control of Dynamic Systems.  (3)
+An in-depth study of the theory, design, and analysis of feedback control of dynamic systems. Integrate the problem-solving techniques and concepts of electric circuits and computer-aided experimentation into the design and construction of programmable-logic based control systems and its application in modern manufacturing systems. Design methodologies applied in lab exercises and short-term design projects.2 Lec. 1 Lab.Prerequisites: ECE 205 and (MTH 245 or MTH 246 or MTH 347).Prerequisite or Co-requisite: ECE/MME 303.Cross-listed with ECE.
+MME 437.  Manufacturing Automation.  (3)
+This course examines the integration of automation into the manufacturing environment. Through instruction, practical activities and case studies, students will be exposed to programmable logic controllers, robotics, flexible manufacturing systems, computer integrated manufacturing and control technology.2 Lec. 1 Lab.Prerequisites: MME 231 and ECE/MME 303 or MME 305.
+MME 438/MME 538.  Mechanics, Analysis, and Control of Robots.  (3)
+This course deals with mathematical modeling, analysis and controls of robots. Topics include spatial kinematics, forward and inverse kinematics rigid body dynamics, mechanism design for manipulators, static and force analysis, trajectory planning and control, linear motion control of robots and overview and application of different types of robots in industry.Prerequisites: MME 321 and MME 311.
+MME 439.  Seminar in Robotics.  (3)
+Advanced and contemporary issues in robotics. Topics include but are not limited to: cooperative and mobile robotics, mathematical models for complex tasks (e.g. manipulation), humanoid robotics, wearable and rehabilitation robotics, robot hardware and middleware. Other topics as suggested by IEEE Robotics Seminar.Prerequisite: MME 311.
+MME 448.  Senior Design Project.  (2) (MPC)
+Student teams, with varied academic backgrounds, conduct major open-ended research/design projects. Elements of the design process are considered as well as real-world constraints, such as economic and societal factors, marketability, ergonomics, safety, aesthetics, and ethics; feasibility studies performed.Prerequisite: ECE 306 or MME 312 or MME 314 and senior standing in student's major.Cross-listed with ECE.
+MME 449.  Senior Design Project.  (2) (MPC)
+Continuation of MME 448. Student teams, with varied academic backgrounds, conduct major open-ended research/design projects; implementation, testing, and production of design. Nonmajors can register for 1-2 credits. Prerequisite: senior standing in student's major.Prerequisite: senior standing in student's major and (MME 448 or ECE 448).Cross-listed with ECE.
+MME 451/MME 551.  Sustainability Considerations in Design and Development.  (3)
+This course presents sustainability issues to be considered in the planning process and provides tools to evaluate these for a balanced design. Topics include analysis of interactions between the technical, economic, and societal and policy aspects of sustainability, balance of the technical evaluation (life cycle costs, etc.) against the product's impact on the environment and societal preferences, and applying decision analysis methods to evaluate these preferences and tradeoffs.Prerequisite: MTH 151 or equivalent.Prerequisite or Co-requisite: ISA 205 or STA 301 or equivalent.
+MME 470/MME 570.  Special Topics in Mechanical Engineering.  (1-4; maximum 6)
+Advanced special topics in mechanical engineering, which are not covered in the regular curriculum for the mechanical engineering major.Prerequisite: Permission of Instructor (specific pre-requisite courses may be added for different special topic).
+MME 477.  Independent Studies.  (0-6)
+MME 488A/MME 588A.  Material Characterization Techniques.  (1)
+This course covers topics ranging from a basic description of the stress-strain deformation behavior of materials to the most common experimental configurations used to determine key material parameters. Different testing configurations and the instrumentation used to generate the data are explained.Prerequisite: Permission of instructor.
+MME 488B/MME 588B.  ASTM Codes.  (0.5)
+488B/588B ASTM Codes (.5) Verifiable material evaluation requires the use of testing standards such as ASTM codes, which are the subject of this course. Specific topics include the process of selecting a suitable standard, preparation of test programs, and instrument setup and operation.Prerequisite: Permission of instructor.
+MME 488C/MME 588C.  Sample Preparation Methods, Data Collection and Analysis.  (1)
+Various techniques are explained for preparing test samples to use in tension, compression, torsion, and bending test configurations. Preparation of samples for crystallographic and DSC analysis are also covered. The procedures are applicable to metallic and polymeric materials.Prerequisite: Permission of instructor.
+MME 488D/MME 588D.  Practicum Material Testing and Sample Preparation.  (1.5)
+This course equips product design, quality, and test engineers to evaluate new materials and processes. Skills acquired from this training are also valuable to new or returning engineers. The course provides hands-on training in the mechanical testing of materials. Specific topics include sample preparation, equipment setup, application of industrial testing standards, and data analysis to perform reliable and reproducible material characterization.Prerequisite: Permission of instructor.
+MME 488E/MME 588E.  Dynamic Testing of Materials (DMA).  (1)
+This course covers the background, implementation, and data analysis of the dynamic mechanical analysis process. Common testing modes such as three-point bending, tension, compression, and shear are discussed. Process capabilities and equipment selection are included.Prerequisite: Permission of instructor.
+MME 488F/MME 588F.  Dynamic Scanning Calorimetry (DSC).  (0.5)
+488F/588F Dynamic Scanning Calorimetry (DSC) (.5) This course explains the details of the dynamic scanning calorimeter apparatus, which is used for determining microstructural details through thermal energy analysis.Prerequisite:Permission of instructor.
+MME 488G/MME 588G.  Microscopy (AFM, SEM, TEM) Applied to Material Property and Failure Evaluation.  (1)
+Various imaging techniques -- including AFM, SEM, and TEM -- for performing surface and microstructural analysis are studied. A broad range of applications is discussed from the identification of fatigue-based failure to deformation-induced crystallinity in polymers.Prerequisite: Permission of instructor.
+MME 488I/MME 588I.  Practicum Advanced Material Testing.  (1.5)
+This course provides a hands-on experience in the use of test equipment for advanced material analysis. Students undertake test sample preparation, machine setup and operation, and data analysis.Prerequisite: Permission of instructor.
+MME 488J/MME 588J.  Biomaterials.  (1)
+Biomaterials are selected to meet different criteria such as wear performance, mechanical properties, etc. This course introduces widely used polymeric and metallic materials, and provides an explanation of their properties and how these properties are tailored to meet the requirements of biological applications.Prerequisite: Permission of instructor.
+MME 488K/MME 588K.  Composite Materials.  (1)
+Demonstrating a superiority in performance over traditional materials in myriad applications, composite materials open new opportunities for design and manufacturing. Composite manufacturing techniques, especially to achieve specific properties, are discussed. Other topics include failure mechanisms and health monitoring.Prerequisite: Permission of instructor.
+MME 488N/MME 588N.  Fundamentals of Tribology.  (1)
+This course covers the theory, testing methods, and evaluation of materials subjected to wear. Various engineering applications involving wear of both metallic and non-metallic materials are discussed. Methods to improve wear resistance and lubricant selection are also covered.Prerequisite: Permission of instructor.
+MME 488O/MME 588O.  Equipment and Testing Protocols for Wear of Materials.  (1)
+A discussion of the test setups and instrumentation used to assess the wear performance of materials. Methods of determining wear rates and understanding material characteristics are covered.Prerequisite: Permission of instructor.
+MME 489A/MME 589A.  Overview of Traditional Manufacturing Processes.  (2)
+The mainstay of commercial bulk manufacturing, operations such as casting, forging and machining continue to be researched and improved. This course covers the operational details of such traditional manufacturing operations and examines equipment capabilities, sources of defects, and approaches for process optimization.Prerequisite: Permission of instructor.
+MME 489B/MME 589B.  Practicum Traditional Manufacturing Process.  (2)
+A hands-on workshop covering several manufacturing processes. Project work culminates in the creation of an assembly using parts fabricated from different manufacturing techniques. Machine selection, fixturing, selection of tooling and settings, and safe operation of equipment are discussed.Prerequisite: Permission of instructor.
+MME 489C/MME 589C.  Design, Modeling and Simulation for Additive Manufacturing.  (1)
+The course will cover the process of creating a part and assembly in CAD and optimizing the design for additive manufacturing. Design of scaffolding, simulation of the process and consideration of equipment and process compensation for improved tolerances will be performed.Prerequisite: Permission of instructor.
+MME 489D/MME 589D.  Process Overview and Advances in 3D Printing of Polymers and Metals.  (1)
+A broad review of current 3D forming processes covering process capabilities, limitations and aspects of part quality. Process selection criteria will be discussed.Prerequisite: Permission of instructor.
+MME 489E/MME 589E.  Practicum: Additive Manufacturing.  (2)
+A hands-on workshop designed to provide experience in additive manufacturing, focusing on setup, operation, post-printing operations, and property evaluation. The lab will use modern equipment and discuss steps to improve feature/part quality. Post-processing techniques such as solvent dissolution and machining will also be covered.Prerequisite: Permission of instructor.
+MME 489F/MME 589F.  Overview of Advanced Manufacturing Processes.  (1)
+This course covers manufacturing processes that enable small to mid-batch production with a high level of automation, such as water jet cutting and electric discharge machining. Process optimization and defect mitigation will be covered.Prerequisite: Permission of instructor.
+MME 489N/MME 589N.  Fundamentals of Micro-manufacturing.  (0.5)
+489N/589N Fundamentals of Micro-manufacturing (.5) This is a course on specialized micro-manufacturing techniques such as physical and chemical vapor deposition, and etching. Students will be instructed on the creation of manufacturing procedures, equipment selection and process evaluation.Prerequisite: Permission of instructor.
+MME 489O/MME 589O.  Fundamentals of Nano-manufacturing.  (0.5)
+489O/589O Fundamentals of Nano-manufacturing (.5) This is a course on specialized nano-manufacturing techniques such as vapor-liquid-solid (VLS), atomic layer deposition (ALD), self-assembly monolayers (SAMs), and surface functionalization. Students will be instructed on the creation of manufacturing procedures, equipment selection and process evaluation.Prerequisite: Permission of instructor.
+MME 489P/MME 589P.  Quality, Metrology.  (1)
+This course will demonstrate how real-time and post manufacturing evaluation data can be used to perform statistical analysis to monitor process stability, establish tool wear rates and service intervals, and improve product quality. The use of equipment, such as a FaroArm, to perform 3D inspections will be demonstrated.Prerequisite: Permission of instructor.
+MME 489Q/MME 589Q.  Practicum: Advanced Manufacturing Processes.  (1)
+A hands-on course requiring the setup and operation of a broad array of advanced manufacturing machines. The creation of an assembly with components fabricated using various advanced manufacturing techniques will demonstrate the selection, optimization, and design iteration necessary to meet quality and cost targets.Prerequisite: Permission of instructor.
+MME 495/MME 595.  Introduction to Applied Nonlinear Dynamics.  (3)
+Study of nonlinear dynamics of dynamical systems with application of associated one-dimensional and two-dimensional flows/maps, bifurcations, phase plane dynamics, stability and control. Applications from physics, biology, chemistry, and engineering will be utilized throughout the course.Prerequisite: MTH 245 or MTH 347 or permission of instructor.Cross-listed with MTH.
+MME 610.  Graduate Seminar.  (1)
+Invited presenters and faculty provide lectures and demonstrations on current research topics in computational science and engineering of interest to the faculty and students. Required of all MME CS&E graduate students in residence. Approved for credit/no-credit grading only. May be repeated.Prerequisites: graduate student standing or consent of instructor.
+MME 612.  Engineering Analysis.  (3)
+Analytical considerations involving the construction and solutions of mathematical models for processes and systems pertinent to chemical and mechanical engineering. The analytical methods will cover the modeling of steady and unsteady state engineering problems. Recommended prerequisites: CPB 403/CPB 503, 414, 415; MME 412/MME 512, 414, 436 (or equivalent); or permission of instructor.Cross-listed with CPB.
+MME 613.  Computational Fluid Dynamics.  (3)
+Introduction to computational fluid dynamics (CFD). Covers classification of PDEs, discretization and stability conditions. Finite difference methods, solution of elliptic, parabolic and hyperbolic equations. Navier-Stokes equation. Introduction to finite volume problems and grid generation techniques.Prerequisite: MME 403/MME 503, MME 412/MME 512 or permission of instructor.
+MME 615.  Advanced Vibration.  (3)
+Advanced research and computational topics in vibration and its applications. Topics will include Modeling and response of discrete and continuous vibratory systems; Active and passive vibration control; Computational methods for estimating response of vibratory system; and Research problems in vibration.Prerequisites: MME 315 or equivalent and MME 436/MME 536 or equivalent or permission of instructor.
+MME 620.  Special Topics in Mechanical/Manufacturing Engineering.  (1-3; maximum 6)
+Advanced topics in Mechanical and/or Manufacturing Engineering will be presented. Topics will be selected based on department decision.Prerequisite: Graduate standing and permission of instructor.
+MME 621.  Finite Element Analysis.  (3)
+Introduction to the finite element method in terms of theory and implementation. Weak variational form boundary value problems. Formulations in one and two dimensions. Accuracy estimation.Prerequisite: MME 412/MME 512 or permission of instructor.
+MME 623.  Mechanical Behavior of Materials.  (3)
+Mechanics and materials aspects of elastic and inelastic deformation. Basic concepts of stress and strain in 3-D representation. Specific phenomena considered include fracture mechanics, creep behavior, and fatigue of materials. The implications towards the part design will be considered. Principal approaches to metallic and polymer deformation modeling will be introduced.Prerequisites: MME 412/MME 512 or equivalent or permission of instructor.
+MME 640.  Internship.  (0-12; maximum 6)
+MME 677.  Material Characterization Techniques.  (0-6)
+MME 700.  Research for Master's Thesis.  (0-10)
+Study under graduate faculty supervision of a research problem related to mechanical engineering. Maximum of six credit hours of ECE 700 may be applied toward fulfillment of the thesis research requirement for the Master of Science in Mechanical Engineering.Prerequisite: permission of student's graduate advisor.
+MME 704.  Non-Thesis Project.  (0-12; maximum 12)
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel

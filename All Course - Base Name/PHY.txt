@@ -1,0 +1,174 @@
+Physics (PHY) < Miami University
+Skip to Content
+AZ Index
+Catalog Home
+Miami University Home
+Support Miami
+myMiami
+General Bulletin 2020-2021
+Search Bulletin
+Search
+Print Options
+Search Catalog
+Search Bulletin
+Search
+In the Bulletin
+General Information
+Admission for Undergraduate Students
+Liberal Education at Miami
+Other Requirements
+Academic Planning
+Course Registration and Other Regulations
+Grades
+Fees and Expenses
+Financial Aid, Awards and Scholarships
+Graduate Awards and Other Financial Assistance for Graduate Students
+Special Opportunities and Programs
+The College of Arts and Science
+College of Creative Arts
+College of Education, Health and Society
+College of Engineering and Computing
+Farmer School of Business
+College of Liberal Arts and Applied Science
+The Graduate School
+Admission for Graduate Students
+Degree and Certificate Requirements
+Graduate Fields of Study
+Courses of Instruction
+General Course Information
+Physics (PHY)
+Awards, Scholarships, and Prizes
+Graduate Awards
+University Officers, Deans, and Chairs
+Office of the Registrar
+301 S Campus Ave.Room 102Oxford, OH 45056513-529-8703registrar@miamioh.edu
+Home·Courses of Instruction·Physics (PHY)
+Physics (PHY)
+Notes:
+Consult the physics placement guide for assistance in selecting beginning courses.
+Contact the department chair or chief departmental advisor for appropriate physics course selection if you receive Advanced Placement credit in physics.
+A student who receives credit for a higher level lecture or laboratory sequence, e.g., PHY 191 or PHY 192, may not receive credit concurrently or subsequently for a lower level sequence except that, with departmental permission, a student may concurrently or subsequently receive credit for courses numbered PHY 111 through PHY 141. A student may transfer from an introductory physics sequence to a lower numbered sequence at the end of the first semester, i.e., PHY 191 to PHY 111 through PHY 141.
+PHY 101.  Physics and Society.  (3) (MPF)
+Introduction of fundamental principles of physics and discussion of the interaction of science and society, both today and in the past. Provides skills in thinking critically about societal problems which have a scientific or technological component. IVB. CAS-D.
+PHY 103.  Concepts in Physics Laboratory.  (1) (MPF)
+Laboratory course illustrating the basic concepts of physics. For the general student; complements physics lecture offerings at the nonspecialist level. IVB, LAB. CAS-D/LAB.Prerequisite: registration in or prior completion of PHY 101, 111, 118, 121, 131, or 141.
+PHY 111.  Astronomy and Space Physics.  (3) (MPF, MPT)
+Study of space exploration, astrophysics, astronomy, and cosmology. IVB. CAS-D.
+PHY 118.  Introduction to Atmospheric Science.  (3) (MPF)
+Introductory survey of a broad range of atmospheric phenomena with emphasis on how they can affect our lives and mankind's impact on a changing atmospheric environment. Quantitative, illustrative, and mostly non-mathematical approach to processes that pertain to such topics as composition of the atmosphere, global climate, large-scale weather systems, and the nature of violent storms. Develops skills in the areas of problem solving (using charts instead of equations) and elementary weather forecasting. IVB. CAS-D.
+PHY 121.  Energy and Environment.  (3) (MPF)
+Application of physics principles and models to societal uses of energy. Includes mechanics, electricity and magnetism, thermodynamics, and atomic and nuclear physics. Energy topics include resources, environmental problems, global atmospheric challenges, nuclear power, solar energy, alternative energy systems, and energy conservation. Algebraic skills are required but no previous course in physics is needed. IVB. CAS-D.
+PHY 131.  Physics for Music.  (3) (MPF)
+Introduction to the basic physics of sound within the context of music. Production, transmission, and reception of sound waves; traditional and electronic musical instruments; physics of sound reproduction. IVB. CAS-D.
+PHY 141.  Physics in Sports.  (3) (MPF)
+Various aspects of a dozen or more sports are treated using the laws of physics. Provides the non-science student with insight into principles governing motion, dynamics, and other elements of physics in sports. IVB. CAS-D.
+PHY 161.  Physics for the Life Sciences with Laboratory I.  (4) (MPF)
+This is a quantitative introduction to the basic physical laws of nature. Classical mechanics and thermal physics are emphasized. Concepts are developed through lectures, demonstrations, computer simulations, laboratory activities, and problem solving. Qualitative reasoning is emphasized and quantitative problem-solving skills are developed. Algebra and trigonometry are used. No previous physics course is required. IVB. CAS-D-LAB.Prerequisite: ACT Math sub score 26 or SAT Math sub score 610 or Math Placement Test score of 16 or MTH 125.
+PHY 162.  Physics for the Life Sciences with Laboratory II.  (4) (MPF)
+A quantitative introduction to the basic physical laws of nature. Oscillations, waves, electromagnetism, and quantum physics are emphasized. Concepts are developed through lectures, demonstrations, computer simulations, laboratory activities, and problem solving. Qualitative reasoning is emphasized and quantitative problem-solving skills are developed. Algebra and trigonometry are used. IVB. CAS-D-LAB.Prerequisite: PHY 161 or equivalent.
+PHY 177.  Independent Studies.  (0-6)
+PHY 185.  Experiencing The Physical World.  (1)
+An optional demonstration/ experiment/ modeling course designed to provide enrichment for students enrolled in PHY 191 or PHY 192.
+PHY 191.  General Physics with Laboratory I.  (5) (MPF)
+This is a quantitative introduction to the basic physical laws of nature. Classical mechanics and quantum physics are emphasized. Concepts are developed through lectures, demonstrations, computer simulations, laboratory activities, and problem solving. Qualitative reasoning is emphasized and quantitative problem-solving skills are developed. Concepts from differential and integral calculus are developed and used. No previous physics course is required. IVB. CAS-D-LAB.4 Lec. 1 Lab.Co-requisite: MTH 151 or equivalent.
+PHY 192.  General Physics with Laboratory II.  (5)
+This is a quantitative introduction to the basic physical laws of nature. Thermal physics, electromagnetism, and relativity are emphasized. Concepts are developed through lectures, demonstrations, computer simulations, laboratory activities, and problem solving. Qualitative reasoning is emphasized and quantitative problem-solving skills are developed. Concepts from differential and integral calculus are developed and used. CAS-D-LAB.4 Lec. 1 Lab.Prerequisite: MTH 151 or equivalent, PHY 191 or equivalent.Co-requisite: MTH 249, MTH 251 or equivalent.
+PHY 211.  Observational Foundations of Astronomy.  (3) (MPT)
+Describes and investigates many of the pivotal observations in the development of astronomy. Through a largely historical development, the contexts of these observations are discussed and the impact of these observations on the fundamental theories of astronomy is described.Prerequisite: PHY 111.
+PHY 215.  Physics by Inquiry.  (3)
+For middle and adolescent level education majors seeking licensure in science. Emphasizes scientific inquiry in an activity-based, cooperative-learning approach. Goals are to develop basic physical concepts and the scientific reasoning skills necessary to apply them to the natural world and to serve as a model for the transfer of the methods of inquiry-based instruction and authentic assessment to the precollege classroom. Topics selected from properties of matter, thermodynamics, electricity, optics, kinematics, and astronomy. Assessments include laboratory notebook and journal writing, discussion, and developing and teaching inquiry lessons.Prerequisite: one year of physical science or permission of instructor.
+PHY 277.  Independent Studies.  (0-6)
+PHY 281.  Contemporary Physics I: Foundations.  (3) (MPT)
+Third course in a sequence that begins with two semesters expounding the visions of Newton, Schrodinger, Boltzmann, Maxwell, and Einstein. Incorporates a focus approach that emphasizes Nobel prize-winning physics occurring within the lifetime of the student. Presently, the foci are the scanning tunneling microscope, high-Tc superconductivity, and the "standard model" for particle physics. Topics include quantum mechanics in three dimensions, solid state physics, quantum optics, and particle physics.Prerequisite: PHY 192.Co-requisite: MTH 252 (or permission of instructor).
+PHY 282.  Contemporary Physics II: Frontiers.  (3)
+Designed for students in physics, engineering physics, and biological physics at the sophomore level; topics may be of interest to students in related disciplines. Explores and explains scientific principles and technological advances making quantum science and resulting technologies qualitatively and quantitatively different from the large scale. Covers enabling tools and techniques from atomic, molecular, condensed matter, and particle physics, as well as advances in nanotechnology, quantum optics, and biophysics.Prerequisite: PHY 281.
+PHY 286.  Introduction to Computational Physics.  (3) (MPT)
+Lecture-laboratory course on use of computers in analyzing physical systems. Topics of study come from classical mechanics, electromagnetism, statistical physics, and quantum mechanics.Prerequisite: PHY 192, MTH 251.
+PHY 292.  Electronic Instrumentation.  (2) (MPT)
+Theory and application of electronic instrumentation for scientists with emphasis on data acquisition and analysis with microcomputers.Prerequisite: PHY 192.Co-requisite: PHY 294.
+PHY 293.  Contemporary Physics Laboratory.  (2) (MPT)
+Designed for students majoring in physics. Focuses on Nobel prize-winning physics research occurring within the lifetime of the student. Topics may include Balmer series of hydrogen, high-Tc superconductivity, x-ray diffraction, and magnetism. Communication skills are developed through report writing, presentations, and manuscript writing. CAS-D/LAB. CAS-W.Prerequisite: PHY 192.Co-requisite: PHY 282.
+PHY 294.  Laboratory in Electronic Instrumentation.  (2) (MPT)
+Laboratory experience in the use of electrical and electronic instruments, application of transducers and data acquisition equipment. Use of computer in analyzing data and interfacing computer with experiments.Co-requisite: PHY 292.
+PHY 311.  Contemporary Astronomy.  (3) (MPT)
+Study of topics of current interest in astronomy, including the most recent and important observations and theories.Prerequisite: PHY 111 and PHY 211.
+PHY 340.  Internship.  (0-20)
+PHY 377.  Independent Studies.  (0-6)
+PHY 400/PHY 500.  Physics Seminar.  (1; maximum 4)
+Weekly physics colloquium series presenting guest speakers on topics of interest to scientific community. Required of all graduate students in residence. Offered for credit/no-credit only.Prerequisite: PHY 192 or equivalent or permission of faculty in charge.
+PHY 401.  Physics Assessment Examination.  (0)
+Standardized assessment examination for physics majors.Prerequisites: PHY282 and senior standing.
+PHY 410.  Topics in Physics Seminar.  (1-3; maximum 12)
+Directed study in selected topics in physics. Includes reading, research, writing, reporting, and discussion.
+PHY 421/PHY 521.  Molecular and Cellular Biophysics.  (4)
+Introduction to physical phenomena acting on molecular and cellular size scales, including transport properties; thermodynamics and statistical mechanics of reactions; self-assembly; and fluctuations. Development of physical models for biological systems and phenomena, including cooperative behavior in macromolecules; enzyme activity; molecular motors and machines; energy transduction; and nerve transmission.Prerequisite: PHY 162 or PHY 192, MTH 252, or permission of instructor.
+PHY 422/PHY 522.  Physics for Medicine and Biology.  (4)
+Introduction to biophysical phenomena, especially on the cellular and tissue size scales, including materials and fluid mechanics; transport phenomena; and electromagnetic phenomena. Introduction to physical methods used in medicine and biology, including methods of signal and image analysis; use of tissue-light interactions; ultrasound, x-ray, and NMR imaging; and nuclear medicine.Prerequisites: PHY 292, PHY 294; and MTH 252.
+PHY 427/PHY 527.  Nano-scale Science and Technology.  (3)
+Designed for advanced undergraduate and graduate students in physics, chemistry, and engineering. Explains the scientific principles and the technological advantages that make nanoscience and technology qualitatively and quantitatively different from the large scale. Covers the enabling tools, the techniques, and the nano-materials that are involved in nanotechnology. Also, covers the potential impact of nanotechnology in human health, energy, manufacturing, and other aspects of life of a modern society. A weekly lab meeting gives hands-on experimental work to fabricate micro-structures in a Cleanroom facility. Recommended prerequisite: PHY 293.Prerequisite: PHY 162 or PHY 192.
+PHY 430/PHY 530.  Topics in Physics.  (1-4; maximum 12)
+Study of topics of current interest in physics beyond the coverage in other course offerings.Prerequisite: senior or graduate standing in physics or permission of instructor.
+PHY 431/PHY 531.  Elementary Particle Physics.  (3)
+Summary of Summarizes known particles and their properties, and uses relativistic and non-relativistic quantum mechanics to describe their interaction. Quantum field theory and Feynman diagrams are discussed with emphasis on quantum electrodynamics.Prerequisite: instructor permission.
+PHY 437/PHY 537.  Intermediate Thermodynamics and Introduction to Statistical Physics.  (4)
+Development of formal thermodynamics including first, second, and third laws, thermodynamic potentials, Maxwell's relations, phase transitions, and illustrative applications of thermodynamics. Introduction to kinetic theory approach to behavior of systems not in equilibrium, Boltzmann Equation, and transport processes. Development of statistical mechanics and ensemble approach to equilibrium statistical thermodynamics. Pre- or co-requisite: PHY 483/PHY 583 or permission of instructor.Prerequisite: PHY 281.
+PHY 440.  Research.  (1-4; maximum 12)
+Undergraduate research projects with direction of faculty member.Prerequisite: permission of instructor.
+PHY 441/PHY 541.  Optics and Laser Physics.  (4)
+Lecture and laboratory course covering all aspects of lasers and their applications. Teaches basics of physical and geometrical optics and atomic physics in detail to understand the design, operation, and application of lasers. Topics include gaussian beams, cavity design, rate equation models of laser gain media, different types of lasers, and nonlinear optics.Prerequisite: PHY 281, PHY 293, or permission of instructor.
+PHY 442/PHY 542.  Spectroscopy of Atoms and Molecules.  (4)
+Survey of the structure of atoms and molecules, using optical spectroscopy as a tool. Lecture reviews the quantum theory of atoms and molecules, including solutions to the Schroedinger equation, spectroscopic notation, transition rates, and selection rules. Laboratory examines a variety of light sources, with increasing resolution. Zeeman, fine structure, and hyperfine structure, in particular, are considered. Emphasis on laboratory investigation. Pre- or co-requisite: PHY 483/PHY 583.Prerequisite: PHY 281, PHY 293, or permission of instructor.
+PHY 451/PHY 551.  Classical Mechanics.  (4)
+Mechanics, nonrelativistic and relativistic, of particles, systems of particles, and rigid bodies treated by Newtonian, Langrangian, and Hamiltonian methods using vector and matrix analysis and calculus of variations. Pre- or co-requisite: PHY 483/PHY 583 or permission of instructor.
+PHY 461/PHY 561.  Electromagnetic Theory.  (4)
+Mathematically quantitative lecture and problem course in theory of electromagnetism. Topics include multipole fields, electromagnetic field equations, electromagnetic waves, reflection and refraction, radiating systems, classical electron theory, spherical waves, interference phenomena, and diffraction theory.Prerequisite or Co-requisite: PHY 483/PHY 583 or permission of instructor.
+PHY 467.  Seismology.  (3)
+Active learning course on seismology covering theory and application. Topics will include elastic wave propagation, reflection/refraction seismology, waveform modeling, tomography plate kinematics, and time series analysis. Applications will focus on earthquakes and large-scale tectonics.Prerequisites: MTH 151 or MTH 153; PHY 161 or PHY 162 or PHY 191 PHY 192; or consent of instructor.Cross-listed with GLG.
+PHY 471/PHY 571.  Advanced Electronics.  (3)
+Applications of solid state electronic devices and circuits. Includes laboratory experience with discrete devices, integrated circuits, and transducers, and their application to measurements in research situations.Prerequisite: PHY 281, PHY 292, PHY 294.
+PHY 477.  Independent Studies.  (0-6)
+PHY 480.  Departmental Honors.  (1-6; maximum 6)
+Departmental honors may be taken for a minimum of four semester hours and a maximum total of six semester hours, in one or more semesters of the student's senior year.
+PHY 481/PHY 581.  Gravitation and Spacetime.  (3)
+Beginning with the Lorentz invariance of Maxwell's equations, a relativistic theory of motion is described for inertial reference frames. This forms a framework for discussing Einstein's theory of gravitation.Prerequisite: PHY 483/PHY 583 or instructor permission.
+PHY 483/PHY 583.  Mathematical Methods in Physics.  (4)
+Discusses mathematical methods applicable to classical mechanics, quantum mechanics, and electromagnetism. Develops problem-solving skills by applying material from introductory math and physics classes along with new mathematical techniques. Allows for modeling of systems at a deeper level. Emphasizes the use of mathematics to model physical systems and methods of solutions to the differential equations of physics.Prerequisite: PHY 281; MTH 222, MTH 252.
+PHY 486/PHY 586.  Advanced Computational Physics.  (3)
+Develops computational skills necessary to apply mathematics and physics to the investigation and solution of non-analytic problems of physical interest. Topics will include, but are not limited to, celestial mechanics, fluid mechanics, and quantum mechanics. The physical basis of these topics can often be understood at the undergraduate level, but require sophisticated computational methods for their actual solution. This course will develop and apply those methods.Prerequisite: PHY 286 and PHY 483/PHY 583.
+PHY 488A.  Research Capstone in Physics.  (3)
+Research experience in physics.
+PHY 488B.  Research Capstone in Physics.  (3)
+Research experience in physics.
+PHY 491/PHY 591.  Introduction to Quantum Mechanics I.  (4)
+Introduction to the quantum theory and its application to physical systems. Pre- or co-requisite: PHY 483/PHY 583, or permission of instructor.Prerequisite: PHY 281.
+PHY 610.  Research.  (1-10; maximum 10)
+Independent research projects in theoretical or experimental physics.
+PHY 620.  Topics in Modern Physics.  (1-4; maximum 10)
+Study of various topics of interest in physics not covered in formal course offerings.Prerequisite: Permission of instructor.
+PHY 623.  Solid State Physics.  (3)
+Introduction to advanced concepts of solid state physics. Discussions center on the motion of electrons in more or less periodic structures, and the resulting properties. Topics include phonons, semiconductors, magnetism, supderconductors, and nuclear methods.Prerequisite: PHY 691 or permission of instructor.
+PHY 642.  Advanced Kinetic Theory and Statistical Mechanics.  (4)
+Transport theory of gases; Chapman-Enskog development. Classical and quantum statistical mechanics with applications to many-particle systems.
+PHY 651.  Quantum and Nonlinear Optics.  (3)
+The basics of electromagnetic interactions with matter are covered, including quantum and semiclassical theories of the laser, cavity quantum-electrodynamics, hamonic generation and down-conversion, the cooling and trapping of atoms, and quantum information theory.Prerequisite: PHY 691 or instructor permission.
+PHY 671.  Electromagnetism.  (4)
+Electromagnetic theory and applications.Prerequisite: PHY 461/PHY 561 or permission of instructor.
+PHY 677.  Independent Studies.  (0-6)
+PHY 691.  Modern Quantum Physics.  (4)
+Fundamental concepts of quantum mechanics and the mathematical techniques of Schrodinger and Heisenberg. Computer solution of quantum mechanical problems.Prerequisite: PHY 491/PHY 591 or permission of instructor.
+PHY 692.  Modern Quantum Physics.  (4)
+Fundamental concepts of quantum mechanics and the mathematical techniques of Schrodinger and Heisenberg. Computer solution of quantum mechanical problems.Prerequisite: PHY 691.
+PHY 700.  Research for Master's Thesis.  (1-12; maximum 12)
+			© 2020-2021 Miami University. All rights reserved.
+Privacy Statement
+Family Consumer Information
+Accessibility Needs
+Report a Problem With This Website
+Annual Security and Fire Safety Report
+Employment
+Back to Top
+		Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Cancel
