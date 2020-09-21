@@ -25,3 +25,4 @@ for line in text:
         if re.search(r"/", origin[order]) is not None:
             origin[order] = origin[order][:3]
     print(origin)
+    print(origin)
