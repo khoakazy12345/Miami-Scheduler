@@ -1,0 +1,77 @@
+body
+{
+    font-family: 'Franklin Gothic Medium';
+    background-image:linear-gradient(to bottom,rgba(0,0,0,.5),rgba(0,0,0,.5)),url(nice.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:98vh;
+
+}
+.miamiLogo
+{
+    height:100px;
+    width:100px;
+    float:left;
+    margin-top: 5px;
+}
+.search
+{
+    background-color: rgba(0,0,0,.3);
+    padding: 5px 20px;
+    font-weight:bold;
+    margin-top: 20px;
+    margin-left:20px;
+    color:grey;
+}
+.button
+{
+    background-color: rgba(0,0,0,.1);
+    padding: 5px 20px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.button:hover
+{
+    border-style:solid;
+    border-color: grey;
+    border-width: 2px;
+}
+.topNav
+{
+    margin-top:20px;
+    float:right;
+    color: white;
+}
+.topNav li
+{
+    display: inline-block;
+    text-decoration: none;
+    padding:5px 20px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+}
+
+.topNav li:hover
+{
+    border:1px solid black; 
+}
+
+.circle
+{
+    background-color:rgba(255, 92, 92, 0.616);
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    display:grid;
+    place-items:center;
+    border-style:solid;
+    border-width: thick;
+    border-color:black;
+    margin: auto;
+}
+
+.nodeList
+{
+    list-style:none;
+}
