@@ -1,10 +1,10 @@
 Prerequisite: CHM 141
 Prerequisite: PHY 191
 Prerequisite: CPB 102 (or CEC/CSE/ECE/MME 102), CHM 142 and PHY 191
-Prerequisites: MTH 251 and CPB 204 (grade of C or better on CPB 204 only)        
+Prerequisites: MTH 251 and CPB 204 (grade of C or better on CPB 204 only)
 Prerequisites: MTH 251, and a grade of C or better in PHY 191
 Prerequisites: CHM 141 or equivalent, MTH 151 or equivalent
-Prerequisite: CPB 201 and one of the following: CHM 231 or CHM 241 or CHM 251    
+Prerequisite: CPB 201 and one of the following: CHM 231 or CHM 241 or CHM 251
 Prerequisites: PHY 191 and grade of C or better in CPB 204
 Prerequisite: PHY 191, and either CPB 219 or MME 211, or permission of instructor
 Prerequisite: MME 211 or CPB 204 or CPB 219
@@ -18,7 +18,7 @@ Prerequisites: CPB 201 and CPB 202 and (CPB/MME 403/MME 503 or CPB 414/CPB 514 o
 Prerequisite: CPB 244 or a grade of C or better in CPB 204
 Prerequisite: CPB/MME 314
 Prerequisites: CPB 205; CPB 318 (or CPB/MME 313 and CPB/MME 403/MME 503)
-Prerequisites: CPB/MME 313 or CPB 318 or CPB 418/CPB `518, CPB/MME 314; MTH 245 and a grade of C or better in CPB 204
+Prerequisites: CPB/MME 313 or CPB 318 or CPB 418/CPB 518, CPB/MME 314; MTH 245 and a grade of C or better in CPB 204
 Prerequisites: MTH 245; (BIO 203 or CHM 332 or 432); (CPB 414/CPB 514 or CPB 415/CPB 515 or CPB 318 or CPB 418/CPB 518)
 Prerequisites: MTH 245, (CPB 414/CPB 514 or CPB 318 or CPB 418/CPB 518)
 Prerequisites: MME/CPB 314; MTH 245; PHY 191 and CPB 219 or MME 211

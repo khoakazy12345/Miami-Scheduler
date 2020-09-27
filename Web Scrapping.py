@@ -15,7 +15,7 @@ for link in soup.find_all('a'):
     course_code_list.extend(course_code)
 # There was one exception of PDF in the list, so I have to omit it
 course_code_list = course_code_list[0:len(course_code_list)-1]
-print(soup.get_text())
+print(course_code_list)
 
 
 

@@ -1,0 +1,2 @@
+Prerequisite: CMS 201 or FST 201
+Prerequisite: CMS 301

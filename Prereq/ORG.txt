@@ -1,0 +1,3 @@
+Prerequisite: SOC 153
+Prerequisite: SOC 153 or PSY 111
+Prerequisite: Senior standing

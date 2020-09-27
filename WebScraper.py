@@ -1,5 +1,3 @@
-#Course Of Instruction Web Scrapping
-
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import unicodedata
@@ -23,47 +21,8 @@ for course in course_code_list:
     course_soup = BeautifulSoup(html, "html.parser")
     new_str = unicodedata.normalize("NFKD", course_soup.get_text())
     text = "\n".join([ll.rstrip() for ll in new_str.splitlines() if ll.strip()])
-    course_file = open(course + ".txt", "w", encoding="utf-8")
-    course_file.write(text)
+print(course_code_list)
 
 
 
 
-class Course:
-    def __init__(self,dept,number,desc,hours):
-        self.dept = dept
-        self.number = number
-        self.desc = desc
-        self.hours = hours
-
-    #Set new dept
-    def setDept(self,dept):
-        self.dept = dept
-
-    #Get the department
-    def getDept(self):
-        return self.dept
-
-    # Set new dept
-    def setNumber(self, number):
-        self.number = number
-
-    # Get the department
-    def getNumber(self):
-        return self.number
-
-    # Set new dept
-    def setDesc(self, desc):
-        self.desc = desc
-
-    # Get the department
-    def getDesc(self):
-        return self.desc
-
-    # Set new dept
-    def setHours(self, hours):
-        self.hours = hours
-
-    # Get the department
-    def getHours(self):
-        return self.hours

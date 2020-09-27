@@ -1,0 +1,4 @@
+Prerequisite: GHS 101
+Prerequisite: GHS 101
+Prerequisite: GHS 101 and completion of the GH methods requirement
+Prerequisites: GHS 101 and GHS 301

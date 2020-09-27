@@ -1,0 +1,5 @@
+Prerequisite: ITS 201
+Prerequisite: ITS 201
+Prerequisites: ECO 201 and ECO 202
+Prerequisite: ITS 201, ITS 202
+Prerequisite: international studies major with senior standing or permission of instructor

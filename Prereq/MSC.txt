@@ -1,0 +1,1 @@
+Prerequisites: MSC 121, MSC 121L

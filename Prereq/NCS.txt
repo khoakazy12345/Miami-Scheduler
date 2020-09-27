@@ -1,0 +1,3 @@
+Prerequisite: NCS 202
+Prerequisite: NCS 301
+Prerequisite: 96 hours registered or earned (senior standing)

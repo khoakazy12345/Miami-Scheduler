@@ -1,0 +1,57 @@
+Prerequisite: ACT Math score of 19 or higher, OR SAT Math Score of 510 or higher, or permission of instructor
+Prerequisite: ACT Math score of 22 or higher, or SAT Math score of 520 or higher, or score of at least 8 on the Miami International Math Placement Test
+Prerequisite: CSE 274
+Prerequisites: CSE 201, CSE 274 and MTH 231
+Prerequisite: CSE 271
+Prerequisite: high school algebra and trigonometry
+Prerequisite: CSE 153 or CSE 163 or CSE 174
+Prerequisites: ENG 111 and a minimum of 20 credit hours earned
+Prerequisite: permission of instructor
+Prerequisite: CSE 174 with a grade of C- or better or equivalent
+Prerequisite: MTH 251 or equivalent
+Prerequisites: C- or higher in CSE 271
+Prerequisite: CSE 271, and CSE 102 (or ECE/MME/CPB/CEC 102)
+Prerequisite: CSE 271
+Prerequisite: CSE 201
+Prerequisite: CSE 201
+Prerequisite: CSE 201
+Prerequisite: STA 301 or STA 368
+Prerequisites: CSE 274 and MTH 231
+Prerequisite: CSE 278
+Prerequisite: CSE 278
+Prerequisites: MTH 151, and (CSE 274 or CSE 278)
+Prerequisites: CSE 287 or CSE 386
+Prerequisites: CSE 311 or permission of instructor for graduate course
+Prerequisite: CSE 274
+Prerequisite: CSE 381
+Prerequisites: CSE 201 and CSE 274 and senior standing in student's major
+Prerequisite: CSE 448
+Prerequisites: CSE 383
+Prerequisites: (BIO/CSE/MBI 256 or CSE 174) and (BIO/MBI 116 or MBI 201 or BIO 342) or permission of instructor
+)Prerequisite: MTH 231 or discrete math and CSE 274 or equivalent
+Prerequisite: CSE 274 or equivalent
+Prerequisites: BIO 256; or CSE 174; or permission of instructor
+Prerequisite: CSE 383
+Prerequisite: permission of instructor
+Prerequisites: CSE 174 or equivalent; and STA 368 or 401
+Prerequisite: CSE 274 or equivalent and MTH 231 or discrete math
+Prerequisite: CSE 274 or equivalent
+Prerequisites: MTH 231, CSE 201, and CSE 274
+Prerequisite: permission of department chair prior to registration
+Prerequisite: CSE 374
+Prerequisite: CSE 385 or equivalent and MTH 231
+Prerequisite: CSE 274 or equivalent and MTH 231
+Prerequisites: CSE 274 and (MTH 231 or MTH 331)
+Prerequisites: CSE 287 or CSE 386
+Prerequisites: Permission of instructor and approval of department chair
+Prerequisite: CSE 386, for 587: graduate standing or permission of instructor
+Prerequisite: permission of instructor and department chair
+Recommended prerequisite: a programming course in any language
+Prerequisite: permission of instructor
+Prerequisite: graduate standing
+Prerequisites: credit in calculus, probability, statistics, or permission of instructor
+Prerequisite: permission of instructor
+Prerequisite: permission of instructor
+Prerequisite: CSE 486/CSE 586 or permission of instructor
+Prerequisite: graduate standing or permission of instructor
+Prerequisite: permission of instructor, student's graduate adviser, and graduate director

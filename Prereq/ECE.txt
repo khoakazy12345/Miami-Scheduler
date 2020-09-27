@@ -1,0 +1,40 @@
+Prerequisite: PHY 192 and (MTH 249 or MTH 251)
+Prerequisites: ECE 287 and either CSE 174 or CSE 153
+Prerequisites: PHY 121, 162 or 192 or the instructor's permission
+Prerequisites: ECE 205
+Prerequisites: PHY 192 and MTH 251, or permission of instructor
+Prerequisite: ECE 205
+Prerequisite: ECE 205 and (MTH 245 or MTH 246 or MTH 347)
+Prerequisites: ECE 205 or PHY 292/294
+Prerequisites: ECE 102 or CEC 102 or CPB 102 or CSE 102 or MME 102
+Prerequisite: ECE 205
+Prerequisite: ECE 205
+Prerequisite: MTH 251 or equivalent
+Prerequisites: ECE 102 (or equivalent), CSE 174 and ECE 306
+Prerequisite: ECE 205
+Prerequisites: ECE 287, CSE 153 or CSE 174
+Prerequisites: ECE 289 or CSE 278, ECE 345, and MTH 222 or MTH 246
+Prerequisites: PHY 192 and MTH 251, or permission of instructor
+Prerequisites: ECE 306 and (ECE 345 or STA 301 or STA 261)
+Prerequisites: ECE314 and (MTH 246 or MTH 245 or MTH 347)
+Prerequisite: ECE 306
+Prerequisites: ECE 306, and STA 301 or ECE 345
+Prerequisites: ECE 306, and either STA 301 or ECE 345
+Prerequisite: ECE 425/ECE 525 or ECE 426/ECE 526
+Prerequisite: ECE 325
+Prerequisites: ECE 205 and (MTH 245 or MTH 246 or MTH 347)
+Prerequisite: ECE 306 or MME 312 or MME 314 and senior standing in student's major
+Prerequisite: senior standing in student's major and (MME 448 or ECE 448)
+Prerequisite: ECE 306 and ECE 345 or STA 301; or permission of the instructor
+Prerequisites: ECE 345 or STA 301; or permission of instructor
+Prerequisite: Permission of instructor
+Prerequisites: ECE 287, CSE 174, ECE 314
+Prerequisite: CSE 274 or ECE 289, or equivalent
+Prerequisite: ECE 301 or ECE 303 or MME 303
+Prerequisite: (ECE 301 or ECE/MME 303) and (ECE 304 or (PHY 292 and PHY 294))
+Prerequisites: ECE 301 or ECE 304, or graduate standing
+Recommended prerequisites include signals and systems, differential equations, and linear algebra
+Prerequisite: ECE 461/ECE 561 or permission of instructor
+Prerequisite: graduate standing and permission of course instructor or coordinator
+Prerequisite: graduate standing and permission of instructor or academic adviser
+Prerequisite: permission of student's graduate advisor

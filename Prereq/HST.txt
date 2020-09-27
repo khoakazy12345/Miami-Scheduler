@@ -1,0 +1,3 @@
+Prerequisite: FST 201 recommended (not required)
+Prerequisites: STA/ISA 125 or STA 261 or STA 301
+Prerequisite: none, but HST 122 recommended

@@ -1,0 +1,4 @@
+Prerequisites: STA/ISA 125 or STA 261 or STA 301
+Prerequisites: 32 credit hours or more
+Prerequisites: CRE 151, GIC 101, SJS 165 or SOC 151
+Prerequisites: GIC 101, SOC 151 or SOC 153, or SOC/SJS 165

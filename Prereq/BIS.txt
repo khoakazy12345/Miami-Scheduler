@@ -1,0 +1,2 @@
+Prerequisite: a grade of C- or better in BIS 201
+Prerequisites: BIS 201 and a grade of C- or better in BIS 301

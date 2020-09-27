@@ -1,0 +1,1 @@
+Prerequisites: STA 301, ECE 345, ISA 205, or STA 261; or equivalent
