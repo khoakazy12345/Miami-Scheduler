@@ -15,7 +15,8 @@ mongoose.connect('mongodb://localhost/MiamiCourses')
 const Schema = mongoose.Schema;
 const preReqCourses = new Schema({
     courseName: String,
-    Prereqs:[String]
+    Prereqs:[String],
+    CoReqs: [String]
 });
 
 const Course = mongoose.model('course',preReqCourses);
@@ -23,15 +24,16 @@ const Course = mongoose.model('course',preReqCourses);
 
 site.get('/courses/:course',async (req,res) =>{
     let course = req.params.course;
-    let boi = await getCourseWithPre(course);
-    res.send(boi);
+    let arrayPre = await getCourseWithPre(course);
+    res.send(arrayPre);
 });
 
 async function getCourseWithPre(course){
     const coursesPreReqs = await Course.find({Prereqs: course});
     console.log(coursesPreReqs);
     return coursesPreReqs;
-} 
+}
+
 site.post('/courses/:course',(req,res) =>{
     let course = res.params.course;
     let courseNum = res.params.courseNum;
