@@ -1,40 +1,63 @@
 <!DOCTYPE html>
 <html>
-  <link rel="stylesheet" href="index.css" />
-  <script src="index.js"></script>
+  <link rel="stylesheet" href="index2.css" />
+  <script src="script.js"></script>
+
   <head>
     <title>Course Tree</title>
   </head>
 
   <body>
     <header>
-      <img src='MiamiLogo.png' class='miamiLogo'>
-      <ul class='topNav'>
-        <li>Option 1</li>
-        <li>Option 2</li>
-        <li>Option 3</li>
-      </ul>
-
-       <input placeholder="Specify Course" name="searchBox" id='courseName' class='search'/>
-      <input
-        type="button"
-        value="Add Node"
-        name="addNode"
-        class='button'
-        onclick="courseToFirst();"
-      />
+      <div class="container">
+        <div class="headbar">
+          <div class="leftSide">
+            <div class="img-wrapper">
+              <img src="assets/miami-logo.png" class="miamiLogo" />
+            </div>
+          </div>
+          <div class="rightSide">
+            <div class="link-wrapper">
+              <a href="index2.html">Home</a>
+            </div>
+            <div class="link-wrapper">
+              <a href="about.html">About</a>
+            </div>
+          </div>
+        </div>
+      </div>
     </header>
-
     <main>
-      
-     
-      <div>
-        <ul class='nodeList'>
-          <li>
-            <div class="circle" onclick='addNode(this);'id='firstCircle'>CSE 122</div>
-          </li>
-        </ul>
-        
+      <div class="courses-wrapper">
+        <div class="course-wrapper">
+          <div class="searchBar-wrapper">
+            <div class="searchBox-wrapper">
+              <input
+                placeholder="Specify Course"
+                name="searchBox"
+                id="courseName"
+                class="search"
+              />
+            </div>
+
+            <div class="button-wrapper">
+              <input
+                type="button"
+                value="Add Node"
+                name="addNode"
+                class="button"
+                onclick="courseToFirst();"
+              />
+            </div>
+          </div>
+          <div class="courseList-wrapper" id='listOfCourses'>
+            <ul>
+              <li>CSE</li>
+              <li>MAT</li>
+              <li>MAG</li>
+            </ul>
+          </div>
+        </div>
       </div>
     </main>
 

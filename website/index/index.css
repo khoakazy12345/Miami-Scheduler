@@ -1,77 +1,113 @@
 body
 {
-    font-family: 'Franklin Gothic Medium';
-    background-image:linear-gradient(to bottom,rgba(0,0,0,.5),rgba(0,0,0,.5)),url(nice.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height:98vh;
+  min-height:100%;
+  background-image: linear-gradient(to bottom,rgba(0,0,0,.5),rgba(0,0,0,.5)),url(nice.jpg);
+  background-size:cover;
+  height:100vh;
+  background-position: center center;
+  background-attachment: fixed;
+  overflow:hidden;
+  margin: 0px;
+  z-index:-1;
+}
+.container
+{
+  display:grid;
+  grid-template-columns:1fr;
+}
+.headbar
+{
+    display:flex;
+    justify-content:space-between;
+    padding:25px;
+}
+.leftSide
+{
+    display:flex;
+}
+.rightSide
+{
+    display:flex;
+}
+.searchBar-wrapper
+{
+    display:flex;
+    margin-left: 20px;
+}
+.headbar > .rightSide > div
+{
+  margin-top:35px;
+  font-size: 1.3em;
+}
 
+.search
+{
+  background-color:rgba(0,0,0,.5);
+  border-style:solid;
+  transition: border-color 0.25s;
+}
+.search:hover{
+  border-color: rgba(211, 204, 204, 0.74);
+}
+
+.button
+{
+  background-color: rgba(221, 52, 52, 0.623)
+}
+
+.link-wrapper
+{
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.5s; 
+  height:33px;
+}
+.link-wrapper a{
+  padding: 20px;
+  text-decoration:none;
+  color:rgba(211, 204, 204, 0.74);
+  transition: color 0.5s;
+}
+
+.link-wrapper:hover
+{
+  border-bottom: 1px solid red;
+}
+
+.link-wrapper a:hover
+{
+   color: white;
 }
 .miamiLogo
 {
-    height:100px;
     width:100px;
-    float:left;
-    margin-top: 5px;
-}
-.search
-{
-    background-color: rgba(0,0,0,.3);
-    padding: 5px 20px;
-    font-weight:bold;
-    margin-top: 20px;
-    margin-left:20px;
-    color:grey;
-}
-.button
-{
-    background-color: rgba(0,0,0,.1);
-    padding: 5px 20px;
-    font-family: 'Roboto', sans-serif;
-    color: white;
-    font-weight: bold;
-}
-.button:hover
-{
-    border-style:solid;
-    border-color: grey;
-    border-width: 2px;
-}
-.topNav
-{
-    margin-top:20px;
-    float:right;
-    color: white;
-}
-.topNav li
-{
-    display: inline-block;
-    text-decoration: none;
-    padding:5px 20px;
-    font-family: 'Roboto',sans-serif;
-    font-size: 16px;
-}
-
-.topNav li:hover
-{
-    border:1px solid black; 
-}
-
-.circle
-{
-    background-color:rgba(255, 92, 92, 0.616);
-    width: 100px;
     height:100px;
-    border-radius: 50%;
-    display:grid;
-    place-items:center;
-    border-style:solid;
-    border-width: thick;
-    border-color:black;
-    margin: auto;
+}
+main
+{
+  display:grid;
+  justify-content:center;
 }
 
-.nodeList
+.course-wrapper
 {
-    list-style:none;
+  width:400px;
+  background-color: rgba(0,0,0,.5);
+  display:grid;
+  grid-template-columns:1fr;
+  grid-template-rows:1fr 200px;
+}
+.searchBar-wrapper
+{
+
+  margin-top: 20px;
+  margin:auto
+}
+.searchBox-wrapper
+{
+  margin-right:10px;
+}
+.courseList-wrapper
+{
+  margin:auto;
+  color: rgba(255, 255, 255, 0.863);
 }
